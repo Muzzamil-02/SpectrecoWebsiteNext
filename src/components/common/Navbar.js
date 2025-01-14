@@ -10,7 +10,7 @@ export default function ResponsiveNavbar() {
   return (
     <Navbar expand="lg"  expanded={expanded} >
       <Container>
-        <Navbar.Brand href="/">
+        <Navbar.Brand href="/home">
           <img src="./images/logo.png" alt="Spectreco Logo" style={{ height: '40px' }} />
         </Navbar.Brand>
         <Navbar.Toggle
@@ -23,21 +23,22 @@ export default function ResponsiveNavbar() {
             <Nav.Link href="/technology">Technology</Nav.Link>
             <Nav.Link href="/advisory">Advisory</Nav.Link>
             <NavDropdown title="Industry" id="industry-nav-dropdown">
-              <NavDropdown.Item href="/industry/option1">Option 1</NavDropdown.Item>
-              <NavDropdown.Item href="/industry/option2">Option 2</NavDropdown.Item>
-              <NavDropdown.Item href="/industry/option3">Option 3</NavDropdown.Item>
-              <NavDropdown.Item href="/industry/option4">Option 4</NavDropdown.Item>
-              <NavDropdown.Item href="/industry/option5">Option 5</NavDropdown.Item>
-              <NavDropdown.Item href="/industry/option6">Option 6</NavDropdown.Item>
-              <NavDropdown.Item href="/industry/option7">Option 7</NavDropdown.Item>
-              <NavDropdown.Item href="/industry/option8">Option 8</NavDropdown.Item>
+              <NavDropdown.Item href="/industry/agriculture">Agriculture</NavDropdown.Item>
+              <NavDropdown.Item href="/industry/built-environment">Built Environment</NavDropdown.Item>
+              <NavDropdown.Item href="/industry/capital-markets">Capital Markets</NavDropdown.Item>
+              <NavDropdown.Item href="/industry/energy">Energy</NavDropdown.Item>
+              <NavDropdown.Item href="/industry/financial-institutions">Financial Institutions</NavDropdown.Item>
+              <NavDropdown.Item href="/industry/hospitality">Hospitality</NavDropdown.Item>
+              <NavDropdown.Item href="/industry/insurance">Insurance</NavDropdown.Item>
+              <NavDropdown.Item href="/industry/real-estate">Real Estate</NavDropdown.Item>
+              <NavDropdown.Item href="/industry/transportation">Transportatiion</NavDropdown.Item>
             </NavDropdown>
             <NavDropdown title="Resources" id="resources-nav-dropdown">
-              <NavDropdown.Item href="/resources/option1">Option 1</NavDropdown.Item>
-              <NavDropdown.Item href="/resources/option2">Option 2</NavDropdown.Item>
-              <NavDropdown.Item href="/resources/option3">Option 3</NavDropdown.Item>
+              <NavDropdown.Item href="/resources/events-webinar">Events Webinar</NavDropdown.Item>
+              <NavDropdown.Item href="/resources/insights">Insights</NavDropdown.Item>
+              <NavDropdown.Item href="/resources/research">Research</NavDropdown.Item>
             </NavDropdown>
-            <Nav.Link href="/contact">Contact Us</Nav.Link>
+            <Nav.Link href="/contactus">Contact Us</Nav.Link>
             <NavDropdown title="Language" id="language-nav-dropdown">
               <NavDropdown.Item href="/language/option1">Option 1</NavDropdown.Item>
               <NavDropdown.Item href="/language/option2">Option 2</NavDropdown.Item>
