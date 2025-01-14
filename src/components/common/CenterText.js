@@ -1,22 +1,48 @@
 import React from 'react';
-import { Container, Row, Col } from 'react-bootstrap';
+import { Container, Row, Col, Button } from 'react-bootstrap';
+import Image from 'next/image';
 import './Maincss.css';
 
-const CenterText = ({ isContainer }) => {
+const CenterText = ({ isContainer ,heading,description,imageUrl}) => {
     const content = (
         <Row>
           <Col>
-            <h3 className="offering-header">OUR OFFERINGS</h3>
-            <h1 className="main-heading">Optimize and Elevate Your ESG Performance</h1>
-            <p className="description">
-              Maximize your ESG impact with Spectreco’s comprehensive technology platform & consulting services, meticulously designed to propel your
-              sustainability journey forward. Our innovative approach optimizes your built environment, simplifies the transition journey, and ensures compliance
-              across multi-jurisdictions. With real-time insights, we empower you to navigate the complexities of ESG effortlessly, reduce costs, and drive substantial
-              progress toward a more sustainable future. Harnessing real-time insights in our Sustainability Services enables impactful decision-making and optimized
-              resource allocation for maximum ROI. Partner with Spectreco to confidently achieve your Net Zero targets while safeguarding profitability and enhancing
-              long-term value creation in today’s complex regulatory landscape.
+           
+            <h1 style={{textAlign:"center"}}>{heading}</h1>
+            <p style={{textAlign:"center"}}>
+             {description}
             </p>
-            <img src="./images/hero-2.png" alt="ESG Dashboard"  style={{width:"100%"}}/>
+            <div style={{
+                      position: 'relative',
+                      width: '80%',
+                      height: '500px',
+                    
+                      borderRadius: '10px',
+                      
+                   
+                    }}>
+                      <Image 
+                        src={imageUrl} 
+                        alt="Industry Transition" 
+                        layout="fill" 
+                        objectFit="contain"
+                      />
+                    </div>
+                    <p style={{ marginTop: '20px',textAlign:"center" }}>It only takes a few clicks to get started.</p>
+                    <div style={{ display: 'flex', justifyContent: 'center', marginTop: '15px' }}>
+          <Button 
+            style={{ 
+              backgroundColor: '#ff1e42', 
+              border: 'none', 
+              padding: '10px 30px', 
+              fontSize: '16px', 
+              fontWeight: '600' 
+            }}
+          >
+            Get started – it’s free
+          </Button>
+        </div>
+        <p style={{ marginTop: '10px', color: '#666',textAlign:"center" }}>Free for 60 days, no credit card required</p>
           </Col>
         </Row>
       );

@@ -1,9 +1,19 @@
-import React from 'react'
-import './Maincss.css'
+import React from 'react';
+import './Maincss.css';
+import { Container } from 'react-bootstrap';
+
 const StartConversation = () => {
   return (
-    <div className='padingtopbottom'><img src='./images/start-1.png' style={{maxWidth:"80%"}}/></div>
-  )
-}
+    <Container>
+      <div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center'}}>
+        <img 
+          src='/images/start-1.png' 
+          alt="Start a Conversation" 
+          style={{ maxWidth: "80%", verticalAlign: "middle" }} 
+        />
+      </div>
+    </Container>
+  );
+};
 
-export default StartConversation
+export default StartConversation;
