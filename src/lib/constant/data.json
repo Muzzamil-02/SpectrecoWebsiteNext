@@ -411,8 +411,8 @@
         "imageUrl":"/images/industryCta.png"
     },
     "section9":{
-        "heading":"Optimize and Elevate Your ESG Performance",
-        "description":"Maximize your ESG impact with Spectreco’s comprehensive technology platform & consulting services, meticulously designed to propel your sustainability journey forward. Our innovative approach optimizes your built environment, simplifies the transition journey, and ensures compliance across multi-jurisdictions. With real-time insights, we empower you to navigate the complexities of ESG effortlessly, reduce costs, and drive substantial progress toward a more sustainable future. Harnessing real-time insights in our Sustainability Services enables impactful decision-making and optimized resource allocation for maximum ROI. Partner with Spectreco to confidently achieve your Net Zero targets while safeguarding profitability and enhancing long-term value creation in today’s complex regulatory landscape",
+        "heading":"Revolutionizing ESG Management with AI-Driven Platform",
+        "description":"Experience the future of infrastructure development and built environment sustainability with our cloud-native, AI-driven ESG platform tailored for the industry. From advanced reporting to tailored interventions, our recommendation engine maximizes environmental impact and financial performance.",
         "imageUrl": "/images/hero-2.png"
     },
     "section10":{
@@ -427,6 +427,42 @@
         "description1": "At Spectreco, our sustainability approach intertwines environmental stewardship, social responsibility, and economic prosperity. We strive to deliver sustainable solutions that deliver value to our clients while placing paramount importance on safeguarding the planet and promoting social equity.",
         "description2": "Collaborating with us in the built infrastructure sector empowers stakeholders to capitalize on new avenues, implement sustainable solutions, adeptly manage risks, and emerge as trailblazers in sustainable advancement.",
         "imageUrl": "/images/industrybinfra.png"
+    },
+    "keyskaeholderslider":{
+       "components":[
+        {
+            "title": "Governemnt Agencies",
+            "description": " Showcasing sustainability credentials to investors to secure funding for infrastructure projects.",
+            "logoURL": "../images/Driving-Value/icon1.svg"
+          },
+          {
+            "title": "Price Premium",
+            "description": " Commanding premium prices for sustainable infrastructure projects by highlighting long-term value and societal benefits.",
+            "logoURL": "../images/Driving-Value/icon1.svg"
+          },
+          {
+            "title": "Expedited Sales",
+            "description": " Facilitating faster sales of infrastructure assets through streamlined processes and sustainability-focused marketing.",
+            "logoURL": "../images/Driving-Value/icon1.svg"
+          },
+          {
+            "title": "Increased Occupancy",
+            "description": " Attracting environmentally conscious tenants and residents by promoting sustainable features and amenities.",
+            "logoURL": "../images/Driving-Value/icon1.svg"
+          },
+          {
+            "title": "Risk Mitigation",
+            "description": " Minimizing project risks by integrating sustainable practices, thereby enhancing project resilience and longevity.",
+            "logoURL": "../images/Driving-Value/icon1.svg"
+          },
+          {
+            "title": "Improved Rental Yields",
+            "description": " Enhancing rental yields through energy efficiency improvements and operational cost savings.",
+            "logoURL": "../images/Driving-Value/icon1.svg"
+          }
+
+       ]
+
     }
     
   }}

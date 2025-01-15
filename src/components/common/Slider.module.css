@@ -1,0 +1,56 @@
+.embla {
+    overflow: hidden;
+    width: 100%;
+    padding: 40px 0;
+    background-color: #f2f2f2;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .embla__viewport {
+    overflow: hidden;
+    width: 80%;
+  }
+  
+  .embla__container {
+    display: flex;
+    gap: 20px;
+  }
+  
+  .embla__slide {
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    min-width: 300px;
+    max-width: 300px;
+    text-align: left;
+  }
+  
+  .slideTitle {
+    color: #e63946;
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .slideDescription {
+    color: #333;
+    font-size: 14px;
+    line-height: 1.6;
+  }
+  
+  .embla__button {
+    cursor: pointer;
+    background: none;
+    border: none;
+    font-size: 24px;
+    margin: 0 10px;
+    color: #555;
+    transition: color 0.3s ease;
+  }
+  
+  .embla__button:hover {
+    color: #000;
+  }
+  

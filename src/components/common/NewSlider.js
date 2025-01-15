@@ -1,11 +1,12 @@
+"use client"
 import { Swiper, SwiperSlide } from 'swiper/react';
 import 'swiper/css';
 import 'swiper/css/navigation';
-import { Navigation } from 'swiper/modules';
+import { Navigation } from 'swiper';
 import "./Maincss.css"
 
 
-const Slider = () => {
+const Slider = ({components}) => {
     const cardsData = [
         {
           title: "Government Agencies",
@@ -40,10 +41,11 @@ const Slider = () => {
           description: "Measure, Track, Report & Benchmark Scope 1, 2 & 3 emissions.",
         },
       ];
+      console.log("title",components)
 
       return (
         <div style={{ padding: "20px", backgroundColor: "#f9f9f9", borderRadius: "10px",marginTop:"40px",marginBottom:"40px" }}>
-      <h2 style={{padding:"20px"}}>Key <span style={{color: "#bc1823"}}>Stakeholders</span> in the Built Environment Landscape</h2>
+      <h2 style={{padding:"20px",textAlign:"center"}}>Key <span style={{color: "#bc1823"}}>Stakeholders</span> in the Built Environment Landscape</h2>
       <Swiper
         navigation={true}
         modules={[Navigation]}
@@ -51,18 +53,18 @@ const Slider = () => {
         breakpoints={{
           320: { slidesPerView: 1, spaceBetween: 20 }, // For small screens
           640: { slidesPerView: 2, spaceBetween: 20 }, // For tablets
-          1024: { slidesPerView: 3, spaceBetween: 30 }, // For laptops
-          1440: { slidesPerView: 4, spaceBetween: 40 }, // For larger screens
+          1024: { slidesPerView: 4, spaceBetween: 30 }, // For laptops
+          1440: { slidesPerView: 4, spaceBetween: 20 }, // For larger screens
         }}
         style={{
             paddingLeft: "50px"
           }}
       >
-        {cardsData.map((card, index) => (
+        {components.map((card, index) => (
           <SwiperSlide key={index} style={{margin:0}}>
             <div
               style={{
-                minHeight: "250px",
+                minHeight: "220px",
                 backgroundColor: "#fff",
                 padding: "25px 15px",
                 borderRadius: "8px",
@@ -77,19 +79,7 @@ const Slider = () => {
           </SwiperSlide>
         ))}
       </Swiper>
-      <button
-        style={{
-          marginTop: "20px",
-          padding: "10px 20px",
-          backgroundColor: "red",
-          color: "white",
-          border: "none",
-          borderRadius: "5px",
-          cursor: "pointer",
-        }}
-      >
-        Learn More
-      </button>
+    
     </div>
       );
 }
