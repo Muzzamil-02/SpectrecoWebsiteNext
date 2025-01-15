@@ -85,8 +85,8 @@
 .step-number {
   background-color: #e14d2a;
   color: white;
-  width: 40px;
-  height: 40px;
+  min-width: 40px;
+  min-height: 40px;
   border-radius: 50%;
   display: flex;
   justify-content: center;
@@ -94,6 +94,12 @@
   font-size: 1.5rem;
   font-weight: bold;
   margin-right: 20px;
+}
+
+.step-number:hover {
+    
+  transform: scale(1.1);
+  
 }
 
 .step-text h4 {
@@ -133,6 +139,7 @@
 
 .industries-left, .industries-right {
   display: flex;
+  border-radius: 10px;
   flex-direction: column;
   justify-content: flex-start;
 }
@@ -145,12 +152,15 @@ h3 {
 
 .industries-icons {
   display: flex;
+  
   justify-content: space-between;
-  margin-bottom: 20px;
 }
 
 .industry-icon {
   text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 .industry-icon img {
@@ -191,6 +201,11 @@ h3 {
 /* .service-cards {
   padding: 50px 0;
 } */
+
+.grey-card{
+  background-color: #f5f5f5;
+
+}
 
 .service-card {
   background-color: #f5f5f5;
@@ -327,10 +342,66 @@ margin: 10px;
   align-items: stretch;
   height: 80vh ;
   }
+
+  .textalign-left{
+    text-align: left;
+  }
+  .padingtopbottom
+  {
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+  
+  .marquee{
+    font-size: 95px;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin: 0 20px;
+  }
+  .outline-text {
+    color: transparent;
+    text-transform: uppercase;
+    -webkit-text-stroke: 2px black;
+  }
+  
+  .dot{
+    width: 50px; /* Set the diameter */
+        height: 50px; /* Set the diameter */
+        background-color: #bc1823; /* Fill color */
+        border-radius: 50%; /* Make it circular */
+        display: inline-block; /* Optional: for inline positioning */
+        transform: translate(0, 10%);
+  }
+  .with-border{
+    position: relative; /* Required for pseudo-elements */
+    margin-bottom: 100px;
+  }
+   
+  .with-border::after{
+    content: '';
+    position: absolute;
+    left: 50%; /* Start from the center */
+    bottom: -50px; /* Adjust vertical position (gap) */
+    transform: translateX(-50%); /* Center align the border */
+    width: 90%; /* Total width of the border */
+    height: 1px; /* Thickness of the border */
+    background: linear-gradient(to right, rgba(188, 24, 35, 0.2), #bc1823, rgba(188, 24, 35, 0.2)); /* Blurry edges and solid center with base color */
+    border-radius: 5px; /* Smooth corners for the line */
+  }
+   
 @media (max-width: 768px) {
   .service-card {
     margin-bottom: 20px;
   }
+
+  .industries-icons {
+    display: flex;
+    flex-direction: column;
+    justify-content: center ;
+    align-items: center;
+  }
+
+  
 
   .vertical-line{
     display: none;
@@ -359,50 +430,5 @@ margin: 10px;
   .desc-text{
     padding: 0 20px;
   }
+  
 }
-.textalign-left{
-  text-align: left;
-}
-.padingtopbottom
-{
-  padding-top: 20px;
-  padding-bottom: 20px;
-}
-
-.marquee{
-  font-size: 95px;
-  font-weight: bold;
-  text-transform: uppercase;
-  margin: 0 20px;
-}
-.outline-text {
-  color: transparent;
-  text-transform: uppercase;
-  -webkit-text-stroke: 2px black;
-}
-
-.dot{
-  width: 50px; /* Set the diameter */
-      height: 50px; /* Set the diameter */
-      background-color: #bc1823; /* Fill color */
-      border-radius: 50%; /* Make it circular */
-      display: inline-block; /* Optional: for inline positioning */
-      transform: translate(0, 10%);
-}
-.with-border{
-  position: relative; /* Required for pseudo-elements */
-  margin-bottom: 100px;
-}
- 
-.with-border::after{
-  content: '';
-  position: absolute;
-  left: 50%; /* Start from the center */
-  bottom: -50px; /* Adjust vertical position (gap) */
-  transform: translateX(-50%); /* Center align the border */
-  width: 90%; /* Total width of the border */
-  height: 1px; /* Thickness of the border */
-  background: linear-gradient(to right, rgba(188, 24, 35, 0.2), #bc1823, rgba(188, 24, 35, 0.2)); /* Blurry edges and solid center with base color */
-  border-radius: 5px; /* Smooth corners for the line */
-}
- 
