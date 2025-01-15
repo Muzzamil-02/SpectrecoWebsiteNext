@@ -1,8 +1,8 @@
 {
     "technology": {
         "Section1": {
-            "Heading": "Simplifying your Sustainability Journey With ESG Solutions",
-            "Text": "Delivering Compliance, Superior Financial Returns, Access to Capital and Inter-generational Impact through Technology.",
+            "Heading": "Simplified ESG Reporting - AI-Driven Platform",
+            "Text": "Harness technology for streamlined data management, actionable insights, and measurable progress in sustainability.",
             "buttonText": "Book a session today!",
             "imageSrc": "/images/hero-2.png"
         },
@@ -15,18 +15,23 @@
         "Section3": {
             "tech1": {
                 "imageURL": "/images/tech1.svg",
-                "heading": "Recommendation Engine",
-                "description": "Maximize ESG impact with tailored, industry-specific interventions ensuring simplicity and compliance across all jurisdictions."
+                "heading": "Configurable for Diverse Entities",
+                "description": "Customize our platform for multiple entities, funds, operational sites, and asset classes, ensuring flexibility and precision in your sustainability efforts."
             },
             "tech2": {
                 "imageURL": "/images/tech2.svg",
-                "heading": "Industry Insights",
-                "description": "Unlock ESG strategies with tailored insights and benchmarks, customized to your organization’s size and geographical presence."
+                "heading": "AI-Powered Recommendation Engine",
+                "description": "Leverage our recommendation engine to conduct materiality assessments, set targets, and identify interventions tailored to your unique needs and objectives."
             },
             "tech3": {
                 "imageURL": "/images/tech3.svg",
-                "heading": "Consolidated Reporting",
-                "description": "Track and report with pre-configured templates, ensuring compliance across various regulations, standards, and frameworks."
+                "heading": "Seamless Progress Tracking",
+                "description": "Track your sustainability progress effortlessly with built-in tools for monitoring and evaluating performance against predefined targets and industry benchmarks."
+            },
+            "tech4": {
+                "imageURL": "/images/tech3.svg",
+                "heading": "Comprehensive Reporting",
+                "description": "Generate comprehensive sustainability reports, compliance documentation, and forecasts with our intuitive dashboard and reporting features."
             }
         },
         "Section4": {
