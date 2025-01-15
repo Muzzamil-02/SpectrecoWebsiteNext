@@ -11,7 +11,7 @@ export default function ResponsiveNavbar() {
     <Navbar expand="lg"  expanded={expanded} >
       <Container>
         <Navbar.Brand href="/home">
-          <img src="./images/logo.png" alt="Spectreco Logo" style={{ height: '40px' }} />
+          <img src="/images/logo.png" alt="Spectreco Logo" style={{ height: '40px' }} />
         </Navbar.Brand>
         <Navbar.Toggle
           aria-controls="basic-navbar-nav"

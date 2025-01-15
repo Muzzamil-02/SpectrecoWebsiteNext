@@ -8,7 +8,7 @@ const CenterText = ({ isContainer, data, hasTitle, underlineHeader=true }) => {
           <Col>
             <h3 className='text-center' style={{fontSize: "1.5rem"}}>{hasTitle ? data.title: ""}</h3>
             <h1 className={`${underlineHeader ? "heading-with-border": ""}`} style={ {fontSize:"2.5rem",fontWeight:"400",color:"#000", textAlign: "center", marginBottom: `${underlineHeader ? "": "50px"}` }}>{data.Heading}</h1>
-            <p className="description text-center" style={{padding: "0 60px"}}>
+            <p className="desc-text text-center" >
               {data.Text}
             </p>
           </Col>

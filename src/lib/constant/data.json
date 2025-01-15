@@ -1,24 +1,220 @@
 {
-    "home": {
-        "Section1": {
-            "Heading": "Simplifying your Sustainability Journey With ESG Solutions",
-            "Text": "Delivering Compliance, Superior Financial Returns, Access to Capital and Inter-generational Impact through Technology.",
+    "agriculturepage": {
+        "section1": {
+            "title": "Elevating",
+            "highlightedText": "Infrastructure Development and Built Environment Sustainability",
+            "title2": "with ESG Expertise",
+            "description": "Leverage Spectreco’s expertise in infrastructure development and ESG services for the built environment to drive profitability, ensure compliance across regulations and standards, and simplify complexities across frameworks.",
             "buttonText": "Book a session today!",
-            "imageSrc": "/images/hero-2.png"
+            "imageUrl": "/images/buit-infra1.png"
         },
-        "Section2": {
-            "Heading": "Make your ESG actions count with targeted, tailored Technology Platform & Consulting",
-            "Text": "Navigate the transition effortlessly with Spectreco’s network of global sustainability experts and innovative technology. Our integrated transition solutions empower organizations to tackle ESG considerations, drive climate action, and achieve Net Zero targets. With a focus on built environment and multi-jurisdictional compliance, we address the complexities of sustainability."
+        "section2": {
+            "heading": "Built Environment",
+            "description": "Mastering infrastructure development and built environment sustainability entails a profound grasp of construction methodologies, materials, and regulatory landscapes. This expertise empowers professionals to navigate complexities, ensuring projects are both financially viable and environmentally sustainable. It’s the cornerstone for strategic decision-making and lucrative investment opportunities in the industry. Given that built environment contributes to 40% of emissions globally, we focus on delivering ESG services for built environment, driving sustainability and profitability alike."
         },
-        "Section3": {
-            "Heading": "SUSTAINABILITY FRAMEWORKS &amp; DISCLOSURES",
-            "Text": "From predefined frameworks to customizable options, Spectreco’s AI-Driven platform streamlines sustainability disclosures tailored to your business needs. Access support for crafting audit-ready reports across all regulations, standards, and frameworks, ensuring compliance and meeting shareholders’ and stakeholders’ demands seamlessly.",
-            "imageSrc": "/images/esgcompanies.png"
+        "section3": {
+            "imageUrl": "/images/built-cta-2048x484.jpg"
         },
-        "Section4": {
-            "title": "Our Offerings",
-            "Heading": "Optimize and Elevate Your ESG Performance",
-            "Text": "Maximize your ESG impact with Spectreco’s comprehensive technology platform & consulting services, meticulously designed to propel your sustainability journey forward. Our innovative approach optimizes your built environment, simplifies the transition journey, and ensures compliance across multi-jurisdictions. With real-time insights, we empower you to navigate the complexities of ESG effortlessly, reduce costs, and drive substantial progress toward a more sustainable future. Harnessing real-time insights in our Sustainability Services enables impactful decision-making and optimized resource allocation for maximum ROI. Partner with Spectreco to confidently achieve your Net Zero targets while safeguarding profitability and enhancing long-term value creation in today’s complex regulatory landscape."
+        "section4": {
+            "heading": "Built Environment",
+            "components": [
+                {
+                    "title": "TRANSPORTATION NETWORKS",
+                    "imageUrl": "/images/transportationicon.png"
+                },
+                {
+                    "title": "UTILITIES INFRASTRUCTURE",
+                    "imageUrl": "/images/utilitiesicon.png"
+                },
+                {
+                    "title": "PUBLIC INFRASTRUCTURE",
+                    "imageUrl": "/images/publicicon.png"
+                },
+                {
+                    "title": "SOCIAL INFRASTRUCTURE",
+                    "imageUrl": "/images/socialicon.png"
+                },
+                {
+                    "title": "NATURAL INFRASTRUCTURE",
+                    "imageUrl": "/images/naturalicon.png"
+                },
+                {
+                    "title": "DIGITAL INFRASTRUCTURE",
+                    "imageUrl": "/images/digitalicon.png"
+                }
+            ]
+        },
+        "section5": {
+            "component": [
+                {
+                    "   title": "Planning and Development",
+                    "content": [
+                        {
+                            "subtitle": "Environmental Assessment:",
+                            "description": " Conduct comprehensive environmental impact assessments to identify potential ecological risks and opportunities."
+                        },
+                        {
+                            "subtitle": "Sustainable Site Selection:",
+                            "description": " Prioritize sustainable site selection as part of ESG services for built environment sustainability by considering factors such as biodiversity, land use, and community impact."
+                        },
+                        {
+                            "subtitle": "Stakeholder Engagement:",
+                            "description": "Engage with stakeholders, including local communities and environmental groups, to gather input and address concerns."
+                        },
+                        {
+                            "subtitle": "Sustainable Design Integration:",
+                            "description": " Integrate sustainable design principles from the outset to minimize the project’s environmental footprint and enhance long-term resilience."
+                        }
+                    ],
+                    "imageURL": "/images/phases1.jpg"
+                },
+                {
+                    "   title": "Funding and Asset Management",
+                    "content": [
+                        {
+                            "subtitle": "Sustainability Integration:",
+                            "description": "  Incorporate sustainability criteria into investment decision-making processes to evaluate environmental, social, and governance (ESG) risks and opportunities."
+                        },
+                        {
+                            "subtitle": "Asset Resilience Assessment:",
+                            "description": " Assess the long-term sustainability performance and resilience of infrastructure assets to mitigate risks and enhance value creation."
+                        },
+                        {
+                            "subtitle": "Sustainable Investment Criteria:",
+                            "description": " Engage with investors and stakeholders to highlight ESG services for built environment projects, emphasizing sustainability benefits and attracting capital for infrastructure development."
+                        },
+                        {
+                            "subtitle": "Sustainable Asset Management",
+                            "description": " Implement sustainable asset management practices, such as energy-efficient retrofits and life cycle assessments, to optimize asset performance and minimize environmental impact over time."
+                        }
+                    ],
+                    "imageURL": "/images/phases2.jpg"
+                },
+                {
+                    "   title": "Construction",
+                    "content": [
+                        {
+                            "subtitle": "Eco-friendly Materials:",
+                            "description": " Procure eco-friendly building materials sourced from renewable or recycled sources to reduce embodied carbon and environmental impact."
+                        },
+                        {
+                            "subtitle": "Waste Management:",
+                            "description": " Implement waste management strategies, such as material reuse and recycling, to minimize construction waste and landfill disposal."
+                        },
+                        {
+                            "subtitle": "Green Building Standards:",
+                            "description": " Adhere to green building standards and certifications, such as LEED or BREEAM, as part of built environment sustainability practices to ensure high performance and sustainability throughout the construction process."
+                        },
+                        {
+                            "subtitle": "Sustainable Construction Practices:",
+                            "description": " Employ sustainable construction practices, including energy-efficient building techniques and water-saving measures, to optimize resource use and minimize environmental impact on-site."
+                        }
+                    ],
+                    "imageURL": "/images/phases3.jpg"
+                },
+                {
+                    "   title": "Sales and Leasing",
+                    "content": [
+                        {
+                            "subtitle": "ESG Marketing Strategies:",
+                            "description": " Develop ESG marketing strategies as part of ESG services for built environment projects to highlight sustainability features and benefits, attracting environmentally conscious tenants and buyers."
+                        },
+                        {
+                            "subtitle": "Energy-efficient Installations:",
+                            "description": " Showcase energy-efficient installations, such as renewable energy systems and smart building technologies, to enhance property value and appeal to sustainability-minded occupants."
+                        },
+                        {
+                            "subtitle": "Sustainable Incentives:",
+                            "description": " Provide incentives for sustainable practices, such as green leases or eco-friendly amenities, to encourage tenants and buyers to adopt environmentally responsible behaviors.Occupant Engagement: Engage with tenants and residents to promote sustainable living practices and foster a culture of environmental stewardship within the community."
+                        },
+                        {
+                            "subtitle": "Occupant Engagement:",
+                            "description": " Engage with tenants and residents to promote sustainable living practices and foster a culture of environmental stewardship within the community."
+                        }
+                    ],
+                    "imageURL": "/images/phases4.jpg"
+                },
+                {
+                    "   title": "Operations and Management",
+                    "content": [
+                        {
+                            "subtitle": "Energy Management Systems:",
+                            "description": " Install advanced energy management systems, including smart meters and building automation systems, to monitor and optimize energy consumption in real time."
+                        },
+                        {
+                            "subtitle": "Water-saving Technologies:",
+                            "description": " Implement water-saving technologies, such as low-flow fixtures and rainwater harvesting systems, to reduce water usage and promote water conservation."
+                        },
+                        {
+                            "subtitle": "Occupant Education:",
+                            "description": " Educate building occupants about sustainable practices, such as energy conservation and waste reduction, through outreach programs and educational initiatives."
+                        },
+                        {
+                            "subtitle": "Sustainability Monitoring:",
+                            "description": " Regularly monitor and report on key sustainability performance indicators for built environment sustainability, such as energy efficiency metrics and waste diversion rates, to track progress and identify areas for improvement."
+                        }
+                    ],
+                    "imageURL": "/images/phases5.jpg"
+                }
+            ]
+        },
+        "section6": {
+            "heading": "Driving Value through ESG",
+            "description": "By integrating ESG principles into infrastructure development and built environment sustainability, stakeholders can reap numerous benefits, enhancing financial performance while advancing broader societal and environmental objectives."
+        },
+        "section7": {
+            "component": [
+                {
+                    "title": "Enhanced Access to Capital",
+                    "description": " Showcasing sustainability credentials to investors to secure funding for infrastructure projects.",
+                    "logoURL": "../images/Driving-Value/icon1.svg"
+                },
+                {
+                    "title": "Price Premium",
+                    "description": " Commanding premium prices for sustainable infrastructure projects by highlighting long-term value and societal benefits.",
+                    "logoURL": "../images/Driving-Value/icon1.svg"
+                },
+                {
+                    "title": "Expedited Sales",
+                    "description": " Facilitating faster sales of infrastructure assets through streamlined processes and sustainability-focused marketing.",
+                    "logoURL": "../images/Driving-Value/icon1.svg"
+                },
+                {
+                    "title": "Increased Occupancy",
+                    "description": " Attracting environmentally conscious tenants and residents by promoting sustainable features and amenities.",
+                    "logoURL": "../images/Driving-Value/icon1.svg"
+                },
+                {
+                    "title": "Risk Mitigation",
+                    "description": " Minimizing project risks by integrating sustainable practices, thereby enhancing project resilience and longevity.",
+                    "logoURL": "../images/Driving-Value/icon1.svg"
+                },
+                {
+                    "title": "Improved Rental Yields",
+                    "description": " Enhancing rental yields through energy efficiency improvements and operational cost savings.",
+                    "logoURL": "../images/Driving-Value/icon1.svg"
+                }
+            ]
+        },
+        "section8": {
+            "imageUrl": "/images/industryCta.png"
+        },
+        "section9": {
+            "heading": "Optimize and Elevate Your ESG Performance",
+            "description": "Maximize your ESG impact with Spectreco’s comprehensive technology platform & consulting services, meticulously designed to propel your sustainability journey forward. Our innovative approach optimizes your built environment, simplifies the transition journey, and ensures compliance across multi-jurisdictions. With real-time insights, we empower you to navigate the complexities of ESG effortlessly, reduce costs, and drive substantial progress toward a more sustainable future. Harnessing real-time insights in our Sustainability Services enables impactful decision-making and optimized resource allocation for maximum ROI. Partner with Spectreco to confidently achieve your Net Zero targets while safeguarding profitability and enhancing long-term value creation in today’s complex regulatory landscape",
+            "imageUrl": "/images/hero-2.png"
+        },
+        "section10": {
+            "heading": "SUSTAINABILITY FRAMEWORKS & DISCLOSURES",
+            "text": "From predefined frameworks to customizable options, Spectreco’s AI-Driven platform streamlines sustainability disclosures tailored to your business needs. Access support for crafting audit-ready reports across all regulations, standards, and frameworks, ensuring compliance and meeting shareholders’ and stakeholders’ demands seamlessly.",
+            "imageUrl": "/images/esgcompanies.png"
+        },
+        "section12": {
+            "heading": "Sustainable Success",
+            "highlightText": "Business Goals",
+            "description1": "At Spectreco, our sustainability approach intertwines environmental stewardship, social responsibility, and economic prosperity. We strive to deliver sustainable solutions that deliver value to our clients while placing paramount importance on safeguarding the planet and promoting social equity.",
+            "description2": "Collaborating with us in the built infrastructure sector empowers stakeholders to capitalize on new avenues, implement sustainable solutions, adeptly manage risks, and emerge as trailblazers in sustainable advancement.",
+            "imageUrl": "/images/industrybinfra.png"
         }
     }
 }

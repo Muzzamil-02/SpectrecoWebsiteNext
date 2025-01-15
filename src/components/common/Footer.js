@@ -7,7 +7,7 @@ export default function Footer() {
       <Container>
         <Row className="mb-4">
           <Col md={4}>
-            <img src="./images/logo.png" alt="Spectreco Logo" style={styles.logo} />
+            <img src="/images/logo.png" alt="Spectreco Logo" style={styles.logo} />
             <p style={styles.tagline}>Empowering your vision with innovative solutions for sustainable growth.</p>
             <Button variant="danger" style={styles.subscribeButton}>Subscribe</Button>
           </Col>
