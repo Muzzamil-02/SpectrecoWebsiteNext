@@ -5,9 +5,9 @@ import './Maincss.css';
 const IndustrySection = ({ isContainer = true, data }) => {
     return (
         <Row className="industry-section align-items-center justify-content-center" style={{minHeight: "60vh"}}>
-          <Col md={4} className="industries-left grey-card" style={{height:"100%", display: "flex", flexDirection:"column", alignItems: "center", justifyContent: "space-around"}}>
-            <h4 style={{fontSize: "1.5rem", fontWeight: "400", color: "#bc1823"}}>Built Environment Industries</h4>
-            <Row className="industries-icons">
+          <Col md={4} className="industries-left grey-card" style={{ minHeight:"60vh", display: "flex", flexDirection:"column", alignItems: "center", justifyContent: "center"}}>
+            <h4 style={{fontSize: "1.5rem", fontWeight: "400", color: "#bc1823", marginBottom: "50px"}}>Built Environment Industries</h4>
+            <Row className="industries-icons" style={{marginBottom: "20px"}}>
               <Col xs={4} className="industry-icon">
                 <img src={data.left.hospitality.imgURL} alt={data.left.hospitality.alt} />
                 <p style={{fontSize: "12px"}}>REAL ESTATE</p>

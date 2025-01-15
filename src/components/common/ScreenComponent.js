@@ -8,7 +8,7 @@ const ScreenComponent = ({ isContainer = true, image = true }) => {
             <div className="step">
               <div className="step-number">1</div>
               <div className="step-text">
-                <h4 style={{textAlign:"left"}}>Set Baseline</h4>
+                <h4 style={{textAlign:"left", fontWeight:"400"}}>Set Baseline</h4>
                 <p>
                   Enter baseline data, define company size, specify industry, and establish your starting point for ESG transition through our consulting service for investors, businesses, and governments.
                 </p>
@@ -18,7 +18,7 @@ const ScreenComponent = ({ isContainer = true, image = true }) => {
             <div className="step">
               <div className="step-number">2</div>
               <div className="step-text">
-                <h4  style={{textAlign:"left"}}>Recommended Interventions</h4>
+                <h4  style={{textAlign:"left" , fontWeight:"400"}}>Recommended Interventions</h4>
                 <p>
                   Our recommendation engine gives tailored interventions, based on industry, region, company size, and more.
                 </p>
@@ -28,7 +28,7 @@ const ScreenComponent = ({ isContainer = true, image = true }) => {
             <div className="step">
               <div className="step-number">3</div>
               <div className="step-text">
-                <h4  style={{textAlign:"left"}}>Measure, Track, Report</h4>
+                <h4  style={{textAlign:"left", fontWeight:"400"}}>Measure, Track, Report</h4>
                 <p>
                   Monitor and report your progress towards ESG goals, assigning tasks across teams and ensuring compliance.
                 </p>

@@ -85,8 +85,8 @@
 .step-number {
   background-color: #e14d2a;
   color: white;
-  width: 40px;
-  height: 40px;
+  min-width: 40px;
+  min-height: 40px;
   border-radius: 50%;
   display: flex;
   justify-content: center;
@@ -94,6 +94,12 @@
   font-size: 1.5rem;
   font-weight: bold;
   margin-right: 20px;
+}
+
+.step-number:hover {
+    
+  transform: scale(1.1);
+  
 }
 
 .step-text h4 {
@@ -394,6 +400,8 @@ margin: 10px;
     justify-content: center ;
     align-items: center;
   }
+
+  
 
   .vertical-line{
     display: none;
