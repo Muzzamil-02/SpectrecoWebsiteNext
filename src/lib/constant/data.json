@@ -429,38 +429,76 @@
         "imageUrl": "/images/industrybinfra.png"
     },
     "keyskaeholderslider":{
+        "heading":"Built Environment",
        "components":[
         {
             "title": "Governemnt Agencies",
-            "description": " Showcasing sustainability credentials to investors to secure funding for infrastructure projects.",
-            "logoURL": "../images/Driving-Value/icon1.svg"
+            "description": " Play a central role in infrastructure development by overseeing planning,funding, and regulation."
           },
           {
-            "title": "Price Premium",
-            "description": " Commanding premium prices for sustainable infrastructure projects by highlighting long-term value and societal benefits.",
-            "logoURL": "../images/Driving-Value/icon1.svg"
+            "title": "Private Sector Contractors",
+            "description": " Consturction, engeering, project management firms involved in designing, building, and maintaing insfrastructure projects."
           },
           {
-            "title": "Expedited Sales",
-            "description": " Facilitating faster sales of infrastructure assets through streamlined processes and sustainability-focused marketing.",
-            "logoURL": "../images/Driving-Value/icon1.svg"
+            "title": "Investors and Financial Institutions",
+            "description": " Provide funding and financing solutions for infrastructure projects, including equity investors, banks, and institutional lenders."
+           
           },
           {
-            "title": "Increased Occupancy",
-            "description": " Attracting environmentally conscious tenants and residents by promoting sustainable features and amenities.",
-            "logoURL": "../images/Driving-Value/icon1.svg"
+            "title": "End Users and Residents",
+            "description": " Benefit directly from infrastructure services and amenities, such as transportation networks, utilities, and public facilities."
+           
           },
           {
-            "title": "Risk Mitigation",
-            "description": " Minimizing project risks by integrating sustainable practices, thereby enhancing project resilience and longevity.",
-            "logoURL": "../images/Driving-Value/icon1.svg"
+            "title": "Community and Enviornmental Groups",
+            "description": " Advocate for sustainable and equitable infrastructure development, considering environment, social inclusion, & community engagement."
+           
           },
           {
-            "title": "Improved Rental Yields",
-            "description": " Enhancing rental yields through energy efficiency improvements and operational cost savings.",
-            "logoURL": "../images/Driving-Value/icon1.svg"
+            "title": "Technology Providers",
+            "description": " Offers solutions for enhancing efficiency, resilience, and sustainability, including digital infrastructure, smart tech, and renewable energy."
+           
           }
+       ]
 
+    },
+    "secondSwiper":{
+        "heading":"Built Environment",
+       "components":[
+        {
+            "title": "Governemnt Agencies",
+            "description": " Play a central role in infrastructure development by overseeing planning,funding, and regulation.",
+                   "imageUrl": "/images/esgcompanies.png"
+          },
+          {
+            "title": "Private Sector Contractors",
+            "description": " Consturction, engeering, project management firms involved in designing, building, and maintaing insfrastructure projects.",
+                     "imageUrl": "/images/esgcompanies.png"
+          },
+          {
+            "title": "Investors and Financial Institutions",
+            "description": " Provide funding and financing solutions for infrastructure projects, including equity investors, banks, and institutional lenders.",
+                     "imageUrl": "/images/esgcompanies.png"
+           
+          },
+          {
+            "title": "End Users and Residents",
+            "description": " Benefit directly from infrastructure services and amenities, such as transportation networks, utilities, and public facilities.",
+                     "imageUrl": "/images/esgcompanies.png"
+           
+          },
+          {
+            "title": "Community and Enviornmental Groups",
+            "description": " Advocate for sustainable and equitable infrastructure development, considering environment, social inclusion, & community engagement.",
+                     "imageUrl": "/images/esgcompanies.png"
+           
+          },
+          {
+            "title": "Technology Providers",
+            "description": " Offers solutions for enhancing efficiency, resilience, and sustainability, including digital infrastructure, smart tech, and renewable energy.",
+                     "imageUrl": "/images/esgcompanies.png"
+           
+          }
        ]
 
     }

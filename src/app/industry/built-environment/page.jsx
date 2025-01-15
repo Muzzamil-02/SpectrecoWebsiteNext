@@ -20,6 +20,7 @@ import SustainableReporting from '@/components/common/SustainableReporting'
 
 // import Slider1 from '@/components/common/slider'
 import Slider from '@/components/common/NewSlider'
+import NewSlider2 from '@/components/common/NewSlider2'
 const page = () => {
   console.log("hello",data.builtinpage.keyskaeholderslider.components)
   return (
@@ -40,6 +41,8 @@ const page = () => {
       components={data.builtinpage.section4.components}
       />
       <Slider components={data.builtinpage.keyskaeholderslider.components}
+      heading={data.builtinpage.keyskaeholderslider.heading}
+      backgound="f9f9f9"
        
       />
    
@@ -50,6 +53,9 @@ const page = () => {
       <DrivingValue cardsData={data.builtinpage.section7.component}/>
      
       <IndustryImage2  imageUrl={data.builtinpage.section8.imageUrl}/>
+      <NewSlider2 components={data.builtinpage.secondSwiper.components}
+      heading={data.builtinpage.secondSwiper.heading}  backgound="white"/>
+     
       
       <CenterText isContainer={true}
         heading={data.builtinpage.section9.heading}
