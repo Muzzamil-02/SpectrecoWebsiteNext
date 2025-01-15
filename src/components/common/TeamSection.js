@@ -1,8 +1,15 @@
+"use client"
 import React from "react";
 import { Container, Row, Col, Card } from "react-bootstrap";
 
 
 const teamData = [
+  {
+    name: "Riaz Siddiqi",
+    title: "Chairman & Partner",
+    image: "/images/Riaz-1.jpg", // Replace with the actual image URL
+    linkedIn: "#", // Replace with the LinkedIn URL
+  },
   {
     name: "Adam Lloyd",
     title: "Chairman & Partner",
