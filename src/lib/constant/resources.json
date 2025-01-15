@@ -1,0 +1,70 @@
+{
+    "resources": {
+        "Section1": {
+            "Heading": "Research & Publications",
+            "Text": "Explore Spectreco’s collection of in-depth reports, whitepapers, and industry insights designed to help you navigate the evolving ESG landscape. Our resources provide valuable knowledge and actionable strategies to enhance your sustainability journey, meet regulatory requirements, and unlock growth opportunities.",
+            "image": "https://spectreco.com/wp-content/uploads/2024/11/Copy-of-The-Transition-of-the-Real-Estate-Sector-2.jpg"
+        },
+        "Section2": [
+            {
+                "title1": "WHITE PAPER",
+                "Heading": "Capital Markets as Catalysts for Net Zero Targets in the Decarbonization Journey of Saudi Arabia",
+                "text1": "",
+                "text2": "This whitepaper explores the pivotal role of capital markets in advancing Saudi Arabia’s decarbonization goals under Vision 2030, highlighting the importance of financial instruments, ESG integration, and regulatory frameworks in supporting the nation’s transition to a net-zero economy by 2060.",
+                "btn": "Read More"
+            },
+            {
+                "title1": "WHITE PAPER",
+                "Heading": "Capital Markets as Catalysts for Net Zero Targets in the Decarbonization Journey of Saudi Arabia",
+                "text1": "Capital Markets and the London Stock Exchange Group as Catalysts for Net Zero Targets",
+                "text2": "This whitepaper explores the pivotal role of capital markets in advancing Saudi Arabia’s decarbonization goals under Vision 2030, highlighting the importance of financial instruments, ESG integration, and regulatory frameworks in supporting the nation’s transition to a net-zero economy by 2060.",
+                "btn": "Read More"
+            },
+            {
+                "title1": "WHITE PAPER",
+                "Heading": "Capital Markets as Catalysts for Net Zero Targets in the Decarbonization Journey of Saudi Arabia",
+                "text1": "Capital Markets and the London Stock Exchange Group as Catalysts for Net Zero Targets",
+                "text2": "This whitepaper explores the pivotal role of capital markets in advancing Saudi Arabia’s decarbonization goals under Vision 2030, highlighting the importance of financial instruments, ESG integration, and regulatory frameworks in supporting the nation’s transition to a net-zero economy by 2060.",
+                "btn": "Read More"
+            },
+            {
+                "title1": "WHITE PAPER",
+                "Heading": "Capital Markets as Catalysts for Net Zero Targets in the Decarbonization Journey of Saudi Arabia",
+                "text1": "Capital Markets and the London Stock Exchange Group as Catalysts for Net Zero Targets",
+                "text2": "This whitepaper explores the pivotal role of capital markets in advancing Saudi Arabia’s decarbonization goals under Vision 2030, highlighting the importance of financial instruments, ESG integration, and regulatory frameworks in supporting the nation’s transition to a net-zero economy by 2060.",
+                "btn": "Read More"
+            },
+            {
+                "title1": "WHITE PAPER",
+                "Heading": "Capital Markets as Catalysts for Net Zero Targets in the Decarbonization Journey of Saudi Arabia",
+                "text1": "Capital Markets and the London Stock Exchange Group as Catalysts for Net Zero Targets",
+                "text2": "This whitepaper explores the pivotal role of capital markets in advancing Saudi Arabia’s decarbonization goals under Vision 2030, highlighting the importance of financial instruments, ESG integration, and regulatory frameworks in supporting the nation’s transition to a net-zero economy by 2060.",
+                "btn": "Read More"
+            },
+            {
+                "title1": "WHITE PAPER",
+                "Heading": "Capital Markets as Catalysts for Net Zero Targets in the Decarbonization Journey of Saudi Arabia",
+                "text1": "Capital Markets and the London Stock Exchange Group as Catalysts for Net Zero Targets",
+                "text2": "This whitepaper explores the pivotal role of capital markets in advancing Saudi Arabia’s decarbonization goals under Vision 2030, highlighting the importance of financial instruments, ESG integration, and regulatory frameworks in supporting the nation’s transition to a net-zero economy by 2060.",
+                "btn": "Read More"
+            }
+        ],
+        "Section3":{
+            "img":"https://spectreco.com/wp-content/uploads/2024/11/Copy-of-The-Transition-of-the-Real-Estate-Sector-2.jpg",
+            "title1": "WHITE PAPER",
+            "Heading": "Capital Markets as Catalysts for Net Zero Targets in the Decarbonization Journey of Saudi Arabia",
+            "text1": "",
+            "text2": "This whitepaper explores the pivotal role of capital markets in advancing Saudi Arabia’s decarbonization goals under Vision 2030, highlighting the importance of financial instruments, ESG integration, and regulatory frameworks in supporting the nation’s transition to a net-zero economy by 2060.",
+            "btn": "Read More"
+        },
+        "Section4":{
+            "img":"https://spectreco.com/wp-content/uploads/2024/11/Copy-of-The-Transition-of-the-Real-Estate-Sector-2.jpg",
+            "title1": "WHITE PAPER",
+            "Heading": "Capital Markets as Catalysts for Net Zero Targets in the Decarbonization Journey of Saudi Arabia",
+            "text1": "",
+            "text2": "This whitepaper explores the pivotal role of capital markets in advancing Saudi Arabia’s decarbonization goals under Vision 2030, highlighting the importance of financial instruments, ESG integration, and regulatory frameworks in supporting the nation’s transition to a net-zero economy by 2060.",
+            "btn": "Read More"
+        }
+      
+    }
+}

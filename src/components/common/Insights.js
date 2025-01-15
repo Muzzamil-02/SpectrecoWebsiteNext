@@ -2,29 +2,29 @@
 
 import React from "react";
 import insightsData from "@/lib/constant/insights.json";
+import pressreleeseData from '@/lib/constant/pressreleese.json';
 
-const Insights = () => {
-  return (
-    <div style={{ textAlign: "left", padding: "20px", margin: "0 0 10px" }}>
-      <h2
-        style={{ fontSize: "32px", marginBottom: "30px", textAlign: "center" }}
-      >
-        {insightsData.section1.title}
-      </h2>
 
-      <div
-        style={{
+const Insights = ({ data }) => {
+    if (!data || !data.section1) {
+      return <p>No data available.</p>;
+    }
+  
+    return (
+      <div style={{ textAlign: "left", padding: "20px", margin: "0 0 10px" }}>
+        <h2 style={{ fontSize: "32px", marginBottom: "30px", textAlign: "center" }}>
+          {data.section1.title}
+        </h2>
+  
+        <div style={{
           display: "flex",
           justifyContent: "center",
           gap: "20px",
           alignItems: "stretch",
           flexWrap: "wrap",
-        }}
-      >
-        {insightsData.section1.articles.map((item, index) => (
-          <div
-            key={index}
-            style={{
+        }}>
+          {data.section1.articles.map((item, index) => (
+            <div key={index} style={{
               width: "360px",
               border: "1px solid #ccc",
               display: "flex",
@@ -33,32 +33,13 @@ const Insights = () => {
               boxShadow: "0 4px 8px rgba(0,0,0,0.1)",
               borderRadius: "8px",
               overflow: "hidden",
-            }}
-          >
-            {/* IMAGE FIRST */}
-            <div style={{ height: "180px", overflow: "hidden" }}>
-              <img
-                src={item.image}
-                alt={item.title}
-                style={{ width: "100%", height: "100%", objectFit: "cover" }}
-              />
-            </div>
-
-            {/* CONTENT */}
-            {/* <div style={{ padding: '15px', display: 'flex', flexDirection: 'column', flexGrow: 1 }}> */}
-            <div
-              style={{
-                padding: "15px",
-                display: "flex",
-                flexDirection: "column",
-              }}
-            >
-              <h3 style={{ fontSize: "18px", margin: "10px 0" }}>
-                {item.title}
-              </h3>
-
-              <p
-                style={{
+            }}>
+              <div style={{ height: "180px", overflow: "hidden" }}>
+                <img src={item.image} alt={item.title} style={{ width: "100%", height: "100%", objectFit: "cover" }} />
+              </div>
+              <div style={{ padding: "15px", display: "flex", flexDirection: "column" }}>
+                <h3 style={{ fontSize: "18px", margin: "10px 0" }}>{item.title}</h3>
+                <p style={{
                   fontSize: "14px",
                   color: "#555",
                   overflow: "hidden",
@@ -67,45 +48,28 @@ const Insights = () => {
                   WebkitLineClamp: 3,
                   WebkitBoxOrient: "vertical",
                   margintop: "auto",
-                  marginBottom: "8px", // Adjust spacing between description and category
-                }}
-              >
-                {item.description}
-              </p>
-
-              {/* CATEGORY AND DATE INLINE */}
-              <div
-                style={{ display: "flex", alignItems: "center", gap: "5px" }}
-              >
-                <a
-                  href={item.categoryLink}
-                  style={{
+                  marginBottom: "8px",
+                }}>{item.description}</p>
+                <div style={{ display: "flex", alignItems: "center", gap: "5px" }}>
+                  <a href={item.categoryLink} style={{
                     fontSize: "12px",
                     color: "rgb(201, 86, 76)",
                     textDecoration: "none",
                     textTransform: "uppercase",
                     fontWeight: "bold",
                   }}
-                  onMouseOver={(e) => (e.currentTarget.style.color = "#e7685d")}
-                  onMouseLeave={(e) =>
-                    (e.currentTarget.style.color = "#c9564c")
-                  }
-                >
-                  {item.category}
-                </a>
-
-                <span style={{ color: "#888" }}>-</span>
-
-                <p style={{ fontSize: "12px", color: "#AAAAAA", margin: 0 }}>
-                  {item.date}
-                </p>
+                    onMouseOver={(e) => (e.currentTarget.style.color = "#e7685d")}
+                    onMouseLeave={(e) => (e.currentTarget.style.color = "#c9564c")}>
+                    {item.category}
+                  </a>
+                  <span style={{ color: "#888" }}>-</span>
+                  <p style={{ fontSize: "12px", color: "#AAAAAA", margin: 0 }}>{item.date}</p>
+                </div>
               </div>
             </div>
-          </div>
-        ))}
-      </div>
-
-      <div style={{ textAlign: "center", marginTop: "30px" }}>
+          ))}
+        </div>
+        <div style={{ textAlign: "center", marginTop: "30px" }}>
         <a
           href="#"
           style={{
@@ -134,4 +98,7 @@ const Insights = () => {
   );
 };
 
+  
+
+  
 export default Insights;
