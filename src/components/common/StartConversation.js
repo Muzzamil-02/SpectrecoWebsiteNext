@@ -9,7 +9,7 @@ const StartConversation = () => {
         <img 
           src='/images/start-1.png' 
           alt="Start a Conversation" 
-          style={{ maxWidth: "80%", verticalAlign: "middle" }} 
+          style={{ maxWidth: "40%", verticalAlign: "middle" }} 
         />
       </div>
     </Container>

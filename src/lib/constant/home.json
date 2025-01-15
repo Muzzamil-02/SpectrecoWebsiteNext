@@ -83,6 +83,46 @@
                 "heading": "Consolidated Reporting",
                 "description": "Track and report with pre-configured templates, ensuring compliance across various regulations, standards, and frameworks."
             }
+        },
+        "Section8": {
+            "element1": {
+                "mainHeading": "Data & Insights",
+                "Heading": "Drive informed decision-making",
+                "Text": "Utilize actionable data, insights, and research for actionable intelligence with our sustainability advisory services. Our advanced analytics empower informed decision-making, driving tangible progress toward your sustainability goals.",
+                "imageSrc": "/images/Icon-changes--2048x1283.png",
+                "buttonText": "Learn More"
+            },
+            "element2": {
+                "mainHeading": "Capacity Building",
+                "Heading": "Future Sustainability Leaders",
+                "Text": "“The Transition Talent” program by Spectreco offers tailored capacity-building initiatives to empower organizations to navigate the climate transition and excel in ESG practices, ensuring a skilled and knowledgeable consultant workforce for sustainable growth.",
+                "imageSrc": "https://spectreco.com/wp-content/uploads/2024/05/2-1.png",
+                "buttonText": "Learn More"
+            }
+        },
+        "Section9": {
+            "urls": [
+                "https://spectreco.com/wp-content/uploads/2024/06/14-150x150.png",
+                "https://spectreco.com/wp-content/uploads/2024/06/16-150x150.png",
+                "https://spectreco.com/wp-content/uploads/2024/06/23-150x150.png",
+                "https://spectreco.com/wp-content/uploads/2024/06/22-150x150.png",
+                "https://spectreco.com/wp-content/uploads/2024/06/21-150x150.png",
+                "https://spectreco.com/wp-content/uploads/2024/06/20-150x150.png",
+                "https://spectreco.com/wp-content/uploads/2024/06/19-150x150.png",
+                "https://spectreco.com/wp-content/uploads/2024/06/18-150x150.png",
+                "https://spectreco.com/wp-content/uploads/2024/04/1-150x150.png",
+                "https://spectreco.com/wp-content/uploads/2024/04/2-150x150.png",
+                "https://spectreco.com/wp-content/uploads/2024/04/3-150x150.png",
+                "https://spectreco.com/wp-content/uploads/2024/04/4-150x150.png",
+                "https://spectreco.com/wp-content/uploads/2024/04/5-150x150.png",
+                "https://spectreco.com/wp-content/uploads/2024/06/17-150x150.png",
+                "https://spectreco.com/wp-content/uploads/2024/04/11-150x150.png",
+                "https://spectreco.com/wp-content/uploads/2024/06/25-150x150.png",
+                "https://spectreco.com/wp-content/uploads/2024/04/10-150x150.png",
+                "https://spectreco.com/wp-content/uploads/2024/06/12-150x150.png",
+                "https://spectreco.com/wp-content/uploads/2024/06/13-150x150.png",
+                "https://spectreco.com/wp-content/uploads/2024/06/24-150x150.png"
+            ]
         }
     }
 }
