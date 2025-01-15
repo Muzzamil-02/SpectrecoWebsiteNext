@@ -1,0 +1,32 @@
+{
+    "section1": {
+      "title": "News and Press Releases",
+      "articles": [
+        {
+          "image": "/images/Post-1.jpg",
+          "title": "Jubilee Life Insurance Accelerates Net Zero Transition with Spectreco",
+          "description": "In a pioneering move towards sustainability, Jubilee Life Insurance partners with Spectreco.",
+          "category": "Press Release",
+          "categoryLink": "https://spectreco.com/category/press-release",
+          "date": "September 23, 2024"
+        },
+        {
+          "image": "/images/Post-2.jpeg",
+          "title": "Spectreco partners up with WWF – Pakistan to bring cutting-edge ESG training and awareness",
+          "description": "Joining forces to promote environmental sustainability and advance ESG initiatives.",
+          "category": "Press Release",
+          "categoryLink": "https://spectreco.com/category/press-release",
+          "date": "September 23, 2024"
+        },
+        {
+          "image": "/images/Post-3.jpg",
+          "title": "Spectreco and the City of Brampton Forge Groundbreaking Collaboration to Propel Climate Action",
+          "description": "On the brink of the climate resilience summit of C40 cities in Rome, a strategic partnership is formed.",
+          "category": "Press Release",
+          "categoryLink": "https://spectreco.com/category/press-release",
+          "date": "June 11, 2024"
+        }
+      ]
+    }
+  }
+  
