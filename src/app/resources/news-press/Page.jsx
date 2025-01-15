@@ -6,9 +6,7 @@ import pressreleeseData from '@/lib/constant/pressreleese.json';
 const Page = () => {
   return (
     <>
-      <Navbar />
       <Insights data={pressreleeseData} />
-      <Footer />
     </>
   );
 };

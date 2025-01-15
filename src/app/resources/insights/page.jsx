@@ -6,9 +6,7 @@ import insightsData from '@/lib/constant/insights.json';
 const page = () => {
   return (
     <>
-      <Navbar />
       <Insights data={insightsData} />
-      <Footer />
     </>
   );
 };

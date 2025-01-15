@@ -1,6 +1,5 @@
 import React from 'react'
 import Footer from '@/components/common/Footer'
-import ResponsiveNavbar from '@/components/common/Navbar'
 import data from "@/lib/constant/resources.json";
 import { Col, Container, Row, Button } from 'react-bootstrap'
 
@@ -8,7 +7,6 @@ const page = () => {
   const { Section1, Section2, Section3, Section4 } = data.resources;
   return (
     <>
-      <ResponsiveNavbar />
       <Container>
         <Row>
           <Col sm={8}>
@@ -71,7 +69,6 @@ const page = () => {
           </Col>
         </Row>
       </Container>
-      <Footer />
     </>
   )
 }

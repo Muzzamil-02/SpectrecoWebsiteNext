@@ -8,11 +8,9 @@ import Footer from '@/components/common/Footer'
 const pages = () => {
   return (
     <>
-    <Navbar/>
       <CalendlyEmbed/>
       <StartConversation padding="true"/>
       <TickerComponent/>
-      <Footer/>
     </>
   )
 }
