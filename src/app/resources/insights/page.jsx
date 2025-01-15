@@ -1,9 +1,16 @@
-import React from 'react'
+import Navbar from '@/components/common/Navbar';
+import Footer from '@/components/common/Footer';
+import Insights from '@/components/common/Insights';
+import insightsData from '@/lib/constant/insights.json';
 
 const page = () => {
   return (
-    <div>page</div>
-  )
-}
+    <>
+      <Navbar />
+      <Insights data={insightsData} />
+      <Footer />
+    </>
+  );
+};
 
-export default page
+export default page;

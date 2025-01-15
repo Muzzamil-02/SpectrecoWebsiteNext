@@ -1,0 +1,31 @@
+{
+  "section1": {
+    "title": "Insights",
+    "articles": [
+      {
+        "image": "/images/1st.png",
+        "title": "The Importance of Climate Disclosures: Understanding SEC and PCAF Guidelines",
+        "description": "Explore how businesses can align with SEC and PCAF guidelines to improve climate transparency.",
+        "category": "Community Blog",
+        "categoryLink": "https://spectreco.com/category/community-blog",
+        "date": "December 25, 2024"
+      },
+      {
+        "image": "/images/2nd.png",
+        "title": "The Benefits of Real-Time Reporting for IFRS S1 and S2 Compliance",
+        "description": "In the current scenario, sustainability and climate-related disclosure is crucial for businesses.",
+        "category": "Community Blog",
+        "categoryLink": "https://spectreco.com/category/community-blog",
+        "date": "December 25, 2024"
+      },
+      {
+        "image": "/images/3rd.png",
+        "title": "Understanding CSRD: Key Changes and Implications for Businesses",
+        "description": "What is the CSRD? The Corporate Sustainability Reporting Directive (CSRD) impacts business operations.",
+        "category": "Uncategorized",
+        "categoryLink": "https://spectreco.com/category/uncategorized",
+        "date": "December 24, 2024"
+      }
+    ]
+  }
+}

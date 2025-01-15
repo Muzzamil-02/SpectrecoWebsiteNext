@@ -8,6 +8,7 @@ import TechnologyBox from '@/components/common/TechnologyBox';
 import TickerComponent from '@/components/common/Ticker';
 import StartConversation from '@/components/common/StartConversation';
 import CenterHeadingTechnology from '@/components/common/CenterHeadingTechnology';
+import { Container } from 'react-bootstrap';
 
 const page = () => {
   const technologyData = data.technology;
@@ -25,9 +26,11 @@ const page = () => {
           <CenterHeadingTechnology  data={technologyData.Section2} hasTitle={true} underlineHeader={false} />
         </section>
         <section className='default-padding'>
-          <video controls autoPlay={true}>
+        <Container>
+        <video controls autoPlay loop muted style={{ width: "100%" }}>
             <source src="http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4" type="video/mp4"></source>
           </video>
+          </Container>
         </section>
         <section>
           <TechnologyBox {...technologyData.Section4} />
