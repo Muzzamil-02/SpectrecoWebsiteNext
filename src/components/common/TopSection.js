@@ -1,32 +1,65 @@
 import React from 'react';
-import { Container, Row, Col, Button } from 'react-bootstrap';
+import { Container, Row, Col } from 'react-bootstrap';
 import './Maincss.css';
 
-const TopSection = ({ imagePosition , isContainer ,componentText }) => {
-  // Use 'order-md-first' or 'order-md-last' based on imagePosition prop
-
+const TopSection = ({ imagePosition, isContainer, componentText }) => {
+  // Adjust the order based on the imagePosition prop
   const imageOrder = imagePosition === 'left' ? 'order-md-first' : 'order-md-last';
   const textOrder = imagePosition === 'left' ? 'order-md-last' : 'order-md-first';
 
   const content = (
     <Row className="align-items-center">
-      <Col md={6} className={`text ${textOrder}`} style={{ lineHeight:"1.2", padding:"0 7% 0 0"}}>
-        <p style={{fontSize:"3.25rem",fontWeight:"400",color:"#000",  padding:"0 10% 0 0" }}>{componentText.Heading}</p>
-        <p style={{fontSize:"1.5rem",color:"#000", marginBottom: "50px"}}>
-        {componentText.Text}
+      {/* Text Section */}
+      <Col
+        md={6}
+        xs={12}
+        className={`text ${textOrder}`}
+        style={{
+          lineHeight: '1.4',
+          padding: '20px',
+          textAlign: 'left',
+        }}
+      >
+        <p
+          style={{
+            fontSize: '2.5rem',
+            fontWeight: '500',
+            color: '#000',
+            marginBottom: '20px',
+          }}
+        >
+          {componentText.Heading}
         </p>
-            <Button variant="danger" style={{ borderRadius: "5px" }}>
-                {componentText.buttonText}
-            </Button>
+
+        <p
+          style={{
+            fontSize: '1.2rem',
+            color: '#555',
+            marginBottom: '30px',
+          }}
+        >
+          {componentText.Text}
+        </p>
       </Col>
-     
-      <Col md={6} className={`image ${imageOrder}`}>
-        <img src={componentText.imageSrc} alt="ESG Dashboard" className="img-fluid" />
+
+      {/* Image Section */}
+      <Col md={6} xs={12} className={`image ${imageOrder}`}>
+        <img
+          src={componentText.imageSrc}
+          alt="ESG Dashboard"
+          style={{
+            width: '100%',
+            height: 'auto',
+            maxHeight: '500px',
+            objectFit: 'cover',
+            borderRadius: '10px',
+          }}
+        />
       </Col>
     </Row>
   );
 
-  return isContainer ? <Container fluid className="p-5">{content}</Container> : content;
-}
+  return isContainer ? <Container fluid className="py-5">{content}</Container> : content;
+};
 
 export default TopSection;

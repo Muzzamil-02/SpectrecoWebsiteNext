@@ -6,11 +6,11 @@ const CenterHeadingTechnology = ({ isContainer, data, hasTitle, underlineHeader=
     const content = (
         <Row>
           <Col>
-          <h2 className='text-center'>
-            <span style={{ color: 'red' }}>{data.title1}</span>
-            <span style={{ color: '#333' }}>{data.title2}</span>
-          </h2>
-          <hr style={{ borderTop: '2px solid red', width: '80%', margin: '0 auto' }} />
+          <h3 className='text-center heading-with-border'>
+            <span style={{ color: '#d30c0b' }}>{data.title1}</span>
+            <span style={{ color: '#333' }}> {data.title2}</span>
+          </h3>
+         
             <p className="desc-text text-center" >
               {data.Text}
             </p>

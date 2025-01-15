@@ -37,6 +37,7 @@ export default function ResponsiveNavbar() {
               <NavDropdown.Item href="/resources/events-webinar">Events Webinar</NavDropdown.Item>
               <NavDropdown.Item href="/resources/insights">Insights</NavDropdown.Item>
               <NavDropdown.Item href="/resources/research">Research</NavDropdown.Item>
+              <NavDropdown.Item href="/resources/news-press">News and Press</NavDropdown.Item>
             </NavDropdown>
             <Nav.Link href="/contactus">Contact Us</Nav.Link>
             <NavDropdown title="Language" id="language-nav-dropdown">
