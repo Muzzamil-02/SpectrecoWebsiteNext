@@ -3,7 +3,6 @@ import Footer from '@/components/common/Footer'
 import Navbar from '@/components/common/Navbar'
 import data from "@/lib/constant/technology.json";
 import TopSection from "@/components/common/TopSection";
-import CenterHeadingPara from '@/components/common/CenterHeadingPara';
 import CenterImagesCard from '@/components/common/CenterImagesCard';
 import TechnologyBox from '@/components/common/TechnologyBox';
 import TickerComponent from '@/components/common/Ticker';
