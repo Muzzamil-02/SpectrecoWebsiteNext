@@ -4,15 +4,14 @@ import 'swiper/css';
 import 'swiper/css/navigation';
 import { Navigation } from 'swiper';
 import "./Maincss.css"
-
-
-const Slider = ({components,heading}) => {
-   
-      console.log("title",components)
-
-      return (
-        <div style={{ padding: "20px", backgroundColor: "#f9f9f9", borderRadius: "10px",marginTop:"40px",marginBottom:"40px" }}>
-      <h2 style={{padding:"20px",textAlign:"center"}}>Key <span style={{color: "#bc1823"}}>Stakeholders</span> in the<span > {heading}</span> Landscape</h2>
+const NewSlider2 = ({components,heading}) => {
+  return (
+    <div style={{ padding: "20px", borderRadius: "10px",marginTop:"40px",marginBottom:"40px" }}>
+    <h5 style={{color:"#d30c0b",textAlign:"center"}}>Enhancing rental yields through energy efficiency improvements and operational cost savings.</h5>
+      <h2 style={{ padding: "20px", textAlign: "center" }}>Driving sustainability forward with <span style={{ color: "#bc1823" }}>advisory</span></h2>
+      <p style={{ textAlign: "center", marginBottom: "30px" }}>
+        Explore our comprehensive array of ESG services for built environment and infrastructure development, crafted to refine risk management strategies, diminish carbon footprint, streamline waste management practices, and foster impactful stakeholder engagement.
+      </p>
       <Swiper
         navigation={true}
         modules={[Navigation]}
@@ -40,7 +39,8 @@ const Slider = ({components,heading}) => {
                 marginRight: `45px`
               }}
             >
-              <p style={{ margin: "10px 0" ,fontSize:"20px",color:"#d30c0b" }}>{card.title}</p>
+             <img src={card.imageUrl} alt={card.title} style={{ width: "100%", height: "auto", borderRadius: "8px 8px 0 0" }} />
+              <h3 style={{ margin: "10px 0" ,fontSize:"20px" }}>{card.title}</h3>
               <p style={{ fontSize: "14px", color: "#555" }}>{card.description}</p>
             </div>
           </SwiperSlide>
@@ -48,7 +48,7 @@ const Slider = ({components,heading}) => {
       </Swiper>
     
     </div>
-      );
+  )
 }
 
-export default Slider;
+export default NewSlider2

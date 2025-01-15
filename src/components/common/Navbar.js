@@ -10,7 +10,7 @@ export default function ResponsiveNavbar() {
   return (
     <Navbar expand="lg"  expanded={expanded} >
       <Container>
-        <Navbar.Brand href="/home">
+        <Navbar.Brand href="/">
           <img src="/images/logo.png" alt="Spectreco Logo" style={{ height: '40px' }} />
         </Navbar.Brand>
         <Navbar.Toggle

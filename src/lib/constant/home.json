@@ -1,0 +1,104 @@
+{
+    "home": {
+        "Section1": {
+            "Heading": "Simplifying your Sustainability Journey With ESG Solutions",
+            "Text": "Delivering Compliance, Superior Financial Returns, Access to Capital and Inter-generational Impact through Technology.",
+            "buttonText": "Book a session today!",
+            "imageSrc": "/images/hero-2.png"
+        },
+        "Section2": {
+            "Heading": "Make your ESG actions count with targeted, tailored Technology Platform & Consulting",
+            "Text": "Navigate the transition effortlessly with Spectreco’s network of global sustainability experts and innovative technology. Our integrated transition solutions empower organizations to tackle ESG considerations, drive climate action, and achieve Net Zero targets. With a focus on built environment and multi-jurisdictional compliance, we address the complexities of sustainability."
+        },
+        "Section3": {
+            "Heading": "SUSTAINABILITY FRAMEWORKS &amp; DISCLOSURES",
+            "Text": "From predefined frameworks to customizable options, Spectreco’s AI-Driven platform streamlines sustainability disclosures tailored to your business needs. Access support for crafting audit-ready reports across all regulations, standards, and frameworks, ensuring compliance and meeting shareholders’ and stakeholders’ demands seamlessly.",
+            "imageSrc": "/images/esgcompanies.png"
+        },
+        "Section4": {
+            "title": "Our Offerings",
+            "Heading": "Optimize and Elevate Your ESG Performance",
+            "Text": "Maximize your ESG impact with Spectreco’s comprehensive technology platform & consulting services, meticulously designed to propel your sustainability journey forward. Our innovative approach optimizes your built environment, simplifies the transition journey, and ensures compliance across multi-jurisdictions. With real-time insights, we empower you to navigate the complexities of ESG effortlessly, reduce costs, and drive substantial progress toward a more sustainable future. Harnessing real-time insights in our Sustainability Services enables impactful decision-making and optimized resource allocation for maximum ROI. Partner with Spectreco to confidently achieve your Net Zero targets while safeguarding profitability and enhancing long-term value creation in today’s complex regulatory landscape."
+        },
+        "Section5": {
+            "right": {
+                "transportation": {
+                    "imgURL": "/images/Transportation.svg",
+                    "alt": "Transportation"
+                },
+                "financialInstitutions": {
+                    "imgURL": "/images/FinancialInstitutions.svg",
+                    "alt": "Transportation"
+                },
+                "energy": {
+                    "imgURL": "/images/Energy.svg",
+                    "alt": "Energy"
+                },
+                "capi": {
+                    "imgURL": "/images/capi.png",
+                    "alt": "Capital Market"
+                },
+                "insuranceComapany": {
+                    "imgURL": "/images/insurance-company-1.png",
+                    "alt": "Insurance Company"
+                },
+                "agriculture": {
+                    "imgURL": "/images/Agriculture.svg",
+                    "alt": "Agriculture"
+                }
+            },
+            "left": {
+                "hospitality": {
+                    "imgURL": "/images/Hospitality.svg",
+                    "alt": "Hospitality"
+                },
+                "infrastructure": {
+                    "imgURL": "/images/Infrastructure.svg",
+                    "alt": "Infrastructure"
+                },
+                "realEstate": {
+                    "imgURL": "/images/RealEstate.svg",
+                    "alt": "Real Estate"
+                }
+            }
+        },
+        "Section6": {
+            "title": "Technology",
+            "Heading": "Cloud-Native AI-Driven Platform",
+            "Text": "Streamline your ESG journey effortlessly with our intelligent platform. Utilizing built-in benchmarks and AI-driven analytics, easily set goals, select interventions, and track progress from development to reporting. Our platform ensures compliance across multiple geographies and jurisdictions, providing simplicity and unparalleled accuracy in generating audit-ready metrics."
+        },
+        "Section7": {
+            "tech1": {
+                "imageURL": "/images/tech1.svg",
+                "heading": "Recommendation Engine",
+                "description": "Maximize ESG impact with tailored, industry-specific interventions ensuring simplicity and compliance across all jurisdictions."
+            },
+            "tech2": {
+                "imageURL": "/images/tech2.svg",
+                "heading": "Industry Insights",
+                "description": "Unlock ESG strategies with tailored insights and benchmarks, customized to your organization’s size and geographical presence."
+            },
+            "tech3": {
+                "imageURL": "/images/tech3.svg",
+                "heading": "Consolidated Reporting",
+                "description": "Track and report with pre-configured templates, ensuring compliance across various regulations, standards, and frameworks."
+            }
+        },
+        "Section8": {
+            "element1": {
+                "mainHeading": "Data & Insights",
+                "Heading": "Drive informed decision-making",
+                "Text": "Utilize actionable data, insights, and research for actionable intelligence with our sustainability advisory services. Our advanced analytics empower informed decision-making, driving tangible progress toward your sustainability goals.",
+                "imageSrc": "/images/Icon-changes--2048x1283.png",
+                "buttonText": "Learn More"
+            },
+            "element2": {
+                "mainHeading": "Capacity Building",
+                "Heading": "Future Sustainability Leaders",
+                "Text": "“The Transition Talent” program by Spectreco offers tailored capacity-building initiatives to empower organizations to navigate the climate transition and excel in ESG practices, ensuring a skilled and knowledgeable consultant workforce for sustainable growth.",
+                "imageSrc": "https://spectreco.com/wp-content/uploads/2024/05/2-1.png",
+                "buttonText": "Learn More"
+            }
+        }
+    }
+}
