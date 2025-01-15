@@ -133,6 +133,7 @@
 
 .industries-left, .industries-right {
   display: flex;
+  border-radius: 10px;
   flex-direction: column;
   justify-content: flex-start;
 }
@@ -145,12 +146,15 @@ h3 {
 
 .industries-icons {
   display: flex;
+
   justify-content: space-between;
-  margin-bottom: 20px;
 }
 
 .industry-icon {
   text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 .industry-icon img {
@@ -191,6 +195,11 @@ h3 {
 /* .service-cards {
   padding: 50px 0;
 } */
+
+.grey-card{
+  background-color: #f5f5f5;
+
+}
 
 .service-card {
   background-color: #f5f5f5;
