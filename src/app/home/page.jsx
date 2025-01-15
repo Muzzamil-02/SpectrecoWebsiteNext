@@ -16,8 +16,8 @@ const page = () => {
   const homeData = data.home;
   return (
     <div >
-      <Navbar/>
-      <div style={{maxWidth: "1440px", margin: "auto"}}>
+      {/* <Navbar/> */}
+      <div style={{maxWidth: "1440px", margin: "auto" }}>
         <section className='default-padding'>
           <TopSection imagePosition={"right"} isContainer={false} componentText={homeData.Section1}/>
         </section>
@@ -33,7 +33,7 @@ const page = () => {
         <section>
           <ServiceCard />
         </section>
-        <section className='default-padding'>
+        <section >
           <IndustrySection data={homeData.Section5} />
         </section>
         <section className='default-padding'>
@@ -55,7 +55,7 @@ const page = () => {
           <ScreenComponent />
         </section>
         </div>
-      <Footer/>
+      {/* <Footer/> */}
     </div>
 
   )

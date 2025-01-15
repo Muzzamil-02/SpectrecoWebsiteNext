@@ -15,7 +15,7 @@ import Footer from '@/components/common/Footer'
 const page = () => {
   return (
     <div>
-    <Navbar/>
+    {/* <Navbar/> */}
       <AboutFirst heading={data.section1.heading}
         description={data.section1.description}
       />
@@ -32,7 +32,7 @@ const page = () => {
       <GlobalPresence/>
       <StartConversation/>
       <TickerComponent/>
-      <Footer/>
+      {/* <Footer/> */}
     </div>
   )
 }

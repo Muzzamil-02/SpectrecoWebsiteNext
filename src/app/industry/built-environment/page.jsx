@@ -25,7 +25,6 @@ const page = () => {
   console.log("hello",data.builtinpage.keyskaeholderslider.components)
   return (
     <>
-    <Navbar/>
       <FirstComponent       title={data.builtinpage.section1.title}
       highlightedText={data.builtinpage.section1.highlightedText}
       description={data.builtinpage.section1.description}
@@ -77,7 +76,6 @@ const page = () => {
         />
       <StartConversation/>
       <TickerComponent/>
-    <Footer/>
     </>
   )
 }

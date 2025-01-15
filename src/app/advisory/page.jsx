@@ -11,14 +11,14 @@ import AdvisoryServices from '@/components/advisory/AdvisoryServices'
 const page = () => {
   return (
     <>
-    <Navbar/>
+    {/* <Navbar/> */}
     <ESGAdvisory/>
     <Strategies/>
     <SprintModal/>
     <AdvisoryServices/>
     <StartConversation/>
     <TickerComponent/>
-    <Footer/>
+    {/* <Footer/> */}
     </>
   )
 }

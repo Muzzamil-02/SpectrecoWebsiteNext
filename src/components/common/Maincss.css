@@ -139,7 +139,7 @@
 
 .industries-left, .industries-right {
   display: flex;
-  border-radius: 10px;
+  border-radius: 25px;
   flex-direction: column;
   justify-content: flex-start;
 }

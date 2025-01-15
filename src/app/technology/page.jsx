@@ -15,7 +15,6 @@ const page = () => {
   const technologyData = data.technology;
   return (
     <div >
-      <Navbar />
       <div style={{ maxWidth: "1440px", margin: "auto" }}>
         <section className=' technology-top-wrapper'>
           <TopSection imagePosition={"right"} componentText={technologyData.Section1} />
@@ -41,7 +40,6 @@ const page = () => {
           <TickerComponent/>
         </section>
       </div>
-      <Footer />
     </div>
 
   )

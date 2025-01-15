@@ -5,7 +5,7 @@ export default function Footer() {
   return (
     <footer style={styles.footer}>
       <Container>
-        <Row className="mb-4">
+        <Row className="">
           <Col md={4}>
             <img src="/images/logo.png" alt="Spectreco Logo" style={styles.logo} />
             <p style={styles.tagline}>Empowering your vision with innovative solutions for sustainable growth.</p>
@@ -72,8 +72,8 @@ const styles = {
     padding: '40px 0',
   },
   logo: {
-    height:'40px',
-    width: '150px',
+    height:'auto',
+    width: '250px',
     marginBottom: '10px',
   },
   tagline: {
@@ -95,7 +95,7 @@ const styles = {
   },
   link: {
     textDecoration: 'none',
-    color: '#000',
+    color: '#666',
     display: 'block',
     marginBottom: '5px',
   },
