@@ -124,7 +124,9 @@ a.secondary {
     text-decoration: underline;
     text-underline-offset: 4px;
   }
+  
 }
+
 
 @media (max-width: 600px) {
   .page {
@@ -166,3 +168,4 @@ a.secondary {
     filter: invert();
   }
 }
+

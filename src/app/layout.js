@@ -1,9 +1,7 @@
 "use client";
 import { useEffect } from "react";
 import 'bootstrap/dist/css/bootstrap.min.css';
-import "swiper/css";
-import "swiper/css/navigation";
-import "swiper/css/pagination";
+import './globals.css';
 export default function RootLayout({ children }) {
   useEffect(() => {
     import('bootstrap/dist/js/bootstrap.bundle.min.js');

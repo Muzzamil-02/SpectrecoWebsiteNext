@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "image": "https://spectreco.com/wp-content/uploads/2024/05/office-building.svg",
+      "title": "ESG Strategy & Business Advisory Development",
+      "description": "Unlocking growth opportunities with strategic insights and robust business cases tailored to your organization's unique needs."
+    },
+    {
+      "id": 2,
+      "image": "https://spectreco.com/wp-content/uploads/2024/05/legalicon.svg",
+      "title": "Proprietary Frameworks & Delivery Models",
+      "description": "These models are designed to support comprehensive ESG advisory services for businesses and investors."
+    },
+    {
+      "id": 3,
+      "image": "https://spectreco.com/wp-content/uploads/2024/05/speed.svg",
+      "title": "Simplicity & Speed",
+      "description": "Driving progress with simplified processes and accelerated timelines to meet your sustainability goals effectively and efficiently."
+    },
+    {
+      "id": 4,
+      "image": "https://spectreco.com/wp-content/uploads/2024/05/bar-chart.svg",
+      "title": "Data-driven",
+      "description": "Data-driven ESG consulting and advisory services to deliver measurable results and insights."
+    },
+    {
+      "id": 5,
+      "image": "https://spectreco.com/wp-content/uploads/2024/05/human.svg",
+      "title": "Human & Artificial Intelligence",
+      "description": "Blending human expertise with advanced AI technology to deliver innovative solutions and actionable insights for sustainable growth."
+    },
+    {
+      "id": 6,
+      "image": "https://spectreco.com/wp-content/uploads/2024/05/idea.svg",
+      "title": "Project Management & Implementation",
+      "description": "Providing comprehensive project management and implementation support to ensure seamless execution and successful integration of sustainability strategies."
+    }
+  ]
