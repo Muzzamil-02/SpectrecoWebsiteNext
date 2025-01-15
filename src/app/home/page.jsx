@@ -9,6 +9,8 @@ import ServiceCard from '@/components/common/ServiceCard';
 import IndustrySection from '@/components/common/IndustrySection';
 import CenterImagesCard from '@/components/common/CenterImagesCard';
 import ImageText from '@/components/common/ImageText';
+import SponsorSlider from '@/components/common/SponsorSlider';
+import ScreenComponent from '@/components/ui/ScreenComponent';
 
 const page = () => {
   const homeData = data.home;
@@ -45,6 +47,12 @@ const page = () => {
         </section>
         <section className='default-padding'>
           <ImageText componentText={homeData.Section8.element2} imagePosition={"left"}/>
+        </section>
+        <section>
+          <SponsorSlider components={homeData.Section9.urls}/>
+        </section>
+        <section>
+          <ScreenComponent />
         </section>
         </div>
       <Footer/>

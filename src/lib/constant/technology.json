@@ -1,0 +1,46 @@
+{
+    "technology": {
+        "Section1": {
+            "Heading": "Simplifying your Sustainability Journey With ESG Solutions",
+            "Text": "Delivering Compliance, Superior Financial Returns, Access to Capital and Inter-generational Impact through Technology.",
+            "buttonText": "Book a session today!",
+            "imageSrc": "/images/hero-2.png"
+        },
+        "Section2": {
+            "title1": "Industry-Specific",
+            "title2": "Solutions",
+            "Heading": "Cloud-Native AI-Driven Platform",
+            "Text": "Streamline your ESG journey effortlessly with our intelligent platform. Utilizing built-in benchmarks and AI-driven analytics, easily set goals, select interventions, and track progress from development to reporting. Our platform ensures compliance across multiple geographies and jurisdictions, providing simplicity and unparalleled accuracy in generating audit-ready metrics."
+        },
+        "Section3": {
+            "tech1": {
+                "imageURL": "/images/tech1.svg",
+                "heading": "Recommendation Engine",
+                "description": "Maximize ESG impact with tailored, industry-specific interventions ensuring simplicity and compliance across all jurisdictions."
+            },
+            "tech2": {
+                "imageURL": "/images/tech2.svg",
+                "heading": "Industry Insights",
+                "description": "Unlock ESG strategies with tailored insights and benchmarks, customized to your organization’s size and geographical presence."
+            },
+            "tech3": {
+                "imageURL": "/images/tech3.svg",
+                "heading": "Consolidated Reporting",
+                "description": "Track and report with pre-configured templates, ensuring compliance across various regulations, standards, and frameworks."
+            }
+        },
+        "Section4": {
+            "topHeading": "Give it a try, it's free!",
+            "heading": "It only takes a few clicks to get started.",
+            "buttonText": "Get started – it’s free",
+            "paragraph": "Free for 60 days, no credit card required"
+
+        },
+        "Section7": {
+            "Heading": "SUSTAINABILITY FRAMEWORKS &amp; DISCLOSURES",
+            "Text": "From predefined frameworks to customizable options, Spectreco’s AI-Driven platform streamlines sustainability disclosures tailored to your business needs. Access support for crafting audit-ready reports across all regulations, standards, and frameworks, ensuring compliance and meeting shareholders’ and stakeholders’ demands seamlessly.",
+            "imageSrc": "/images/esgcompanies.png"
+        }
+      
+    }
+}

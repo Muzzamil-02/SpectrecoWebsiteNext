@@ -89,7 +89,16 @@ section {
     color-scheme: dark;
   }
 }
-
+.technology-top-wrapper{
+  background-color: #b3060b;
+  padding-top: 100px;
+  
+}
+.technology-top-wrapper .row{
+  border-radius: 100px 100px 0px 0px;
+  background-color: #ffffff;
+  padding: 4rem 6rem;
+}
 .offerleft ul li,
 .offerright ul li {
   position: relative;
