@@ -24,15 +24,14 @@ const Phases = ({cardsData}) => {
                     <p className="title">
                         {card.title}
                     </p>
-                    <ul >
-                    {card?.content.map((listItem, index)=> 
-                        <li >
-                             <p className="subtitle" style={{color: "#bc1823", fontWeight: "400" }}>
-                             {listItem.subtitle} <span style={{color: 'black', fontWeight:"300"}}>{listItem.description}</span></p>
-                            
-                        </li>
-                    )}
-                    </ul>
+                    <ul>
+  {card.content.map((listItem, index) => (
+    <li key={index}>  {/* Add key here */}
+      <p>{listItem.subtitle} {listItem.description}</p>
+    </li>
+  ))}
+</ul>
+
                 </div>
             </div>
 

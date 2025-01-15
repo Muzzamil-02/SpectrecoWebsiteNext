@@ -32,7 +32,7 @@ const CenterText = ({ isContainer ,heading,description,imageUrl}) => {
                     <div style={{ display: 'flex', justifyContent: 'center', marginTop: '15px' }}>
           <Button 
             style={{ 
-              backgroundColor: '#ff1e42', 
+              backgroundColor: '#d30c0b', 
               border: 'none', 
               padding: '10px 30px', 
               fontSize: '16px', 
@@ -42,7 +42,7 @@ const CenterText = ({ isContainer ,heading,description,imageUrl}) => {
             Get started – it’s free
           </Button>
         </div>
-        <p style={{ marginTop: '10px', color: '#666',textAlign:"center" }}>Free for 60 days, no credit card required</p>
+        <p style={{ marginTop: '10px', color: '#d30c0b',textAlign:"center" }}>Free for 60 days, no credit card required</p>
           </Col>
         </Row>
       );
