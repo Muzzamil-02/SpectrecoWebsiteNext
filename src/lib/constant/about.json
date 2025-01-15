@@ -1,0 +1,31 @@
+{
+    "section1":{
+        "heading":"We are a global sustainability, technology, advisory, and implementation company.",
+        "description":"Spectreco is your partner in building a better world, offering an innovative, data-driven approach and ready-to-deploy solutions. Backed by a century of collective expertise and a global perspective, we streamline compliance across multiple jurisdictions, focusing on built infrastructure across industries, transforming sustainability challenges into strategic advantages for investors, businesses, and governments alike."
+    },
+    "section2":{
+        "imageUrl":"/images/heroabout.jpg"
+    },
+    "section3":{
+        "highlightedText":"We are creating a world where sustainable living is a norm and not an anomaly.",
+        "description":"Spectreco drives tangible results through the seamless integration of sustainability practices, fostering growth while minimizing environmental impact. Our innovative solutions and expert guidance empower organizations to make measurable progress toward sustainability goals, ensuring simplicity, compliance, and adaptability across multiple jurisdictions and geographies.",
+        "heading":"We deliver results for shareholders and stakeholders"
+    },
+    "section4":{
+        "component":[
+            { "value": "$1.1B", "label": "Total capital raised & managed" },
+            { "value": "$13B", "label": "Net asset value managed" },
+            { "value": "$250M", "label": "Impact valuation" },
+            { "value": "100,000+", "label": "Lives impacted" },
+            { "value": "100+", "label": "Assets managed" },
+            { "value": "100+", "label": "Years of experience in built infrastructure" },
+            { "value": "100+", "label": "Years of collective ESG/Impact experience" },
+            { "value": "8", "label": "Country level policy consultations delivered" }
+          ]
+          
+    },
+    "section5":{
+        "title": "Our Leadership",
+        "description": "Spectreco is a collaboration between Spectra Holdings LLC and Sustainadility LLC, USA, offering expertise in Climate Action Agendas, ESG Investing, Built Infrastructure, Investment Management, Sustainable Supply Chain, Green Financial Instruments, Technology, and Data. We work closely with governments and the private sector, engaging in various initiatives such as economic growth & investment, climate policies, financing, circular economy principles, and more. Our board brings extensive experience in strategic initiatives, investment management, and financial analysis for both public and private enterprises. With a proven track record in delivering impactful ESG solutions, we are committed to assisting businesses in achieving their sustainability goals while ensuring simplicity, compliance, and adaptability across jurisdictions."
+      }
+}

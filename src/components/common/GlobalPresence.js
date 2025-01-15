@@ -5,7 +5,7 @@ const GlobalPresence = () => {
   return (
     <Container className="py-5">
       <Row className="align-items-center">
-      <p className="text-danger">Our <span className="fw-bold">Global Presence</span></p>
+      <h2  style={{textAlign:"center"}}>Our <span style={{color:"#d30c0b"}}>Global</span><span  > Presence</span></h2>
         {/* Image on the left */}
         <Col md={6}>
           <Image src="./images/map.png" alt="Global Map" fluid />
