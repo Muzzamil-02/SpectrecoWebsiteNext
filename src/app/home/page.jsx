@@ -8,6 +8,7 @@ import SustainableReporting from '@/components/common/SustainableReporting';
 import ServiceCard from '@/components/common/ServiceCard';
 import IndustrySection from '@/components/common/IndustrySection';
 import CenterImagesCard from '@/components/common/CenterImagesCard';
+import ImageText from '@/components/common/ImageText';
 
 const page = () => {
   const homeData = data.home;
@@ -38,6 +39,12 @@ const page = () => {
         </section>
         <section className='default-padding'>
           <CenterImagesCard data={homeData.Section7} />
+        </section>
+        <section className='default-padding'>
+          <ImageText componentText={homeData.Section8.element1} imagePosition={"right"}/>
+        </section>
+        <section className='default-padding'>
+          <ImageText componentText={homeData.Section8.element2} imagePosition={"left"}/>
         </section>
         </div>
       <Footer/>
