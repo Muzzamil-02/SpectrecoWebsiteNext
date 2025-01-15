@@ -10,7 +10,7 @@ import IndustrySection from '@/components/common/IndustrySection';
 import CenterImagesCard from '@/components/common/CenterImagesCard';
 import ImageText from '@/components/common/ImageText';
 import SponsorSlider from '@/components/common/SponsorSlider';
-import ScreenComponent from '@/components/ui/ScreenComponent';
+import ScreenComponent from '@/components/common/ScreenComponent';
 
 const page = () => {
   const homeData = data.home;
