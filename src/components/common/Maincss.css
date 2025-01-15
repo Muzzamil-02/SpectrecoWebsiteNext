@@ -285,6 +285,43 @@ margin: 10px;
   flex-direction: column; 
   text-align: left;
 }
+.heading-with-border {
+  font-size: 2.5rem;
+  font-weight: 400;
+  color: #000;
+  text-align: center;
+  position: relative; /* Required for pseudo-elements */
+  margin-bottom: 80px; /* Adds gap between text and border */
+}
+
+.heading-with-border::after {
+  content: '';
+  position: absolute;
+  left: 50%; /* Start from the center */
+  bottom: -40px; /* Adjust vertical position (gap) */
+  transform: translateX(-50%); /* Center align the border */
+  width: 90%; /* Total width of the border */
+  height: 1px; /* Thickness of the border */
+  background: linear-gradient(to right, rgba(188, 24, 35, 0.2), #bc1823, rgba(188, 24, 35, 0.2)); /* Blurry edges and solid center with base color */
+  border-radius: 5px; /* Smooth corners for the line */
+}
+
+.with-border{
+  position: relative; /* Required for pseudo-elements */
+  margin-bottom: 100px; 
+}
+
+.with-border::after{
+  content: '';
+  position: absolute;
+  left: 50%; /* Start from the center */
+  bottom: -50px; /* Adjust vertical position (gap) */
+  transform: translateX(-50%); /* Center align the border */
+  width: 90%; /* Total width of the border */
+  height: 1px; /* Thickness of the border */
+  background: linear-gradient(to right, rgba(188, 24, 35, 0.2), #bc1823, rgba(188, 24, 35, 0.2)); /* Blurry edges and solid center with base color */
+  border-radius: 5px; /* Smooth corners for the line */
+}
 
 @media (max-width: 768px) {
   .service-card {

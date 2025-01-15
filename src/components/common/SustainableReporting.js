@@ -1,24 +1,38 @@
 import React from 'react';
-import { Container, Row, Col } from 'react-bootstrap';
+import { Container } from 'react-bootstrap';
 import './Maincss.css';
 
-const SustainableReporting = ({ isContainer = true, image = true }) => {
+const SustainableReporting = ({ isContainer = true, data }) => {
   const content = (
-    <Row className="align-items-start">
-      <Col md={6} className="text" style={{backgroundColor:"#EFEFEF"}}>
-        <h3 style={{color:"#d30c0b",fontFamily:"poppins Sans-serif",fontSize:"22px",fontWeight:"300"}}>SUSTAINABILITY FRAMEWORKS & DISCLOSURES</h3>
-        <h1 className="main-heading">Sustainable Reporting Simplified</h1>
+    <div className="align-items-start row with-border" style={{ display: "flex", alignItems: "stretch", height: "80vh" }}>
+      {/* Left Text Container */}
+      <div className="text col-md-7" style={{ backgroundColor: "rgb(239, 239, 239)", fontFamily: "'Poppins', Sans-serif", padding: "50px", height: "100%", borderRadius: "0 50px 50px 0 " }}>
+        <h3 style={{ color: "rgb(211, 12, 11)", fontSize: "1.15rem", fontWeight: "300" }}>
+          {data.Heading}
+        </h3>
+        <h1 className="main-heading" style={{fontSize:"2.5rem"}}>Sustainable Reporting Simplified</h1>
         <p className="description">
-          From predefined frameworks to customizable options, Spectreco’s AI-Driven platform streamlines sustainability disclosures tailored to your business needs. Access support for crafting audit-ready reports across all regulations, standards, and frameworks, ensuring compliance and meeting shareholders’ and stakeholders’ demands seamlessly.
+         {data.Text}
         </p>
-      </Col>
-      <Col md={6} className="image">
-        {image && <img src="./images/esgcompanies.png" alt="Sustainable Reporting" className="img-fluid" />}
-      </Col>
-    </Row>
+      </div>
+
+      {/* Right Image Container */}
+      <div className="image col-md-5" style={{ display: "flex", justifyContent: "center", alignItems: "center", flex: "1", height: "inherit" }}>
+        <img 
+          alt="Sustainable Reporting"
+          className="img-fluid"
+          src={data.imageSrc}
+          style={{ 
+            width: "auto", 
+            height: "inherit", /* Ensures the image takes the full height of the container */
+            objectFit: "contian" /* Ensures the image fills the container properly */
+          }} 
+        />
+      </div>
+    </div>
   );
 
-  return isContainer ? <Container fluid className="p-5">{content}</Container> : content;
+  return isContainer ? <Container fluid className="p-5" style={{ height: "100vh" }}>{content}</Container> : content;
 };
 
 export default SustainableReporting;

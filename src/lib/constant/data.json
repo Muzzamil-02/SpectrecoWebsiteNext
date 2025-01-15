@@ -1,0 +1,24 @@
+{
+    "home": {
+        "Section1": {
+            "Heading": "Simplifying your Sustainability Journey With ESG Solutions",
+            "Text": "Delivering Compliance, Superior Financial Returns, Access to Capital and Inter-generational Impact through Technology.",
+            "buttonText": "Book a session today!",
+            "imageSrc": "/images/hero-2.png"
+        },
+        "Section2": {
+            "Heading": "Make your ESG actions count with targeted, tailored Technology Platform & Consulting",
+            "Text": "Navigate the transition effortlessly with Spectreco’s network of global sustainability experts and innovative technology. Our integrated transition solutions empower organizations to tackle ESG considerations, drive climate action, and achieve Net Zero targets. With a focus on built environment and multi-jurisdictional compliance, we address the complexities of sustainability."
+        },
+        "Section3": {
+            "Heading": "SUSTAINABILITY FRAMEWORKS &amp; DISCLOSURES",
+            "Text": "From predefined frameworks to customizable options, Spectreco’s AI-Driven platform streamlines sustainability disclosures tailored to your business needs. Access support for crafting audit-ready reports across all regulations, standards, and frameworks, ensuring compliance and meeting shareholders’ and stakeholders’ demands seamlessly.",
+            "imageSrc": "/images/esgcompanies.png"
+        },
+        "Section4": {
+            "title": "Our Offerings",
+            "Heading": "Optimize and Elevate Your ESG Performance",
+            "Text": "Maximize your ESG impact with Spectreco’s comprehensive technology platform & consulting services, meticulously designed to propel your sustainability journey forward. Our innovative approach optimizes your built environment, simplifies the transition journey, and ensures compliance across multi-jurisdictions. With real-time insights, we empower you to navigate the complexities of ESG effortlessly, reduce costs, and drive substantial progress toward a more sustainable future. Harnessing real-time insights in our Sustainability Services enables impactful decision-making and optimized resource allocation for maximum ROI. Partner with Spectreco to confidently achieve your Net Zero targets while safeguarding profitability and enhancing long-term value creation in today’s complex regulatory landscape."
+        }
+    }
+}
