@@ -4,7 +4,7 @@ import './Maincss.css';
 
 const IndustrySection = ({ isContainer = true, data }) => {
     return (
-        <Row className="industry-section align-items-center justify-content-center" style={{height: "60vh"}}>
+        <Row className="industry-section align-items-center justify-content-center" style={{minHeight: "60vh"}}>
           <Col md={4} className="industries-left grey-card" style={{height:"100%", display: "flex", flexDirection:"column", alignItems: "center", justifyContent: "space-around"}}>
             <h4 style={{fontSize: "1.5rem", fontWeight: "400", color: "#bc1823"}}>Built Environment Industries</h4>
             <Row className="industries-icons">

@@ -99,6 +99,30 @@
                 "imageSrc": "https://spectreco.com/wp-content/uploads/2024/05/2-1.png",
                 "buttonText": "Learn More"
             }
+        },
+        "Section9": {
+            "urls": [
+                "https://spectreco.com/wp-content/uploads/2024/06/14-150x150.png",
+                "https://spectreco.com/wp-content/uploads/2024/06/16-150x150.png",
+                "https://spectreco.com/wp-content/uploads/2024/06/23-150x150.png",
+                "https://spectreco.com/wp-content/uploads/2024/06/22-150x150.png",
+                "https://spectreco.com/wp-content/uploads/2024/06/21-150x150.png",
+                "https://spectreco.com/wp-content/uploads/2024/06/20-150x150.png",
+                "https://spectreco.com/wp-content/uploads/2024/06/19-150x150.png",
+                "https://spectreco.com/wp-content/uploads/2024/06/18-150x150.png",
+                "https://spectreco.com/wp-content/uploads/2024/04/1-150x150.png",
+                "https://spectreco.com/wp-content/uploads/2024/04/2-150x150.png",
+                "https://spectreco.com/wp-content/uploads/2024/04/3-150x150.png",
+                "https://spectreco.com/wp-content/uploads/2024/04/4-150x150.png",
+                "https://spectreco.com/wp-content/uploads/2024/04/5-150x150.png",
+                "https://spectreco.com/wp-content/uploads/2024/06/17-150x150.png",
+                "https://spectreco.com/wp-content/uploads/2024/04/11-150x150.png",
+                "https://spectreco.com/wp-content/uploads/2024/06/25-150x150.png",
+                "https://spectreco.com/wp-content/uploads/2024/04/10-150x150.png",
+                "https://spectreco.com/wp-content/uploads/2024/06/12-150x150.png",
+                "https://spectreco.com/wp-content/uploads/2024/06/13-150x150.png",
+                "https://spectreco.com/wp-content/uploads/2024/06/24-150x150.png"
+            ]
         }
     }
 }
