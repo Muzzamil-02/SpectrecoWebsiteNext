@@ -1,3 +1,4 @@
+"use client"
 import React from "react";
 import { Container, Row, Col, Card, Button } from "react-bootstrap";
 
@@ -49,6 +50,7 @@ const NewsInsights = () => {
         {articles.map((article, index) => (
           <Col key={index} md={3} className="mb-4">
             <Card className="h-100">
+
               <Card.Img
                 variant="top"
                 alt=""
