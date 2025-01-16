@@ -123,6 +123,38 @@
                 "https://spectreco.com/wp-content/uploads/2024/06/13-150x150.png",
                 "https://spectreco.com/wp-content/uploads/2024/06/24-150x150.png"
             ]
+        },
+        "Section10": {
+            "component": [
+                {
+                    "title": "Planning and Development",
+                    "description": "  Incorporate sustainability criteria into investment decision-making ",
+                    "imageURL": "/images/phases1.jpg"
+                },
+                {
+                    "title": "Funding and Asset Management",
+                    "description": " Adhere to green building standards and certifications, such as LEED or BREEAM, ",
+                    "imageURL": "/images/phases2.jpg"
+                },
+                {
+                    "title": "Construction",
+                    "description": " Procure eco-friendly building materials sourced from renewable or recycled sources to reduce embodied carbon and environmental impact.",
+                    "imageURL": "/images/phases3.jpg"
+                },
+                {
+                    "title": "Sales and Leasing",
+                    "description": " Develop ESG marketing strategies as part of ESG services for built environment projects to highlight sustainability ",
+                    "imageURL": "/images/phases4.jpg"
+                },
+                {
+                    "title": "Operations and Management",
+                    "description": " Install advanced energy management systems, including smart meters and building automation systems, to monitor ",
+                    "imageURL": "/images/phases5.jpg"
+                }
+            ],
+            "mainHeading": "ADVISORY",
+            "heading": "Tailored industry solutions",
+            "subHeading": "By offering various ESG solution avenues that focus on business compliance, growth, business returns and collective impact, we help businesses achieve their target of Net Zero."
         }
     }
 }

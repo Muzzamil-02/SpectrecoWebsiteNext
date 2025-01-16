@@ -51,6 +51,7 @@ const NewsInsights = () => {
             <Card className="h-100">
               <Card.Img
                 variant="top"
+                alt=""
                 src={article.image}
                 style={{ borderRadius: "10px" }}
               />

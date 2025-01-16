@@ -6,7 +6,6 @@ import { Navigation } from 'swiper';
 import "./Maincss.css"
 import Image from 'next/image';
 
-
 const SponsorSlider = ({ components }) => (
   <div style={{ padding: "20px", borderRadius: "10px", marginTop: "40px", marginBottom: "40px" }}>
     <Swiper
@@ -16,7 +15,7 @@ const SponsorSlider = ({ components }) => (
       breakpoints={{
         320: { slidesPerView: 1, spaceBetween: 20 },
         640: { slidesPerView: 2, spaceBetween: 20 },
-        1024: { slidesPerView: 6, spaceBetween: 30 },
+        1024: { slidesPerView: 6, spaceBetween: 5 },
         1440: { slidesPerView: 6, spaceBetween: 20 },
       }}
       style={{
@@ -25,13 +24,12 @@ const SponsorSlider = ({ components }) => (
     >
       {components.map((card, index) => (
         <SwiperSlide key={index} style={{ margin: 0 }}>
-          <div style={{ with:"150px", height:"150px" }}>
-            <Image src={card} alt="" fill />
+          <div>
+            <Image width={100} height={100} src={card} alt='Spectreco' />
           </div>
         </SwiperSlide>
       ))}
     </Swiper>
-
   </div>
 );
 
