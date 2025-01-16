@@ -7,7 +7,7 @@ const ServiceCard = ({ isContainer = true }) => {
     <Container >
       <Row className="service-cards" style={{justifyContent: "center"}}>
         <Col md={5} sm={6} className="service-card">
-          <h4 className="service-title textalign-left">Technology</h4>
+          <h4 className="service-title fs-1 textalign-left">Technology</h4>
           <p className="service-description textalign-left">
             Leverage technology to facilitate the transition, enabling streamlined data management, actionable insights, and measurable sustainability progress & reporting.
           </p>

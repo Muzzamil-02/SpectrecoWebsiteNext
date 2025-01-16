@@ -18,7 +18,7 @@ const ImageText = ({ imagePosition , isContainer ,componentText }) => {
         {componentText.Text}
         </p>
         <div className="text-center mt-4">
-              <Button variant="danger" style={{ borderRadius: "5px" }}>
+              <Button variant="danger" style={{ borderRadius: "0px", padding:"5px 50px 10px 50px" , fontSize:"20px"}}>
               {componentText.buttonText}
               </Button>
             </div>

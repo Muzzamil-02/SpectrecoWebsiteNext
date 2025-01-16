@@ -40,7 +40,7 @@ export default function ResponsiveNavbar() {
             <Nav.Link href="/about">About Us</Nav.Link>
             <Nav.Link href="/technology">Technology</Nav.Link>
             <Nav.Link href="/advisory">Advisory</Nav.Link>
-            <NavDropdown title="Industry" id="industry-nav-dropdown">
+            <NavDropdown title="Industry" id="industry-nav-dropdown" >
               <NavDropdown.Item href="/industry/agriculture">Agriculture</NavDropdown.Item>
               <NavDropdown.Item href="/industry/built-environment">Built Environment</NavDropdown.Item>
               <NavDropdown.Item href="/industry/capital-markets">Capital Markets</NavDropdown.Item>
@@ -57,7 +57,7 @@ export default function ResponsiveNavbar() {
               <NavDropdown.Item href="/resources/research-publications">Research&Publications</NavDropdown.Item>
             </NavDropdown>
             <Nav.Link href="/contactus">Contact Us</Nav.Link>
-            <Nav.Link>
+            <Nav.Link href='https://platform.spectreco.com/'>
               <button style={styles.button}>Start Free Trial</button>
             </Nav.Link>
           </Nav>

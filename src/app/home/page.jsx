@@ -42,6 +42,9 @@ const page = () => {
         <section className='default-padding'>
           <CenterImagesCard data={homeData.Section7} />
         </section>
+        <section>
+          <ScreenComponent />
+        </section>
         <section className='default-padding'>
           <ImageText componentText={homeData.Section8.element1} imagePosition={"right"}/>
         </section>
@@ -50,9 +53,6 @@ const page = () => {
         </section>
         <section>
           <SponsorSlider components={homeData.Section9.urls}/>
-        </section>
-        <section>
-          <ScreenComponent />
         </section>
         </div>
       {/* <Footer/> */}
