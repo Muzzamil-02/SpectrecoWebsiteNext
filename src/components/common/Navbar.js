@@ -55,8 +55,13 @@ export default function ResponsiveNavbar() {
               <NavDropdown.Item href="/resources/events-webinar">Events Webinar</NavDropdown.Item>
               <NavDropdown.Item href="/resources/insights">Insights</NavDropdown.Item>
               <NavDropdown.Item href="/resources/research-publications">Research&Publications</NavDropdown.Item>
+              <NavDropdown.Item href="/resources/news-press">News and Press</NavDropdown.Item>
             </NavDropdown>
             <Nav.Link href="/contactus">Contact Us</Nav.Link>
+            <NavDropdown title="Language" id="language-nav-dropdown">
+              <NavDropdown.Item href="/language/option1">Option 1</NavDropdown.Item>
+              <NavDropdown.Item href="/language/option2">Option 2</NavDropdown.Item>
+            </NavDropdown>
             <Nav.Link>
               <button style={styles.button}>Start Free Trial</button>
             </Nav.Link>
