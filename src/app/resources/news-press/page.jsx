@@ -3,7 +3,7 @@ import Footer from '@/components/common/Footer'
 import Insights from '@/components/common/Insights'
 import pressreleeseData from '@/lib/constant/pressreleese.json';
 
-const Page = () => {
+const page = () => {
   return (
     <>
       <Insights data={pressreleeseData} />
@@ -11,4 +11,4 @@ const Page = () => {
   );
 };
 
-export default Page;
+export default page;
