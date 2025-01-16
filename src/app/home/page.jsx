@@ -1,5 +1,3 @@
-import Footer from '@/components/common/Footer'
-import Navbar from '@/components/common/Navbar'
 import data from "@/lib/constant/home.json";
 import TopSection from "@/components/common/TopSection";
 import CenterHeadingPara from '@/components/common/CenterHeadingPara';

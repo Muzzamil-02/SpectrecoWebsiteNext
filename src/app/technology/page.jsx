@@ -1,6 +1,4 @@
 import React from 'react'
-import Footer from '@/components/common/Footer'
-import Navbar from '@/components/common/Navbar'
 import data from "@/lib/constant/technology.json";
 import TopSection from "@/components/common/TopSection";
 import CenterImagesCard from '@/components/common/CenterImagesCard';

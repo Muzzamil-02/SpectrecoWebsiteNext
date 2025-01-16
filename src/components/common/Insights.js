@@ -3,6 +3,7 @@
 import React from "react";
 import insightsData from "@/lib/constant/insights.json";
 import pressreleeseData from '@/lib/constant/pressreleese.json';
+import Image from "next/image";
 
 
 const Insights = ({ data }) => {
@@ -35,7 +36,15 @@ const Insights = ({ data }) => {
               overflow: "hidden",
             }}>
               <div style={{ height: "180px", overflow: "hidden" }}>
-                <img src={item.image} alt={item.title} style={{ width: "100%", height: "100%", objectFit: "cover" }} />
+                 <Image
+                        src={item.image}
+                        alt={item.title || "Image"}
+                        layout="responsive"
+                        width={100}
+                        height={75}
+                        style={{ objectFit: 'cover' }}
+                        priority
+                      />
               </div>
               <div style={{ padding: "15px", display: "flex", flexDirection: "column" }}>
                 <h3 style={{ fontSize: "18px", margin: "10px 0" }}>{item.title}</h3>

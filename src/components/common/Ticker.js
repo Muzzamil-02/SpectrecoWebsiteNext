@@ -8,11 +8,11 @@ const TickerComponent = () => {
         <div style={{width: "100vw", display: "flex", justifyContent: "space-around", }}>
             <div style={{display:'flex', alignItems:"center"}}>
                 <span className='marquee outline-text'>Spectreco</span>
-                <div className='dot'></div>
+                <div className='dot'/>
             </div>
             <div style={{display:'flex', alignItems:"center",}}>
                 <span className='marquee outline-text'>Spectreco</span>
-                <div className='dot'></div>
+                <div className='dot'/>
             </div>
         </div>
     </Marquee>
@@ -20,11 +20,11 @@ const TickerComponent = () => {
         <div style={{width: "100vw", display: "flex", justifyContent: "space-around", }}>
             <div style={{display:'flex', alignItems:"center"}}>
                 <span className='marquee outline-text'>Spectreco</span>
-                <div className='dot'></div>
+                <div className='dot'/>
             </div>
             <div style={{display:'flex', alignItems:"center",}}>
                 <span className='marquee outline-text'>Spectreco</span>
-                <div className='dot'></div>
+                <div className='dot'/>
             </div>
         </div>
     </Marquee>

@@ -1,19 +1,16 @@
 import React from 'react';
 import { Container, Row, Col, Image } from 'react-bootstrap';
 import './Maincss.css'
+
 const GlobalPresence = () => {
   return (
     <Container className="py-5">
       <Row className="align-items-center">
-      <h2  style={{textAlign:"center"}}>Our <span style={{color:"#d30c0b"}}>Global</span><span  > Presence</span></h2>
-        {/* Image on the left */}
+        <h2 style={{ textAlign: "center" }}>Our <span style={{ color: "#d30c0b" }}>Global</span><span  > Presence</span></h2>
         <Col md={6}>
           <Image src="./images/map.png" alt="Global Map" fluid />
         </Col>
-
-        {/* Text on the right */}
         <Col md={6}>
-          
           <p className='textalign-left'>
             We are at the forefront of driving sustainable solutions and ESG initiatives worldwide.
             Our strategic partnerships and deep industry expertise enable us to collaborate with
@@ -28,7 +25,6 @@ const GlobalPresence = () => {
           <p className='textalign-left'>UK: Spectreco LLP, 128 City Road London, EC1V 2NX, United Kingdom</p>
           <p className='textalign-left'>Europe: Spectreco Europe Private, Unipessoal LDA, Avenida da Liberdade 129B, 1250-140 Lisbon, Portugal</p>
           <p className='textalign-left'>Asia: ESG Consulting (Private) Limited, 141-D, SLHS, Lahore, Pakistan</p>
-         
         </Col>
       </Row>
     </Container>

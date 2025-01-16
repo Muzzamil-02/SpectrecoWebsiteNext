@@ -9,7 +9,7 @@ const pages = () => {
   return (
     <>
       <CalendlyEmbed/>
-      <StartConversation padding="true"/>
+      <StartConversation paddingTop="130px"/>
       <TickerComponent/>
     </>
   )

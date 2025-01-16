@@ -23,7 +23,7 @@ html body {
   .nav-container.scrolled {
     padding: 10px 10px 10px;
     box-shadow: 0 2px 3px rgba(96, 96, 96, 0.1);
-    color: #f8f9fa; /* light white text color */
+    color: #f8f9fa;
     transition: padding 0.3s ease-in-out;
   }
 

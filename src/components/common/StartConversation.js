@@ -1,18 +1,18 @@
 import React from 'react';
 import './Maincss.css';
-import { Container } from 'react-bootstrap';
+import Image from 'next/image';
 
-const StartConversation = ({ padding }) => {
+const StartConversation = ({ paddingTop='0'}) => {
   return (
-    <Container style={{ paddingTop: padding ? '130px' : '0' }}>
-      <div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
-        <img
+      <div style={{width:"600px", height:"90px", margin:"auto", paddingTop }}>
+        <Image
           src="/images/start-1.png"
           alt="Start a Conversation"
-          style={{ maxWidth: '40%', verticalAlign: 'middle' }}
+          loading='lazy'
+          width="600" 
+          height="90"
         />
       </div>
-    </Container>
   );
 };
 
