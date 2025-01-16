@@ -1,5 +1,5 @@
-import Footer from '@/components/common/Footer'
-import Navbar from '@/components/common/Navbar'
+'use client';
+
 import data from "@/lib/constant/home.json";
 import TopSection from "@/components/common/TopSection";
 import CenterHeadingPara from '@/components/common/CenterHeadingPara';
@@ -11,6 +11,11 @@ import CenterImagesCard from '@/components/common/CenterImagesCard';
 import ImageText from '@/components/common/ImageText';
 import SponsorSlider from '@/components/common/SponsorSlider';
 import ScreenComponent from '@/components/common/ScreenComponent';
+import HomeSlider from '@/components/common/homeSlider'
+import NewsInsights from "@/components/common/NewsInsights";
+import GlobalPresence from "@/components/common/GlobalPresence";
+import StartConversation from "@/components/common/StartConversation";
+import TickerComponent from "@/components/common/Ticker";
 
 const page = () => {
   const homeData = data.home;
@@ -24,6 +29,9 @@ const page = () => {
         <section className='default-padding'>
           <CenterHeadingPara data={homeData.Section2}/>
         </section>
+        <section >
+          <IndustrySection data={homeData.Section5} />
+        </section>
         <section style={{padding: 0}}>
           <SustainableReporting isContainer={false} heading={homeData.Section3.Heading} text={ homeData.Section3.Text} imageUrl={homeData.Section3.imageSrc}/>
         </section>
@@ -31,16 +39,22 @@ const page = () => {
           <CenterHeadingPara data={homeData.Section4} hasTitle={true} underlineHeader={false}/>
         </section>
         <section>
+        
           <ServiceCard />
         </section>
-        <section >
-          <IndustrySection data={homeData.Section5} />
-        </section>
+        
         <section className='default-padding'>
           <CenterHeadingPara data={homeData.Section6} hasTitle={true} underlineHeader={false}/>
         </section>
+        
         <section className='default-padding'>
           <CenterImagesCard data={homeData.Section7} />
+        </section>
+        <section>
+          <ScreenComponent />
+        </section>  
+        <section className="default-padding">
+          <HomeSlider components={homeData.Section10} />
         </section>
         <section className='default-padding'>
           <ImageText componentText={homeData.Section8.element1} imagePosition={"right"}/>
@@ -49,10 +63,19 @@ const page = () => {
           <ImageText componentText={homeData.Section8.element2} imagePosition={"left"}/>
         </section>
         <section>
-          <SponsorSlider components={homeData.Section9.urls}/>
+          <NewsInsights />
         </section>
         <section>
-          <ScreenComponent />
+          <SponsorSlider components={homeData.Section9.urls}/>
+        </section>
+        <section className="default-padding">
+          <GlobalPresence />
+        </section>
+        <section>
+          <StartConversation />
+        </section>
+        <section>
+          <TickerComponent />
         </section>
         </div>
       {/* <Footer/> */}

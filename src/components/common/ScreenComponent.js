@@ -1,9 +1,11 @@
+import Link from 'next/link';
 import React from 'react'
 import { Col, Container, Row } from 'react-bootstrap';
 
 const ScreenComponent = ({ isContainer = true, image = true }) => {
     const content = (
-        <Row className="align-items-center">
+      <>
+        <Row className="align-items-center" style={{marginBottom: "20px"}}>
           <Col md={6} className="text">
             <div className="step">
               <div className="step-number">1</div>
@@ -42,7 +44,36 @@ const ScreenComponent = ({ isContainer = true, image = true }) => {
             </Col>
           )}
         </Row>
-      );
+        <Row className='align-items-center justify-content-center pb-4 '>
+          <Col className='justify-content-center align-items-center ' style={{display: "flex"}} >
+            <Link href={'contactus'}>
+              <button
+                style={{
+                  marginTop: "20px",
+                  padding: "10px 20px",
+                  backgroundColor: "#d30c0b",
+                  color: "white",
+                  border: "none",
+                  borderRadius: "5px",
+                  cursor: "pointer",
+                  
+                }}
+                
+              >
+                Book a Demo
+              </button >
+            </Link>
+          </Col>
+          
+        </Row>
+        
+        <Col className='justify-content-center align-items-center flex'style={{textAlign: "center"}} >
+              <span>Need more information? Check out our step-by-step video guide <a href='#' style={{ textDecoration:"none", color:"#bc1823"}}> here</a></span>
+          </Col>
+        
+      </>
+    );
+    
     
       return isContainer ? <Container fluid className="p-5">{content}</Container> : content;
     };

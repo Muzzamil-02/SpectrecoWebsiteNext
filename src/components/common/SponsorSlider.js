@@ -19,7 +19,7 @@ const SponsorSlider = ({components,heading}) => {
         breakpoints={{
           320: { slidesPerView: 1, spaceBetween: 20 }, // For small screens
           640: { slidesPerView: 2, spaceBetween: 20 }, // For tablets
-          1024: { slidesPerView: 6, spaceBetween: 30 }, // For laptops
+          1024: { slidesPerView: 6, spaceBetween: 5 }, // For laptops
           1440: { slidesPerView: 6, spaceBetween: 20 }, // For larger screens
         }}
         style={{

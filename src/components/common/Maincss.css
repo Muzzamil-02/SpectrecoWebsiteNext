@@ -83,7 +83,7 @@
 }
 
 .step-number {
-  background-color: #e14d2a;
+  background-color: #d30c0b;
   color: white;
   min-width: 40px;
   min-height: 40px;
@@ -353,7 +353,7 @@ margin: 10px;
   }
   
   .marquee{
-    font-size: 95px;
+    font-size: 90px;
     font-weight: bold;
     text-transform: uppercase;
     margin: 0 20px;
@@ -400,9 +400,22 @@ margin: 10px;
     justify-content: center ;
     align-items: center;
   }
+  .marquee{
+    font-size: 50px;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin: 0 20px;
+  }
 
+  .dot{
+    width: 30px; /* Set the diameter */
+        height: 30px; /* Set the diameter */
+        background-color: #bc1823; /* Fill color */
+        border-radius: 50%; /* Make it circular */
+        display: inline-block; /* Optional: for inline positioning */
+        transform: translate(0, 10%);
+  }
   
-
   .vertical-line{
     display: none;
     
