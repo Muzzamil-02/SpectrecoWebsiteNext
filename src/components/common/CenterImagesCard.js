@@ -18,7 +18,7 @@ const CenterImagesCard = ({ isContainer, data }) => {
           key={index}
           xs={12}
           sm={6}
-          md={3}
+          md={4}
           className="d-flex flex-column align-items-center mb-4"
         >
           <div style={{ display: "flex", justifyContent: "center", marginBottom: "20px" }}>

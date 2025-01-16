@@ -22,20 +22,23 @@ const TopSection = ({ imagePosition, isContainer, componentText }) => {
       >
         <p
           style={{
-            fontSize: '2.5rem',
+            fontSize: '48px',
             fontWeight: '500',
             color: '#000',
             marginBottom: '20px',
           }}
-        >
-          {componentText.Heading}
-        </p>
+          dangerouslySetInnerHTML={{
+            __html: `Simplifying your <span style="color: #D30C0B">Sustainability Journey</span> With ESG Solutions`,
+          }}
+        />
 
         <p
           style={{
-            fontSize: '1.2rem',
+            fontSize: '20px',
             color: '#555',
-            marginBottom: '30px',
+            marginBottom: '32px',
+            marginRight: '80px',
+            fontWeight: 300
           }}
         >
           {componentText.Text}

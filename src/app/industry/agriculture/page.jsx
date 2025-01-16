@@ -19,7 +19,6 @@ import SustainableReporting from '@/components/common/SustainableReporting'
 const page = () => {
   return (
     <>
-    <Navbar/>
       <FirstComponent       title={data.agriculturepage.section1.title}
       highlightedText={data.agriculturepage.section1.highlightedText}
       description={data.agriculturepage.section1.description}
@@ -63,7 +62,6 @@ const page = () => {
         />
       <StartConversation/>
       <TickerComponent/>
-    <Footer/>
     </>
   )
 }

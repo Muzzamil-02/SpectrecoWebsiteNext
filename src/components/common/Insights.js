@@ -1,10 +1,6 @@
-// export default Insights;
 "use client";
-
 import React from "react";
 import { Card, Button, Container, Row, Col } from "react-bootstrap";
-import insightsData from "@/lib/constant/insights.json";
-import pressreleeseData from "@/lib/constant/pressreleese.json";
 
 const Insights = ({ data, showReadMore }) => {
   if (!data || !data.section1) {

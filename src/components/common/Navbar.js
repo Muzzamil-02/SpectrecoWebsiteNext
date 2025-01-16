@@ -1,24 +1,42 @@
 "use client";
 import Link from 'next/link';
-import { useState } from 'react';
+import { useState , useEffect } from 'react';
 import { NavDropdown } from 'react-bootstrap';
 import { Navbar, Nav, Container } from 'react-bootstrap';
 
 export default function ResponsiveNavbar() {
   const [expanded, setExpanded] = useState(false);
 
+  useEffect(() => {
+    const handleScroll = () => {
+      const navbar = document.querySelector('.nav-container');
+      if (window.scrollY > 0) {
+        navbar.classList.add('scrolled');
+      } else {
+        navbar.classList.remove('scrolled');
+      }
+    };
+
+    window.addEventListener('scroll', handleScroll);
+
+    return () => {
+      window.removeEventListener('scroll', handleScroll);
+    };
+  }, []);
+
+  
   return (
     <Navbar expand="lg"  expanded={expanded} >
       <Container className='nav-container'>
         <Navbar.Brand href="/">
-          <img src="/images/logo.png" alt="Spectreco Logo" style={{ height: '40px' }} />
+          <img src="/images/logo.png" alt="Spectreco Logo" style={{ height: 'auto', maxWidth: '200px' }}  />
         </Navbar.Brand>
         <Navbar.Toggle
           aria-controls="basic-navbar-nav"
           onClick={() => setExpanded(!expanded)}
         />
         <Navbar.Collapse id="basic-navbar-nav">
-          <Nav className="ms-auto">
+          <Nav className="ms-auto align-items-center">
             <Nav.Link href="/about">About Us</Nav.Link>
             <Nav.Link href="/technology">Technology</Nav.Link>
             <Nav.Link href="/advisory">Advisory</Nav.Link>
@@ -36,14 +54,10 @@ export default function ResponsiveNavbar() {
             <NavDropdown title="Resources" id="resources-nav-dropdown">
               <NavDropdown.Item href="/resources/events-webinar">Events Webinar</NavDropdown.Item>
               <NavDropdown.Item href="/resources/insights">Insights</NavDropdown.Item>
-              <NavDropdown.Item href="/resources/research">Research</NavDropdown.Item>
+              <NavDropdown.Item href="/resources/research-publications">Research&Publications</NavDropdown.Item>
               <NavDropdown.Item href="/resources/news-press">News and Press</NavDropdown.Item>
             </NavDropdown>
             <Nav.Link href="/contactus">Contact Us</Nav.Link>
-            <NavDropdown title="Language" id="language-nav-dropdown">
-              <NavDropdown.Item href="/language/option1">Option 1</NavDropdown.Item>
-              <NavDropdown.Item href="/language/option2">Option 2</NavDropdown.Item>
-            </NavDropdown>
             <Nav.Link>
               <button style={styles.button}>Start Free Trial</button>
             </Nav.Link>
@@ -58,9 +72,10 @@ const styles = {
   button: {
     backgroundColor: '#d30c0b',
     color: '#ffffff',
-    padding: '8px 16px',
+    padding: '10px 17px 10px',
     border: 'none',
     borderRadius: '5px',
+    fontSize: '14px',
     cursor: 'pointer',
   },
 };
