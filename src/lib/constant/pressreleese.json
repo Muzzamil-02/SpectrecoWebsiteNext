@@ -1,32 +1,71 @@
 {
-    "section1": {
-      "title": "News and Press Releases",
-      "articles": [
-        {
-          "image": "/images/Post-1.jpg",
-          "title": "Jubilee Life Insurance Accelerates Net Zero Transition with Spectreco",
-          "description": "In a pioneering move towards sustainability, Jubilee Life Insurance partners with Spectreco.",
-          "category": "Press Release",
-          "categoryLink": "https://spectreco.com/category/press-release",
-          "date": "September 23, 2024"
-        },
-        {
-          "image": "/images/Post-2.jpeg",
-          "title": "Spectreco partners up with WWF – Pakistan to bring cutting-edge ESG training and awareness",
-          "description": "Joining forces to promote environmental sustainability and advance ESG initiatives.",
-          "category": "Press Release",
-          "categoryLink": "https://spectreco.com/category/press-release",
-          "date": "September 23, 2024"
-        },
-        {
-          "image": "/images/Post-3.jpg",
-          "title": "Spectreco and the City of Brampton Forge Groundbreaking Collaboration to Propel Climate Action",
-          "description": "On the brink of the climate resilience summit of C40 cities in Rome, a strategic partnership is formed.",
-          "category": "Press Release",
-          "categoryLink": "https://spectreco.com/category/press-release",
-          "date": "June 11, 2024"
-        }
-      ]
-    }
+  "section1": {
+    "title": "News and Press Releases",
+    "articles": [
+      {
+        "image": "/images/Post-1.jpg",
+        "title": "Jubilee Life Insurance Accelerates Net Zero Transition with Spectreco",
+        "description": "In a pioneering move towards sustainability, Jubilee Life Insurance partners with Spectreco.",
+        "category": "Press Release",
+        "categoryLink": "https://spectreco.com/category/press-release",
+        "date": "September 23, 2024"
+      },
+      {
+        "image": "/images/Post-2.jpeg",
+        "title": "Spectreco partners up with WWF – Pakistan to bring cutting-edge ESG training and awareness",
+        "description": "Joining forces to promote environmental sustainability and advance ESG initiatives.",
+        "category": "Press Release",
+        "categoryLink": "https://spectreco.com/category/press-release",
+        "date": "September 23, 2024"
+      },
+      {
+        "image": "/images/Post-3.jpg",
+        "title": "Spectreco and the City of Brampton Forge Groundbreaking Collaboration to Propel Climate Action",
+        "description": "On the brink of the climate resilience summit of C40 cities in Rome, a strategic partnership is formed.",
+        "category": "Press Release",
+        "categoryLink": "https://spectreco.com/category/press-release",
+        "date": "June 11, 2024"
+      },
+      {
+        "image": "/images/Post-4.png",
+        "title": "Spectreco ignites debate and dialogue at Riyadh\u2019s exclusive PEOPLE gathering in the ...",
+        "description": "Spectreco, a trailblazer in sustainable solutions, proudly sponsored a...",
+        "category": "Press Release",
+        "categoryLink": "https://spectreco.com/category/press-release",
+        "date": "March 21, 2024"
+      },
+      {
+        "image": "/images/Post-5.jpeg",
+        "title": "SpectrEco CEO Faraz Khan honoured with the MBE award for pioneering efforts in ...",
+        "description": "In a resounding recognition of visionary leadership, Faraz Khan, CEO o...",
+        "category": "Press Release",
+        "categoryLink": "https://spectreco.com/category/press-release",
+        "date": "January 26, 2024"
+      },
+      {
+        "image": "/images/Post-6.jpeg",
+        "title": "SpectrEco Engages in Forward-Thinking Discourse with Architect Indy Johar on ...",
+        "description": "SpectrEco, a pioneering force in technology-driven sustainable solutio...",
+        "category": "Press Release",
+        "categoryLink": "https://spectreco.com/category/press-release",
+        "date": "August 25, 2023"
+      },
+      {
+        "image": "/images/Post-7.jpg",
+        "title": "Strategic Dialogues with H.E. Sheikh Yousef Khalawi propelling Sustainable ...",
+        "description": "LISBON, Aug 24, 2023 \u2013 SpectrEco, a pioneering force in technology-d...",
+        "category": "Press Release",
+        "categoryLink": "https://spectreco.com/category/press-release",
+        "date": "August 24, 2023"
+      },
+      {
+        "image": "/images/Post-8.png",
+        "title": "SpectrEco Launches Sustainability Technology and Advisory Platform to Tackl...",
+        "description": "ATLANTA, Aug. 7, 2023 \u2013 SpectrEco, a pioneer in sustai...",
+        "category": "Press Release",
+        "categoryLink": "https://spectreco.com/category/press-release",
+        "date": "August 7, 2023"
+      }
+    ]
   }
-  
+}

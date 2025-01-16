@@ -25,7 +25,79 @@
         "category": "Uncategorized",
         "categoryLink": "https://spectreco.com/category/uncategorized",
         "date": "December 24, 2024"
-      }
+      },
+      {
+        "image": "/images/4th.png",
+        "title": "How to Prepare for SEC and PCAF Climate Disclosure Compliance",
+        "description": "Compliance with the SEC and PCAF frameworks is essential for transparen...",
+        "category": "Community Blog",
+        "categoryLink": "https://spectreco.com/category/community-blog",
+        "date": "December 17, 2024"
+    },
+    {
+        "image": "/images/5th.jpg",
+        "title": "Mandatory ESG Reporting Requirements: 10 Key Considerations",
+        "description": "Environmental, Social, and Governance (ESG) factors have become centra...",
+        "category": "Community Blog",
+        "categoryLink": "https://spectreco.com/category/community-blog",
+        "date": "November 15, 2024"
+    },
+    {
+        "image": "/images/6th.jpg",
+        "title": "Converging Business Sustainability With Climate Resilience",
+        "description": "To protect their market shares, Pakistani businesses need to rethink t...",
+        "category": "Thought Leadership",
+        "categoryLink": "https://spectreco.com/category/thought-leadership",
+        "date": "November 4, 2024"
+    },
+    {
+      "image": "/images/7th.jpeg",
+      "title": "UK ends 140 years of coal power, marking historic transition to clean energy",
+      "description": "The closure of its last coal power plant marks a pivotal moment in shi...",
+      "category": "Thought Leadership",
+      "categoryLink": "https://spectreco.com/category/thought-leadership",
+      "date": "October 4, 2024"
+  },
+  {
+      "image": "/images/8th.png",
+      "title": "Mastering ESG Strategy in 2024: Data, Leadership, and Regulations for a Unified ...",
+      "description": "The Rising Importance of ESG Initiatives In 2024\u2019s business environm...",
+      "category": "Thought Leadership",
+      "categoryLink": "https://spectreco.com/category/thought-leadership",
+      "date": "October 2, 2024"
+  },
+  {
+      "image": "/images/9th.jpg",
+      "title": "Spectreco CEO, Faraz Khan MBE at Digital Leaders Conference 2024!",
+      "description": "Exploring cutting-edge digital strategies and their transformative imp...",
+      "category": "Insights",
+      "categoryLink": "https://spectreco.com/category/insights",
+      "date": "September 18, 2024"
+  },
+  {
+    "image": "/images/10th.png",
+    "title": "Opinion | ESG compliance is an asset, not a cost",
+    "description": "The sooner firms dismiss the notion it\u2019s a burden, the better FDI st...",
+    "category": "Thought Leadership",
+    "categoryLink": "https://spectreco.com/category/thought-leadership",
+    "date": "June 11, 2024"
+},
+{
+    "image": "/images/11.jpg",
+    "title": "Can Climate Change Pakistan\u2019s Economy",
+    "description": "Adopting effective policies could help Pakistan not only mitigate the ...",
+    "category": "Thought Leadership",
+    "categoryLink": "https://spectreco.com/category/thought-leadership",
+    "date": "April 28, 2024"
+},
+{
+    "image": "/images/12th.jpg",
+    "title": "Unravelling the Heat: The Intricate Dance of El Ni\u00f1o and Global Climate Extremes",
+    "description": "By Saya Goddard Guest Contribution The El Nino Southern Oscillation (E...",
+    "category": "Insights",
+    "categoryLink": "https://spectreco.com/category/insights",
+    "date": "February 15, 2024"
+}
     ]
   }
 }
