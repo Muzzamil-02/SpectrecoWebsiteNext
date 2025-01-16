@@ -4,12 +4,12 @@ const Aboutthird = ({highlightedText,description,heading}) => {
   return (
     <Grid container spacing={4} style={{ padding: '40px' }}>
     <Grid item xs={12} md={6}>
-      <Typography variant="h6" style={{ color: '#de0c0b' }}>
+      <Typography variant="h4" style={{ color: '#de0c0b' ,fontSize:"40px" }}>
         {highlightedText}
       </Typography>
     </Grid>
     <Grid item xs={12} md={6}>
-      <Typography variant="h5" >
+      <Typography variant="h4"  sx={{ fontSize:"28px" }}>
       {heading}
       </Typography>
       <Typography variant="body1" style={{ marginTop: '16px' }}>

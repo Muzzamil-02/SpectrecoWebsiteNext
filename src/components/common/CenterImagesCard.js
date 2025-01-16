@@ -4,13 +4,15 @@ import Image from 'next/image';
 import './Maincss.css';
 
 const CenterImagesCard = ({ isContainer, data }) => {
+  console.log("data",data);
+  
   const content = (
     <Row className="align-items-center">
-      <Col xs={12}>
+      {/* <Col xs={12}>
         <h4 style={{ color: "#d30c0b", textAlign: "center", paddingBottom: "30px" }}>
           Tailored Solutions for Businesses & Investors
         </h4>
-      </Col>
+      </Col> */}
 
       {/** Dynamically Render Cards */}
       {Object.keys(data).map((key, index) => (
@@ -18,8 +20,8 @@ const CenterImagesCard = ({ isContainer, data }) => {
           key={index}
           xs={12}
           sm={6}
-          md={4}
-          className="d-flex flex-column align-items-center mb-4"
+          md={Object.keys(data).length > 3 ? 3 : 4}
+          className="d-flex flex-column align-items-center mb-4 gap-2"
         >
           <div style={{ display: "flex", justifyContent: "center", marginBottom: "20px" }}>
             <Image

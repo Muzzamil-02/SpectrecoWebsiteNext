@@ -17,6 +17,9 @@ const page = () => {
           <TopSection imagePosition={"right"} componentText={technologyData.Section1} />
         </section>
         <section className='default-padding'>
+        <h4 style={{ color: "#d30c0b", textAlign: "center", paddingBottom: "30px" , textTransform:"uppercase" }}>
+          Tailored Solutions for Businesses & Investors
+        </h4>
           <CenterImagesCard data={technologyData.Section3} />
         </section>
         <section className='default-padding'>
@@ -25,7 +28,7 @@ const page = () => {
         <section className='default-padding'>
         <Container>
         <video controls autoPlay loop muted style={{ width: "100%" }}>
-            <source src="http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4" type="video/mp4"></source>
+            <source src="https://spectreco.com/wp-content/uploads/2024/06/video.mp4" type="video/mp4"></source>
           </video>
           </Container>
         </section>

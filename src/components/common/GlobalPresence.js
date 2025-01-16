@@ -4,15 +4,16 @@ import './Maincss.css'
 
 const GlobalPresence = () => {
   return (
-    <Container className="py-5">
+    <Container className="py-5" style={{paddingBottom:"100px !important"}}> 
       <Row className="align-items-center">
-      <h2  style={{textAlign:"center", marginBottom:"50px"}}>Our <span style={{color:"#d30c0b"}}>Global</span><span  > Presence</span></h2>
+      <h1  style={{textAlign:"center" , paddingBottom:"40px"}}>Our <span style={{color:"#d30c0b"}}>Global</span><span  > Presence</span></h1>
         {/* Image on the left */}
         <Col md={6}>
           <Image src="./images/map.png" alt="Global Map" fluid />
         </Col>
         <Col md={6}>
-          <p className='textalign-left'>
+          
+          <p className='textalign-left '>
             We are at the forefront of driving sustainable solutions and ESG initiatives worldwide.
             Our strategic partnerships and deep industry expertise enable us to collaborate with
             businesses, governments, and communities globally to create a sustainable future.

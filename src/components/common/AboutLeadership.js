@@ -10,11 +10,12 @@ const AboutLeadership = ({title,description}) => {
       margin: '0 auto',
     }}
   >
-    <Typography variant="h4" className='.heading-with-border' fontWeight="bold" gutterBottom>
+    <Typography variant="h5" className='.heading-with-border' fontWeight="normal" gutterBottom fontSize={40}>
       {title}
     </Typography>
     <div className='with-border'></div>
-    <Typography variant="body1" className='.heading-with-border' color="textSecondary">
+
+    <Typography variant="body1" className='.heading-with-border' color="textSecondary" fontSize={18}>
       {description}
     </Typography>
   </Box>

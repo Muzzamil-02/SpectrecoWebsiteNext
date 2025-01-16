@@ -28,14 +28,18 @@ const TopSection = ({ imagePosition, isContainer, componentText }) => {
             marginBottom: '20px',
           }}
           dangerouslySetInnerHTML={{
-            __html: `Simplifying your <span style="color: #D30C0B">Sustainability Journey</span> With ESG Solutions`,
+            __html: componentText.Heading.includes('Sustainability Journey')
+              ? `Simplifying your <span style="color: #D30C0B">Sustainability Journey</span> With ESG Solutions`
+              : componentText.Heading.includes('ESG')
+                ? `Simplified <span style="color: #D30C0B">ESG</span> Reporting - AI-Driven Platform`
+                : componentText.Heading,
           }}
         />
 
         <p
           style={{
-            fontSize: '20px',
-            color: '#555',
+            fontSize: '22px',
+            color:"#000",
             marginBottom: '32px',
             marginRight: '80px',
             fontWeight: 300

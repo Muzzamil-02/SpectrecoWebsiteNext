@@ -7,6 +7,7 @@
         },
         "Section2": [
             {
+                "img":"https://spectreco.com/wp-content/uploads/2024/11/Capital-Markets-as-Catalysts-for-Net-Zero-Targets-in-the-Decarbonization-Journey-of-Saudi-Arabia-A-White-Paper-1.jpg",
                 "title1": "WHITE PAPER",
                 "Heading": "Capital Markets as Catalysts for Net Zero Targets in the Decarbonization Journey of Saudi Arabia",
                 "text1": "",
@@ -14,6 +15,7 @@
                 "btn": "Read More"
             },
             {
+                "img":"https://spectreco.com/wp-content/uploads/2024/11/Driving-Decarbonization-in-Pakistan-Capital-Markets-and-the-London-Stock-Exchange-Group-as-Catalysts-for-Net-Zero-Targets-1.jpg",
                 "title1": "WHITE PAPER",
                 "Heading": "Capital Markets as Catalysts for Net Zero Targets in the Decarbonization Journey of Saudi Arabia",
                 "text1": "Capital Markets and the London Stock Exchange Group as Catalysts for Net Zero Targets",
@@ -21,6 +23,7 @@
                 "btn": "Read More"
             },
             {
+                "img":"https://spectreco.com/wp-content/uploads/2024/11/From-Drought-to-Development-Strategic-interventions-for-a-Climate-resilient-Somalia-A-White-Paper-1.jpg",
                 "title1": "WHITE PAPER",
                 "Heading": "Capital Markets as Catalysts for Net Zero Targets in the Decarbonization Journey of Saudi Arabia",
                 "text1": "Capital Markets and the London Stock Exchange Group as Catalysts for Net Zero Targets",
@@ -28,6 +31,7 @@
                 "btn": "Read More"
             },
             {
+               "img":"https://spectreco.com/wp-content/uploads/2024/11/Revise-the-Formula-The-Transition-Approach-to-Climate-Change-Mitigation-and-Adaptation-1.jpg",
                 "title1": "WHITE PAPER",
                 "Heading": "Capital Markets as Catalysts for Net Zero Targets in the Decarbonization Journey of Saudi Arabia",
                 "text1": "Capital Markets and the London Stock Exchange Group as Catalysts for Net Zero Targets",
@@ -35,6 +39,7 @@
                 "btn": "Read More"
             },
             {
+                "img":"https://spectreco.com/wp-content/uploads/2024/11/Strategic-Decarbonization-in-Ontario-A-White-Paper-1.jpg",
                 "title1": "WHITE PAPER",
                 "Heading": "Capital Markets as Catalysts for Net Zero Targets in the Decarbonization Journey of Saudi Arabia",
                 "text1": "Capital Markets and the London Stock Exchange Group as Catalysts for Net Zero Targets",
@@ -42,12 +47,30 @@
                 "btn": "Read More"
             },
             {
+                "img":"https://spectreco.com/wp-content/uploads/2024/12/belize.jpg",
                 "title1": "WHITE PAPER",
                 "Heading": "Capital Markets as Catalysts for Net Zero Targets in the Decarbonization Journey of Saudi Arabia",
                 "text1": "Capital Markets and the London Stock Exchange Group as Catalysts for Net Zero Targets",
+                "text2": "This whitepaper explores the pivotal role of capital markets in advancing Saudi Arabia’s decarbonization goals under Vision 2030, highlighting the importance of financial instruments, ESG integration, and regulatory frameworks in supporting the nation’s transition to a net-zero economy by 2060.",
+                "btn": "Read More"
+            },
+            {
+                "img":"https://spectreco.com/wp-content/uploads/2024/11/Copy-of-The-Transition-of-the-Real-Estate-Sector-2.jpg",
+                "title1": "Report",
+                "Heading": "The Transition of the Real Estate Sector",
+                "text1": "A Path to Net Zero Commitment",
+                "text2": "This report provides a comprehensive roadmap for the real estate industry’s essential shift toward achieving net-zero emissions, addressing environmental risks, regulatory frameworks, sustainable strategies, and the pivotal role of technology and finance in building a sustainable future",
+                "btn": "Read More"
+            },
+            {
+                "img":"https://spectreco.com/wp-content/uploads/2024/11/Revise-the-Formula-The-Transition-Approach-to-Climate-Change-Mitigation-and-Adaptation-1.jpg",
+                "title1": "WHITE PAPER",
+                "Heading": "The Transition to a Net Zero Future",
+                "text1": "A Profound Economic Opportunity for Pakistan",
                 "text2": "This whitepaper explores the pivotal role of capital markets in advancing Saudi Arabia’s decarbonization goals under Vision 2030, highlighting the importance of financial instruments, ESG integration, and regulatory frameworks in supporting the nation’s transition to a net-zero economy by 2060.",
                 "btn": "Read More"
             }
+            
         ],
         "Section3":{
             "img":"https://spectreco.com/wp-content/uploads/2024/11/Copy-of-The-Transition-of-the-Real-Estate-Sector-2.jpg",

@@ -91,7 +91,7 @@ export default function ResponsiveNavbar() {
      
             </NavDropdown>
             <Nav.Link as={Link} href="/contactus">Contact Us</Nav.Link>
-            <Nav.Link as={Button} style={styles.button}>
+            <Nav.Link href='https://platform.spectreco.com/' as={Button} style={styles.button}>
              Start Free Trial
             </Nav.Link>
           </Nav>

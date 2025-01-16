@@ -4,5 +4,4 @@ const nextConfig = {
         domains: ['spectreco.com'],
       },
 };
- 
 export default nextConfig;
