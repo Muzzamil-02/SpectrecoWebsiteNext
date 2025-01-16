@@ -6,7 +6,7 @@ import { Navigation } from 'swiper';
 import "./Maincss.css"
 
 
-const Slider = ({components,heading}) => {
+const Slider = ({components=[],heading}) => {
    
       console.log("title",components)
 
@@ -27,17 +27,17 @@ const Slider = ({components,heading}) => {
             paddingLeft: "50px"
           }}
       >
-        {components.map((card, index) => (
+        {components?.map((card, index) => (
           <SwiperSlide key={index} style={{margin:0}}>
             <div
               style={{
-                minHeight: "220px",
+                minHeight: "300px",
                 backgroundColor: "#fff",
-                padding: "25px 15px",
+                padding: "20px 10px",
                 borderRadius: "8px",
                 boxShadow: "0 2px 5px rgba(0,0,0,0.1)",
                 textAlign: "left",
-                marginRight: `45px`
+                marginRight: `40px`
               }}
             >
               <p style={{ margin: "10px 0" ,fontSize:"20px",color:"#d30c0b" }}>{card.title}</p>

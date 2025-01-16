@@ -39,6 +39,7 @@ const page = () => {
       <IndustryKeyComp heading={data.builtinpage.section4.heading}
       components={data.builtinpage.section4.components}
       />
+     
       <Slider components={data.builtinpage.keyskaeholderslider.components}
       heading={data.builtinpage.keyskaeholderslider.heading}
       backgound="f9f9f9"

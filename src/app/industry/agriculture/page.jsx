@@ -16,6 +16,8 @@ import TickerComponent from '@/components/common/Ticker'
 import IndustryLeftImage from '@/components/common/IndustryLeftImage'
 import CenterText from '@/components/common/CenterText'
 import SustainableReporting from '@/components/common/SustainableReporting'
+import NewSlider2 from '@/components/common/NewSlider2'
+import NewSlider from '@/components/common/NewSlider'
 const page = () => {
   return (
     <>
@@ -33,6 +35,8 @@ const page = () => {
       <IndustryKeyComp heading={data.agriculturepage.section4.heading}
       components={data.agriculturepage.section4.components}
       />
+      <NewSlider components={data.agriculturepage.keyskaeholderslider.components}/>
+      
       {/* <Slider/> */}
       <Phases cardsData={data.agriculturepage.section5.component}/>
       <IndustryCenterDescription heading={data.agriculturepage.section6.heading}
@@ -41,6 +45,7 @@ const page = () => {
       <DrivingValue cardsData={data.agriculturepage.section7.component}/>
      
       <IndustryImage2  imageUrl={data.agriculturepage.section8.imageUrl}/>
+      <NewSlider2 components={data.agriculturepage.secondSwiper.components}/>
       
       <CenterText isContainer={true}
         heading={data.agriculturepage.section9.heading}
