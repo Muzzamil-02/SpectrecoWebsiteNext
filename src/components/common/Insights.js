@@ -1,104 +1,107 @@
+// export default Insights;
 "use client";
 
 import React from "react";
+import { Card, Button, Container, Row, Col } from "react-bootstrap";
 import insightsData from "@/lib/constant/insights.json";
-import pressreleeseData from '@/lib/constant/pressreleese.json';
+import pressreleeseData from "@/lib/constant/pressreleese.json";
 
+const Insights = ({ data, showReadMore }) => {
+  if (!data || !data.section1) {
+    return <p>No data available.</p>;
+  }
 
-const Insights = ({ data }) => {
-    if (!data || !data.section1) {
-      return <p>No data available.</p>;
-    }
-  
-    return (
-      <div style={{ textAlign: "left", padding: "20px", margin: "0 0 10px" }}>
-        <h2 style={{ fontSize: "32px", marginBottom: "30px", textAlign: "center" }}>
-          {data.section1.title}
-        </h2>
-  
-        <div style={{
-          display: "flex",
-          justifyContent: "center",
-          gap: "20px",
-          alignItems: "stretch",
-          flexWrap: "wrap",
-        }}>
-          {data.section1.articles.map((item, index) => (
-            <div key={index} style={{
-              width: "360px",
-              border: "1px solid #ccc",
-              display: "flex",
-              flexDirection: "column",
-              height: "auto",
-              boxShadow: "0 4px 8px rgba(0,0,0,0.1)",
-              borderRadius: "8px",
-              overflow: "hidden",
-            }}>
+  return (
+    <Container className="py-4">
+      <h2 className="text-center mb-4" style={{ fontSize: "32px" }}>
+        {data.section1.title}
+      </h2>
+
+      <Row className="justify-content-start g-4">
+        {data.section1.articles.map((item, index) => (
+          <Col key={index} xs={12} sm={6} md={4}>
+            <Card className="h-100 shadow-sm border-0">
               <div style={{ height: "180px", overflow: "hidden" }}>
-                <img src={item.image} alt={item.title} style={{ width: "100%", height: "100%", objectFit: "cover" }} />
+                <Card.Img
+                  variant="top"
+                  src={item.image}
+                  alt={item.title}
+                  style={{ height: "100%", objectFit: "cover" }}
+                />
               </div>
-              <div style={{ padding: "15px", display: "flex", flexDirection: "column" }}>
-                <h3 style={{ fontSize: "18px", margin: "10px 0" }}>{item.title}</h3>
-                <p style={{
-                  fontSize: "14px",
-                  color: "#555",
-                  overflow: "hidden",
-                  textOverflow: "ellipsis",
-                  display: "-webkit-box",
-                  WebkitLineClamp: 3,
-                  WebkitBoxOrient: "vertical",
-                  margintop: "auto",
-                  marginBottom: "8px",
-                }}>{item.description}</p>
-                <div style={{ display: "flex", alignItems: "center", gap: "5px" }}>
-                  <a href={item.categoryLink} style={{
-                    fontSize: "12px",
-                    color: "rgb(201, 86, 76)",
-                    textDecoration: "none",
-                    textTransform: "uppercase",
-                    fontWeight: "bold",
+              <Card.Body className="d-flex flex-column">
+                <Card.Title style={{ fontSize: "18px" }}>
+                  {item.title}
+                </Card.Title>
+                <Card.Text
+                  style={{
+                    fontSize: "14px",
+                    color: "#555",
+                    overflow: "hidden",
+                    textOverflow: "ellipsis",
+                    display: "-webkit-box",
+                    WebkitLineClamp: 3,
+                    WebkitBoxOrient: "vertical",
+                    marginTop: "auto",
+                    marginBottom: "8px",
                   }}
-                    onMouseOver={(e) => (e.currentTarget.style.color = "#e7685d")}
-                    onMouseLeave={(e) => (e.currentTarget.style.color = "#c9564c")}>
+                >
+                  {item.description}
+                </Card.Text>
+                <div className="d-flex align-items-center gap-1">
+                  <a
+                    href={item.categoryLink}
+                    className="text-uppercase fw-bold"
+                    style={{
+                      fontSize: "12px",
+                      color: "rgb(201, 86, 76)",
+                      textDecoration: "none",
+                    }}
+                    onMouseOver={(e) =>
+                      (e.currentTarget.style.color = "#e7685d")
+                    }
+                    onMouseLeave={(e) =>
+                      (e.currentTarget.style.color = "#c9564c")
+                    }
+                  >
                     {item.category}
                   </a>
                   <span style={{ color: "#888" }}>-</span>
-                  <p style={{ fontSize: "12px", color: "#AAAAAA", margin: 0 }}>{item.date}</p>
+                  <p
+                    className="mb-0"
+                    style={{ fontSize: "12px", color: "#AAAAAA" }}
+                  >
+                    {item.date}
+                  </p>
                 </div>
-              </div>
-            </div>
-          ))}
+              </Card.Body>
+            </Card>
+          </Col>
+        ))}
+      </Row>
+
+      {showReadMore && (
+        <div className="text-center mt-4">
+          <Button
+            variant="danger"
+            style={{
+              textTransform: "uppercase",
+              letterSpacing: "1px",
+              fontSize: "15px",
+            }}
+            onMouseOver={(e) =>
+              (e.currentTarget.style.backgroundColor = "#e7685d")
+            }
+            onMouseLeave={(e) =>
+              (e.currentTarget.style.backgroundColor = "#d30c0b")
+            }
+          >
+            READ MORE
+          </Button>
         </div>
-        <div style={{ textAlign: "center", marginTop: "30px" }}>
-        <a
-          href="#"
-          style={{
-            padding: "10px 20px",
-            textTransform: "uppercase",
-            transition: "all 0.3s ease",
-            letterSpacing: "1px",
-            display: "inline-block",
-            color: "#fff",
-            backgroundColor: "#d30c0b",
-            fontSize: "15px",
-            margin: "0 0 40px",
-            textDecoration: "none",
-          }}
-          onMouseOver={(e) =>
-            (e.currentTarget.style.backgroundColor = "#e7685d")
-          }
-          onMouseLeave={(e) =>
-            (e.currentTarget.style.backgroundColor = "#d30c0b")
-          }
-        >
-          READ MORE
-        </a>
-      </div>
-    </div>
+      )}
+    </Container>
   );
 };
 
-  
-
-  
 export default Insights;
