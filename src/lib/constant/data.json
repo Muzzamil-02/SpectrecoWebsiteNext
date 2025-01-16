@@ -1,502 +1,2493 @@
 {
-    "agriculturepage": {
-        "section1": {
-            "title": "Elevating",
-            "highlightedText": "Infrastructure Development and Built Environment Sustainability",
-            "title2": "with ESG Expertise",
-            "description": "Leverage Spectreco’s expertise in infrastructure development and ESG services for the built environment to drive profitability, ensure compliance across regulations and standards, and simplify complexities across frameworks.",
-            "buttonText": "Book a session today!",
-            "imageUrl": "/images/buit-infra1.png"
-        },
-        "section2": {
-            "heading": "Built Environment",
-            "description": "Mastering infrastructure development and built environment sustainability entails a profound grasp of construction methodologies, materials, and regulatory landscapes. This expertise empowers professionals to navigate complexities, ensuring projects are both financially viable and environmentally sustainable. It’s the cornerstone for strategic decision-making and lucrative investment opportunities in the industry. Given that built environment contributes to 40% of emissions globally, we focus on delivering ESG services for built environment, driving sustainability and profitability alike."
-        },
-        "section3": {
-            "imageUrl": "/images/built-cta-2048x484.jpg"
-        },
-        "section4": {
-            "heading": "Built Environment",
-            "components": [
-                {
-                    "title": "TRANSPORTATION NETWORKS",
-                    "imageUrl": "/images/transportationicon.png"
-                },
-                {
-                    "title": "UTILITIES INFRASTRUCTURE",
-                    "imageUrl": "/images/utilitiesicon.png"
-                },
-                {
-                    "title": "PUBLIC INFRASTRUCTURE",
-                    "imageUrl": "/images/publicicon.png"
-                },
-                {
-                    "title": "SOCIAL INFRASTRUCTURE",
-                    "imageUrl": "/images/socialicon.png"
-                },
-                {
-                    "title": "NATURAL INFRASTRUCTURE",
-                    "imageUrl": "/images/naturalicon.png"
-                },
-                {
-                    "title": "DIGITAL INFRASTRUCTURE",
-                    "imageUrl": "/images/digitalicon.png"
-                }
-            ]
-        },
-        "section5": {
-            "component": [
-                {
-                    "   title": "Planning and Development",
-                    "content": [
-                        {
-                            "subtitle": "Environmental Assessment:",
-                            "description": " Conduct comprehensive environmental impact assessments to identify potential ecological risks and opportunities."
-                        },
-                        {
-                            "subtitle": "Sustainable Site Selection:",
-                            "description": " Prioritize sustainable site selection as part of ESG services for built environment sustainability by considering factors such as biodiversity, land use, and community impact."
-                        },
-                        {
-                            "subtitle": "Stakeholder Engagement:",
-                            "description": "Engage with stakeholders, including local communities and environmental groups, to gather input and address concerns."
-                        },
-                        {
-                            "subtitle": "Sustainable Design Integration:",
-                            "description": " Integrate sustainable design principles from the outset to minimize the project’s environmental footprint and enhance long-term resilience."
-                        }
-                    ],
-                    "imageURL": "/images/phases1.jpg"
-                },
-                {
-                    "   title": "Funding and Asset Management",
-                    "content": [
-                        {
-                            "subtitle": "Sustainability Integration:",
-                            "description": "  Incorporate sustainability criteria into investment decision-making processes to evaluate environmental, social, and governance (ESG) risks and opportunities."
-                        },
-                        {
-                            "subtitle": "Asset Resilience Assessment:",
-                            "description": " Assess the long-term sustainability performance and resilience of infrastructure assets to mitigate risks and enhance value creation."
-                        },
-                        {
-                            "subtitle": "Sustainable Investment Criteria:",
-                            "description": " Engage with investors and stakeholders to highlight ESG services for built environment projects, emphasizing sustainability benefits and attracting capital for infrastructure development."
-                        },
-                        {
-                            "subtitle": "Sustainable Asset Management",
-                            "description": " Implement sustainable asset management practices, such as energy-efficient retrofits and life cycle assessments, to optimize asset performance and minimize environmental impact over time."
-                        }
-                    ],
-                    "imageURL": "/images/phases2.jpg"
-                },
-                {
-                    "   title": "Construction",
-                    "content": [
-                        {
-                            "subtitle": "Eco-friendly Materials:",
-                            "description": " Procure eco-friendly building materials sourced from renewable or recycled sources to reduce embodied carbon and environmental impact."
-                        },
-                        {
-                            "subtitle": "Waste Management:",
-                            "description": " Implement waste management strategies, such as material reuse and recycling, to minimize construction waste and landfill disposal."
-                        },
-                        {
-                            "subtitle": "Green Building Standards:",
-                            "description": " Adhere to green building standards and certifications, such as LEED or BREEAM, as part of built environment sustainability practices to ensure high performance and sustainability throughout the construction process."
-                        },
-                        {
-                            "subtitle": "Sustainable Construction Practices:",
-                            "description": " Employ sustainable construction practices, including energy-efficient building techniques and water-saving measures, to optimize resource use and minimize environmental impact on-site."
-                        }
-                    ],
-                    "imageURL": "/images/phases3.jpg"
-                },
-                {
-                    "   title": "Sales and Leasing",
-                    "content": [
-                        {
-                            "subtitle": "ESG Marketing Strategies:",
-                            "description": " Develop ESG marketing strategies as part of ESG services for built environment projects to highlight sustainability features and benefits, attracting environmentally conscious tenants and buyers."
-                        },
-                        {
-                            "subtitle": "Energy-efficient Installations:",
-                            "description": " Showcase energy-efficient installations, such as renewable energy systems and smart building technologies, to enhance property value and appeal to sustainability-minded occupants."
-                        },
-                        {
-                            "subtitle": "Sustainable Incentives:",
-                            "description": " Provide incentives for sustainable practices, such as green leases or eco-friendly amenities, to encourage tenants and buyers to adopt environmentally responsible behaviors.Occupant Engagement: Engage with tenants and residents to promote sustainable living practices and foster a culture of environmental stewardship within the community."
-                        },
-                        {
-                            "subtitle": "Occupant Engagement:",
-                            "description": " Engage with tenants and residents to promote sustainable living practices and foster a culture of environmental stewardship within the community."
-                        }
-                    ],
-                    "imageURL": "/images/phases4.jpg"
-                },
-                {
-                    "   title": "Operations and Management",
-                    "content": [
-                        {
-                            "subtitle": "Energy Management Systems:",
-                            "description": " Install advanced energy management systems, including smart meters and building automation systems, to monitor and optimize energy consumption in real time."
-                        },
-                        {
-                            "subtitle": "Water-saving Technologies:",
-                            "description": " Implement water-saving technologies, such as low-flow fixtures and rainwater harvesting systems, to reduce water usage and promote water conservation."
-                        },
-                        {
-                            "subtitle": "Occupant Education:",
-                            "description": " Educate building occupants about sustainable practices, such as energy conservation and waste reduction, through outreach programs and educational initiatives."
-                        },
-                        {
-                            "subtitle": "Sustainability Monitoring:",
-                            "description": " Regularly monitor and report on key sustainability performance indicators for built environment sustainability, such as energy efficiency metrics and waste diversion rates, to track progress and identify areas for improvement."
-                        }
-                    ],
-                    "imageURL": "/images/phases5.jpg"
-                }
-            ]
-        },
-        "section6": {
-            "heading": "Driving Value through ESG",
-            "description": "By integrating ESG principles into infrastructure development and built environment sustainability, stakeholders can reap numerous benefits, enhancing financial performance while advancing broader societal and environmental objectives."
-        },
-        "section7": {
-            "component": [
-                {
-                    "title": "Enhanced Access to Capital",
-                    "description": " Showcasing sustainability credentials to investors to secure funding for infrastructure projects.",
-                    "logoURL": "../images/Driving-Value/icon1.svg"
-                },
-                {
-                    "title": "Price Premium",
-                    "description": " Commanding premium prices for sustainable infrastructure projects by highlighting long-term value and societal benefits.",
-                    "logoURL": "../images/Driving-Value/icon1.svg"
-                },
-                {
-                    "title": "Expedited Sales",
-                    "description": " Facilitating faster sales of infrastructure assets through streamlined processes and sustainability-focused marketing.",
-                    "logoURL": "../images/Driving-Value/icon1.svg"
-                },
-                {
-                    "title": "Increased Occupancy",
-                    "description": " Attracting environmentally conscious tenants and residents by promoting sustainable features and amenities.",
-                    "logoURL": "../images/Driving-Value/icon1.svg"
-                },
-                {
-                    "title": "Risk Mitigation",
-                    "description": " Minimizing project risks by integrating sustainable practices, thereby enhancing project resilience and longevity.",
-                    "logoURL": "../images/Driving-Value/icon1.svg"
-                },
-                {
-                    "title": "Improved Rental Yields",
-                    "description": " Enhancing rental yields through energy efficiency improvements and operational cost savings.",
-                    "logoURL": "../images/Driving-Value/icon1.svg"
-                }
-            ]
-        },
-        "section8": {
-            "imageUrl": "/images/industryCta.png"
-        },
-        "section9": {
-            "heading": "Optimize and Elevate Your ESG Performance",
-            "description": "Maximize your ESG impact with Spectreco’s comprehensive technology platform & consulting services, meticulously designed to propel your sustainability journey forward. Our innovative approach optimizes your built environment, simplifies the transition journey, and ensures compliance across multi-jurisdictions. With real-time insights, we empower you to navigate the complexities of ESG effortlessly, reduce costs, and drive substantial progress toward a more sustainable future. Harnessing real-time insights in our Sustainability Services enables impactful decision-making and optimized resource allocation for maximum ROI. Partner with Spectreco to confidently achieve your Net Zero targets while safeguarding profitability and enhancing long-term value creation in today’s complex regulatory landscape",
-            "imageUrl": "/images/hero-2.png"
-        },
-        "section10": {
-            "heading": "SUSTAINABILITY FRAMEWORKS & DISCLOSURES",
-            "text": "From predefined frameworks to customizable options, Spectreco’s AI-Driven platform streamlines sustainability disclosures tailored to your business needs. Access support for crafting audit-ready reports across all regulations, standards, and frameworks, ensuring compliance and meeting shareholders’ and stakeholders’ demands seamlessly.",
-            "imageUrl": "/images/esgcompanies.png"
-        },
-        "section12": {
-            "heading": "Sustainable Success",
-            "highlightText": "Business Goals",
-            "description1": "At Spectreco, our sustainability approach intertwines environmental stewardship, social responsibility, and economic prosperity. We strive to deliver sustainable solutions that deliver value to our clients while placing paramount importance on safeguarding the planet and promoting social equity.",
-            "description2": "Collaborating with us in the built infrastructure sector empowers stakeholders to capitalize on new avenues, implement sustainable solutions, adeptly manage risks, and emerge as trailblazers in sustainable advancement.",
-            "imageUrl": "/images/industrybinfra.png"
-        }
+    "agriculturepage":{
+    "section1": {
+      "title": "ESG Excellence in",
+      "highlightedText": "Infrastructure Development and Built Environment Sustainability",
+      "title2":"with ESG Expertise",
+      "description": "Leverage Spectreco’s expertise in infrastructure development and ESG services for the built environment to drive profitability, ensure compliance across regulations and standards, and simplify complexities across frameworks.",
+      "buttonText": "Book a session today!",
+       "imageUrl": "/images/buit-infra1.png"
     },
-    "builtinpage": {
-        "section1": {
-            "title": "Elevating",
-            "highlightedText": "Infrastructure Development and Built Environment Sustainability",
-            "title2": "with ESG Expertise",
-            "description": "Leverage Spectreco’s expertise in infrastructure development and ESG services for the built environment to drive profitability, ensure compliance across regulations and standards, and simplify complexities across frameworks.",
-            "buttonText": "Book a session today!",
-            "imageUrl": "/images/buit-infra1.png"
-        },
-        "section2": {
-            "heading": "Built Environment",
-            "description": "Mastering infrastructure development and built environment sustainability entails a profound grasp of construction methodologies, materials, and regulatory landscapes. This expertise empowers professionals to navigate complexities, ensuring projects are both financially viable and environmentally sustainable. It’s the cornerstone for strategic decision-making and lucrative investment opportunities in the industry. Given that built environment contributes to 40% of emissions globally, we focus on delivering ESG services for built environment, driving sustainability and profitability alike."
-        },
-        "section3": {
-            "imageUrl": "/images/built-cta-2048x484.jpg"
-        },
-        "section4": {
-            "heading": "Built Environment",
-            "components": [
-                {
-                    "title": "TRANSPORTATION NETWORKS",
-                    "imageUrl": "/images/transportationicon.png"
-                },
-                {
-                    "title": "UTILITIES INFRASTRUCTURE",
-                    "imageUrl": "/images/utilitiesicon.png"
-                },
-                {
-                    "title": "PUBLIC INFRASTRUCTURE",
-                    "imageUrl": "/images/publicicon.png"
-                },
-                {
-                    "title": "SOCIAL INFRASTRUCTURE",
-                    "imageUrl": "/images/socialicon.png"
-                },
-                {
-                    "title": "NATURAL INFRASTRUCTURE",
-                    "imageUrl": "/images/naturalicon.png"
-                },
-                {
-                    "title": "DIGITAL INFRASTRUCTURE",
-                    "imageUrl": "/images/digitalicon.png"
-                }
-            ]
-        },
-        "section5": {
-            "component": [
-                {
-                    "   title": "Planning and Development",
-                    "content": [
-                        {
-                            "subtitle": "Environmental Assessment:",
-                            "description": " Conduct comprehensive environmental impact assessments to identify potential ecological risks and opportunities."
-                        },
-                        {
-                            "subtitle": "Sustainable Site Selection:",
-                            "description": " Prioritize sustainable site selection as part of ESG services for built environment sustainability by considering factors such as biodiversity, land use, and community impact."
-                        },
-                        {
-                            "subtitle": "Stakeholder Engagement:",
-                            "description": "Engage with stakeholders, including local communities and environmental groups, to gather input and address concerns."
-                        },
-                        {
-                            "subtitle": "Sustainable Design Integration:",
-                            "description": " Integrate sustainable design principles from the outset to minimize the project’s environmental footprint and enhance long-term resilience."
-                        }
-                    ],
-                    "imageURL": "/images/phases1.jpg"
-                },
-                {
-                    "   title": "Funding and Asset Management",
-                    "content": [
-                        {
-                            "subtitle": "Sustainability Integration:",
-                            "description": "  Incorporate sustainability criteria into investment decision-making processes to evaluate environmental, social, and governance (ESG) risks and opportunities."
-                        },
-                        {
-                            "subtitle": "Asset Resilience Assessment:",
-                            "description": " Assess the long-term sustainability performance and resilience of infrastructure assets to mitigate risks and enhance value creation."
-                        },
-                        {
-                            "subtitle": "Sustainable Investment Criteria:",
-                            "description": " Engage with investors and stakeholders to highlight ESG services for built environment projects, emphasizing sustainability benefits and attracting capital for infrastructure development."
-                        },
-                        {
-                            "subtitle": "Sustainable Asset Management",
-                            "description": " Implement sustainable asset management practices, such as energy-efficient retrofits and life cycle assessments, to optimize asset performance and minimize environmental impact over time."
-                        }
-                    ],
-                    "imageURL": "/images/phases2.jpg"
-                },
-                {
-                    "   title": "Construction",
-                    "content": [
-                        {
-                            "subtitle": "Eco-friendly Materials:",
-                            "description": " Procure eco-friendly building materials sourced from renewable or recycled sources to reduce embodied carbon and environmental impact."
-                        },
-                        {
-                            "subtitle": "Waste Management:",
-                            "description": " Implement waste management strategies, such as material reuse and recycling, to minimize construction waste and landfill disposal."
-                        },
-                        {
-                            "subtitle": "Green Building Standards:",
-                            "description": " Adhere to green building standards and certifications, such as LEED or BREEAM, as part of built environment sustainability practices to ensure high performance and sustainability throughout the construction process."
-                        },
-                        {
-                            "subtitle": "Sustainable Construction Practices:",
-                            "description": " Employ sustainable construction practices, including energy-efficient building techniques and water-saving measures, to optimize resource use and minimize environmental impact on-site."
-                        }
-                    ],
-                    "imageURL": "/images/phases3.jpg"
-                },
-                {
-                    "   title": "Sales and Leasing",
-                    "content": [
-                        {
-                            "subtitle": "ESG Marketing Strategies:",
-                            "description": " Develop ESG marketing strategies as part of ESG services for built environment projects to highlight sustainability features and benefits, attracting environmentally conscious tenants and buyers."
-                        },
-                        {
-                            "subtitle": "Energy-efficient Installations:",
-                            "description": " Showcase energy-efficient installations, such as renewable energy systems and smart building technologies, to enhance property value and appeal to sustainability-minded occupants."
-                        },
-                        {
-                            "subtitle": "Sustainable Incentives:",
-                            "description": " Provide incentives for sustainable practices, such as green leases or eco-friendly amenities, to encourage tenants and buyers to adopt environmentally responsible behaviors.Occupant Engagement: Engage with tenants and residents to promote sustainable living practices and foster a culture of environmental stewardship within the community."
-                        },
-                        {
-                            "subtitle": "Occupant Engagement:",
-                            "description": " Engage with tenants and residents to promote sustainable living practices and foster a culture of environmental stewardship within the community."
-                        }
-                    ],
-                    "imageURL": "/images/phases4.jpg"
-                },
-                {
-                    "   title": "Operations and Management",
-                    "content": [
-                        {
-                            "subtitle": "Energy Management Systems:",
-                            "description": " Install advanced energy management systems, including smart meters and building automation systems, to monitor and optimize energy consumption in real time."
-                        },
-                        {
-                            "subtitle": "Water-saving Technologies:",
-                            "description": " Implement water-saving technologies, such as low-flow fixtures and rainwater harvesting systems, to reduce water usage and promote water conservation."
-                        },
-                        {
-                            "subtitle": "Occupant Education:",
-                            "description": " Educate building occupants about sustainable practices, such as energy conservation and waste reduction, through outreach programs and educational initiatives."
-                        },
-                        {
-                            "subtitle": "Sustainability Monitoring:",
-                            "description": " Regularly monitor and report on key sustainability performance indicators for built environment sustainability, such as energy efficiency metrics and waste diversion rates, to track progress and identify areas for improvement."
-                        }
-                    ],
-                    "imageURL": "/images/phases5.jpg"
-                }
-            ]
-        },
-        "section6": {
-            "heading": "Driving Value through ESG",
-            "description": "By integrating ESG principles into infrastructure development and built environment sustainability, stakeholders can reap numerous benefits, enhancing financial performance while advancing broader societal and environmental objectives."
-        },
-        "section7": {
-            "component": [
-                {
-                    "title": "Enhanced Access to Capital",
-                    "description": " Showcasing sustainability credentials to investors to secure funding for infrastructure projects.",
-                    "logoURL": "../images/Driving-Value/icon1.svg"
-                },
-                {
-                    "title": "Price Premium",
-                    "description": " Commanding premium prices for sustainable infrastructure projects by highlighting long-term value and societal benefits.",
-                    "logoURL": "../images/Driving-Value/icon1.svg"
-                },
-                {
-                    "title": "Expedited Sales",
-                    "description": " Facilitating faster sales of infrastructure assets through streamlined processes and sustainability-focused marketing.",
-                    "logoURL": "../images/Driving-Value/icon1.svg"
-                },
-                {
-                    "title": "Increased Occupancy",
-                    "description": " Attracting environmentally conscious tenants and residents by promoting sustainable features and amenities.",
-                    "logoURL": "../images/Driving-Value/icon1.svg"
-                },
-                {
-                    "title": "Risk Mitigation",
-                    "description": " Minimizing project risks by integrating sustainable practices, thereby enhancing project resilience and longevity.",
-                    "logoURL": "../images/Driving-Value/icon1.svg"
-                },
-                {
-                    "title": "Improved Rental Yields",
-                    "description": " Enhancing rental yields through energy efficiency improvements and operational cost savings.",
-                    "logoURL": "../images/Driving-Value/icon1.svg"
-                }
-            ]
-        },
-        "section8": {
-            "imageUrl": "/images/industryCta.png"
-        },
-        "section9": {
-            "heading": "Revolutionizing ESG Management with AI-Driven Platform",
-            "description": "Experience the future of infrastructure development and built environment sustainability with our cloud-native, AI-driven ESG platform tailored for the industry. From advanced reporting to tailored interventions, our recommendation engine maximizes environmental impact and financial performance.",
-            "imageUrl": "/images/hero-2.png"
-        },
-        "section10": {
-            "heading": "SUSTAINABILITY FRAMEWORKS & DISCLOSURES",
-            "text": "From predefined frameworks to customizable options, Spectreco’s AI-Driven platform streamlines sustainability disclosures tailored to your business needs. Access support for crafting audit-ready reports across all regulations, standards, and frameworks, ensuring compliance and meeting shareholders’ and stakeholders’ demands seamlessly.",
-            "imageUrl": "/images/esgcompanies.png"
-        },
-        "section12": {
-            "heading": "Sustainable Success",
-            "highlightText": "Business Goals",
-            "description1": "At Spectreco, our sustainability approach intertwines environmental stewardship, social responsibility, and economic prosperity. We strive to deliver sustainable solutions that deliver value to our clients while placing paramount importance on safeguarding the planet and promoting social equity.",
-            "description2": "Collaborating with us in the built infrastructure sector empowers stakeholders to capitalize on new avenues, implement sustainable solutions, adeptly manage risks, and emerge as trailblazers in sustainable advancement.",
-            "imageUrl": "/images/industrybinfra.png"
-        },
-        "keyskaeholderslider": {
-            "heading": "Built Environment",
-            "components": [
-                {
-                    "title": "Governemnt Agencies",
-                    "description": " Play a central role in infrastructure development by overseeing planning,funding, and regulation."
-                },
-                {
-                    "title": "Private Sector Contractors",
-                    "description": " Consturction, engeering, project management firms involved in designing, building, and maintaing insfrastructure projects."
-                },
-                {
-                    "title": "Investors and Financial Institutions",
-                    "description": " Provide funding and financing solutions for infrastructure projects, including equity investors, banks, and institutional lenders."
-                },
-                {
-                    "title": "End Users and Residents",
-                    "description": " Benefit directly from infrastructure services and amenities, such as transportation networks, utilities, and public facilities."
-                },
-                {
-                    "title": "Community and Enviornmental Groups",
-                    "description": " Advocate for sustainable and equitable infrastructure development, considering environment, social inclusion, & community engagement."
-                },
-                {
-                    "title": "Technology Providers",
-                    "description": " Offers solutions for enhancing efficiency, resilience, and sustainability, including digital infrastructure, smart tech, and renewable energy."
-                }
-            ]
-        },
-        "secondSwiper": {
-            "heading": "Built Environment",
-            "components": [
-                {
-                    "title": "Governemnt Agencies",
-                    "description": " Play a central role in infrastructure development by overseeing planning,funding, and regulation.",
-                    "imageUrl": "/images/esgcompanies.png"
-                },
-                {
-                    "title": "Private Sector Contractors",
-                    "description": " Consturction, engeering, project management firms involved in designing, building, and maintaing insfrastructure projects.",
-                    "imageUrl": "/images/esgcompanies.png"
-                },
-                {
-                    "title": "Investors and Financial Institutions",
-                    "description": " Provide funding and financing solutions for infrastructure projects, including equity investors, banks, and institutional lenders.",
-                    "imageUrl": "/images/esgcompanies.png"
-                },
-                {
-                    "title": "End Users and Residents",
-                    "description": " Benefit directly from infrastructure services and amenities, such as transportation networks, utilities, and public facilities.",
-                    "imageUrl": "/images/esgcompanies.png"
-                },
-                {
-                    "title": "Community and Enviornmental Groups",
-                    "description": " Advocate for sustainable and equitable infrastructure development, considering environment, social inclusion, & community engagement.",
-                    "imageUrl": "/images/esgcompanies.png"
-                },
-                {
-                    "title": "Technology Providers",
-                    "description": " Offers solutions for enhancing efficiency, resilience, and sustainability, including digital infrastructure, smart tech, and renewable energy.",
-                    "imageUrl": "/images/esgcompanies.png"
-                }
-            ]
-        }
+    "section2":{
+        "heading":"AGRICULTURE",
+        "description":"In the world of agriculture, we navigate a diverse terrain, from growing crops to managing livestock and running farms. As a fundamental pillar of food security and economic growth, the agriculture industry nourishes communities, fosters prosperity, and cares for the environment, weaving together the fabric of global sustenance and success."
+
+    },
+    "section3":{
+        "imageUrl":"/images/built-cta-2048x484.jpg"
+    },
+    "section4":{
+        "heading":"Agriculture",
+        "components": [
+            { "title": "CROP PRODUCTION", "imageUrl": "/images/transportationicon.png" },
+            { "title": "LIVESTOCK FARMING", "imageUrl": "/images/utilitiesicon.png" },
+            { "title": "AGRIBUSINESS", "imageUrl": "/images/publicicon.png" },
+            { "title": "FOOD DISTRIBUTION", "imageUrl": "/images/socialicon.png" },
+            { "title": "RESEARCH & DEVELOPMENT", "imageUrl": "/images/naturalicon.png" },
+            { "title": "GOVERNMENT & REGULATORY BODIES", "imageUrl": "/images/digitalicon.png" }
+           
+          ]
+    },
+    "section5":{
+        "component":[
+            {
+             "   title": "Production Phase",
+                "content": [
+                  {
+                      "subtitle": "Water Management:",
+                      "description": " Implementing efficient irrigation systems and water conservation practices to minimize water usage and reduce the impact on local water resources."
+                  },
+                  {
+                      "subtitle": "Soil Health:",
+                      "description": " Adopting sustainable soil management practices such as crop rotation, cover cropping, and reduced tillage to enhance soil fertility, structure, and resilience."
+                  },
+                  {
+                      "subtitle": "Biodiversity Conservation:",
+                      "description": "Preserving and enhancing on-farm biodiversity through the preservation of natural habitats, planting hedgerows, and integrating native vegetation."
+                  },
+                  {
+                      "subtitle": "Energy Efficiency:",
+                      "description": " Incorporating renewable energy sources and implementing energy-efficient technologies to reduce greenhouse gas emissions and reliance on fossil fuels.."
+                  }
+                 
+                  
+              ],
+                
+                "imageURL": "/images/phases1.jpg"
+              },
+              {
+                "   title": "Processing and Distribution Phase",
+                   "content": [
+                     {
+                         "subtitle": "Agriculture Waste Management:",
+                         "description": "  Implementing waste reduction and recycling measures to minimize food waste, packaging waste, and other forms of waste generated during processing and distribution."
+                     },
+                     {
+                         "subtitle": "Transportation Efficiency:",
+                         "description": " Optimizing transportation routes, modes, and logistics to minimize carbon emissions and energy consumption associated with the transportation of agricultural products."
+                     },
+                     {
+                         "subtitle": "Supply Chain Transparency:",
+                         "description": " Enhancing transparency and traceability throughout the supply chain to ensure ethical sourcing, fair labor practices, and responsible production methods."
+                     }
+            
+                   
+                 ],
+                   
+                  "imageURL": "/images/phases2.jpg"
+                 },
+                 {
+                    "   title": "Consumption Phase",
+                       "content": [
+                         {
+                             "subtitle": "Healthy Eating Promotion:",
+                             "description": " Promoting sustainable and healthy dietary choices among consumers through education, marketing, and labeling initiatives."
+                         },
+                         {
+                             "subtitle": "Food Waste Reduction:",
+                             "description": " Encouraging food waste reduction practices at the consumer level through awareness campaigns, portion control, and proper storage techniques."
+                         },
+                         {
+                             "subtitle": "Local Sourcing:",
+                             "description": " Supporting local food systems and reducing food miles by sourcing products from local farmers and producers whenever possible."
+                         }
+                        
+                      
+                     ],
+                       
+                     "imageURL": "/images/phases3.jpg"
+                     },
+                     {
+                        "   title": "Post-Consumption Phase",
+                           "content": [
+                             {
+                                 "subtitle": "Composting and Recycling:",
+                                 "description": " Encouraging composting of organic waste and recycling of packaging materials to minimize landfill waste and promote circularity."
+                             },
+                             {
+                                 "subtitle": "Community Engagement:",
+                                 "description": " Engaging with local communities to address food security issues, promote urban agriculture initiatives, and foster community gardens and food sharing programs."
+                             },
+                             {
+                                 "subtitle": "Policy Advocacy:",
+                                 "description": " Advocating for policies and regulations that support sustainable agriculture practices, protect natural resources, and promote equitable access to healthy food."
+                             }
+                         ],
+                           
+                         "imageURL": "/images/phases4.jpg"
+                         }
+                       
+        ]
+    },
+    "section6":{
+        "heading":"Driving Value through ESG",
+        "description":"By integrating ESG principles into infrastructure development and built environment sustainability, stakeholders can reap numerous benefits, enhancing financial performance while advancing broader societal and environmental objectives."
+
+    },
+    "section7":{
+        "component":[
+            {
+                "title": "Premium Market Access",
+                "description": " Ethically produced goods open doors to premium markets, commanding higher prices and fostering brand loyalty.",
+                "logoURL": "../images/Driving-Value/icon1.svg"
+              },
+              {
+                "title": "Improved Soil Health",
+                "description": " Sustainable methods rejuvenate soil fertility, bolstering crop yields and long-term sustainability.",
+                "logoURL": "../images/Driving-Value/icon1.svg"
+              },
+              {
+                "title": "Enhanced Resilience",
+                "description": " Sustainable practices fortify agricultural operations against environmental challenges, ensuring long-term productivity and livelihood security.",
+                "logoURL": "../images/Driving-Value/icon1.svg"
+              },
+              {
+                "title": "Cost Savings",
+                "description": " Sustainable techniques streamline operations, reducing input costs and enhancing profitability for farmers.",
+                "logoURL": "../images/Driving-Value/icon1.svg"
+              },
+              {
+                "title": "Risk Mitigation",
+                "description": " Sustainable practices mitigate environmental and regulatory risks, safeguarding against market fluctuations and disruptions.",
+                "logoURL": "../images/Driving-Value/icon1.svg"
+              },
+              {
+                "title": "Brand Differentiation",
+                "description": " Sustainability initiatives set businesses apart, building trust and reputation among discerning consumers.",
+                "logoURL": "../images/Driving-Value/icon1.svg"
+              },
+              {
+                "title": "Regulatory Compliance",
+                "description": " Proactive sustainability measures ensure compliance with regulations and standards, securing market access and investment.",
+                "logoURL": "../images/Driving-Value/icon1.svg"
+              },
+              {
+                "title": "Long-Term Viability",
+                "description": " Investment in sustainability secures the future of agricultural operations, preserving resources for generations to come.",
+                "logoURL": "../images/Driving-Value/icon1.svg"
+              }
+        ]
+    },
+    "section8":{
+        "imageUrl":"/images/industryCta.png"
+    },
+    "section9":{
+        "heading":"Revolutionizing Sustainable Agriculture Management with AI Driven Platform",
+        "description":"Experience the future of agriculture sustainability with our cloud-native, AI-driven ESG platform tailored for the industry. From advanced reporting to tailored interventions, our recommendation engine maximizes environmental impact and financial performance.",
+        "imageUrl": "/images/hero-2.png"
+    },
+    "section10":{
+        "heading":"SUSTAINABILITY FRAMEWORKS & DISCLOSURES",
+        "text":"From predefined frameworks to customizable options, Spectreco’s AI-Driven platform streamlines sustainability disclosures tailored to your business needs. Access support for crafting audit-ready reports across all regulations, standards, and frameworks, ensuring compliance and meeting shareholders’ and stakeholders’ demands seamlessly.",
+         "imageUrl": "/images/esgcompanies.png"
+
+    },
+    "section12":{
+        "heading": "Sustainable Success",
+        "highlightText": "Business Goals",
+        "description1": "At Spectreco, our sustainability approach intertwines environmental stewardship, social responsibility, and economic prosperity. We strive to deliver sustainable solutions that deliver value to our clients while placing paramount importance on safeguarding the planet and promoting social equity.",
+        "description2": "Collaborating with us in the built infrastructure sector empowers stakeholders to capitalize on new avenues, implement sustainable solutions, adeptly manage risks, and emerge as trailblazers in sustainable advancement.",
+        "imageUrl": "/images/industrybinfra.png"
+    },
+    "keyskaeholderslider":{
+        "heading":"Agriculture",
+       "components":[
+        {
+            "title": "Farmer & Producers",
+            "description": " Responsible for sustainable crop cultivation, livestock, and agriculture management."
+          },
+          {
+            "title": "Processors, Distributors, & Suppliers",
+            "description": " Involved in processing, distributing, and supplying agricultural products and inputs."
+          },
+          {
+            "title": "Consumers & Community",
+            "description": " End-users of agricultural products and local supporters of agricultural development."
+            
+          },
+          {
+            "title": "Government & Industry Associations",
+            "description": " Established policies, regulations, and standards for the industry."
+            
+          },
+          {
+            "title": "Investors, NGOs, & Financial Institutions",
+            "description": " Provide funding and support for agricultural initiatives and sustainability efforts."
+            
+          },
+          {
+            "title": "Research, Academic, & Service Providers",
+            "description": " Conduct research, education, and provide agricultural services and technologies."
+            
+          }
+ 
+       ]
+ 
+    },
+    "secondSwiper":{
+        "heading":"Built Environment",
+       "components":[
+        {
+            "title": "Risk & Opportunity",
+            "description": " Navigate ESG-aligned and opportunities for resilient, sustainable growth.",
+                   "imageUrl": "/images/esgcompanies.png"
+          },
+          {
+            "title": "Carbon Cleanse",
+            "description": " Streamline emission measurement and achive a successful transition to net zero.",
+                     "imageUrl": "/images/esgcompanies.png"
+          },
+          {
+            "title": "Waste Management",
+            "description": " Streamline emission measurement and achive a successful transition to net zero.",
+                     "imageUrl": "/images/esgcompanies.png"
+           
+          },
+          {
+            "title": "Sustainable Supply Chain",
+            "description": " Streamline and optimize supply chain sustainability efforts with responsible sourcing practice.",
+                     "imageUrl": "/images/esgcompanies.png"
+           
+          },
+          {
+            "title": "Governance & Oversight",
+            "description": " Promote transparency and accountability through compliance and ethical governance practices.",
+                     "imageUrl": "/images/esgcompanies.png"
+           
+          },
+          {
+            "title": "Reporting & Disclosures",
+            "description": " Enhance transparency and accountability through comprehensive reporting and practices.",
+                     "imageUrl": "/images/esgcompanies.png"
+           
+          },
+          {
+            "title": "Communication & Engagement",
+            "description": " Strengthen stakeholder relationships for sustainable growth throught effective communication & engagement.",
+                     "imageUrl": "/images/esgcompanies.png"
+           
+          },
+          {
+            "title": "Community Impact",
+            "description": " Foster growth and prosperity through community centric initiatives and employee engagement.",
+                     "imageUrl": "/images/esgcompanies.png"
+           
+          }
+       ]
+ 
     }
+    
+  },
+"builtinpage":{
+    "section1": {
+      "title": "Elevating",
+      "highlightedText": "Infrastructure Development and Built Environment Sustainability",
+      "title2":"with ESG Expertise",
+      "description": "Leverage Spectreco’s expertise in infrastructure development and ESG services for the built environment to drive profitability, ensure compliance across regulations and standards, and simplify complexities across frameworks.",
+      "buttonText": "Book a session today!",
+       "imageUrl": "/images/buit-infra1.png"
+    },
+    "section2":{
+        "heading":"Built Environment",
+        "description":"Mastering infrastructure development and built environment sustainability entails a profound grasp of construction methodologies, materials, and regulatory landscapes. This expertise empowers professionals to navigate complexities, ensuring projects are both financially viable and environmentally sustainable. It’s the cornerstone for strategic decision-making and lucrative investment opportunities in the industry. Given that built environment contributes to 40% of emissions globally, we focus on delivering ESG services for built environment, driving sustainability and profitability alike."
+
+    },
+    "section3":{
+        "imageUrl":"/images/built-cta-2048x484.jpg"
+    },
+    "section4":{
+        "heading":"Built Environment",
+        "components": [
+            { "title": "TRANSPORTATION NETWORKS", "imageUrl": "/images/transportationicon.png" },
+            { "title": "UTILITIES INFRASTRUCTURE", "imageUrl": "/images/utilitiesicon.png" },
+            { "title": "PUBLIC INFRASTRUCTURE", "imageUrl": "/images/publicicon.png" },
+            { "title": "SOCIAL INFRASTRUCTURE", "imageUrl": "/images/socialicon.png" },
+            { "title": "NATURAL INFRASTRUCTURE", "imageUrl": "/images/naturalicon.png" },
+            { "title": "DIGITAL INFRASTRUCTURE", "imageUrl": "/images/digitalicon.png" }
+           
+          ]
+    },
+    "section5":{
+        "component":[
+            {
+             "   title": "Planning and Development",
+                "content": [
+                  {
+                      "subtitle": "Environmental Assessment:",
+                      "description": " Conduct comprehensive environmental impact assessments to identify potential ecological risks and opportunities."
+                  },
+                  {
+                      "subtitle": "Sustainable Site Selection:",
+                      "description": " Prioritize sustainable site selection as part of ESG services for built environment sustainability by considering factors such as biodiversity, land use, and community impact."
+                  },
+                  {
+                      "subtitle": "Stakeholder Engagement:",
+                      "description": "Engage with stakeholders, including local communities and environmental groups, to gather input and address concerns."
+                  },
+                  {
+                      "subtitle": "Sustainable Design Integration:",
+                      "description": " Integrate sustainable design principles from the outset to minimize the project’s environmental footprint and enhance long-term resilience."
+                  }
+                 
+                  
+              ],
+                
+                "imageURL": "/images/phases1.jpg"
+              },
+              {
+                "   title": "Funding and Asset Management",
+                   "content": [
+                     {
+                         "subtitle": "Sustainability Integration:",
+                         "description": "  Incorporate sustainability criteria into investment decision-making processes to evaluate environmental, social, and governance (ESG) risks and opportunities."
+                     },
+                     {
+                         "subtitle": "Asset Resilience Assessment:",
+                         "description": " Assess the long-term sustainability performance and resilience of infrastructure assets to mitigate risks and enhance value creation."
+                     },
+                     {
+                         "subtitle": "Sustainable Investment Criteria:",
+                         "description": " Engage with investors and stakeholders to highlight ESG services for built environment projects, emphasizing sustainability benefits and attracting capital for infrastructure development."
+                     },
+                     {
+                         "subtitle": "Sustainable Asset Management",
+                         "description": " Implement sustainable asset management practices, such as energy-efficient retrofits and life cycle assessments, to optimize asset performance and minimize environmental impact over time."
+                     }
+                   
+                 ],
+                   
+                  "imageURL": "/images/phases2.jpg"
+                 },
+                 {
+                    "   title": "Construction",
+                       "content": [
+                         {
+                             "subtitle": "Eco-friendly Materials:",
+                             "description": " Procure eco-friendly building materials sourced from renewable or recycled sources to reduce embodied carbon and environmental impact."
+                         },
+                         {
+                             "subtitle": "Waste Management:",
+                             "description": " Implement waste management strategies, such as material reuse and recycling, to minimize construction waste and landfill disposal."
+                         },
+                         {
+                             "subtitle": "Green Building Standards:",
+                             "description": " Adhere to green building standards and certifications, such as LEED or BREEAM, as part of built environment sustainability practices to ensure high performance and sustainability throughout the construction process."
+                         },
+                         {
+                             "subtitle": "Sustainable Construction Practices:",
+                             "description": " Employ sustainable construction practices, including energy-efficient building techniques and water-saving measures, to optimize resource use and minimize environmental impact on-site."
+                         }
+                      
+                     ],
+                       
+                     "imageURL": "/images/phases3.jpg"
+                     },
+                     {
+                        "   title": "Sales and Leasing",
+                           "content": [
+                             {
+                                 "subtitle": "ESG Marketing Strategies:",
+                                 "description": " Develop ESG marketing strategies as part of ESG services for built environment projects to highlight sustainability features and benefits, attracting environmentally conscious tenants and buyers."
+                             },
+                             {
+                                 "subtitle": "Energy-efficient Installations:",
+                                 "description": " Showcase energy-efficient installations, such as renewable energy systems and smart building technologies, to enhance property value and appeal to sustainability-minded occupants."
+                             },
+                             {
+                                 "subtitle": "Sustainable Incentives:",
+                                 "description": " Provide incentives for sustainable practices, such as green leases or eco-friendly amenities, to encourage tenants and buyers to adopt environmentally responsible behaviors.Occupant Engagement: Engage with tenants and residents to promote sustainable living practices and foster a culture of environmental stewardship within the community."
+                             },
+                             {
+                                 "subtitle": "Occupant Engagement:",
+                                 "description": " Engage with tenants and residents to promote sustainable living practices and foster a culture of environmental stewardship within the community."
+                             }
+                            
+                         ],
+                           
+                         "imageURL": "/images/phases4.jpg"
+                         },
+                         {
+                            "   title": "Operations and Management",
+                               "content": [
+                                 {
+                                     "subtitle": "Energy Management Systems:",
+                                     "description": " Install advanced energy management systems, including smart meters and building automation systems, to monitor and optimize energy consumption in real time."
+                                 },
+                                 {
+                                     "subtitle": "Water-saving Technologies:",
+                                     "description": " Implement water-saving technologies, such as low-flow fixtures and rainwater harvesting systems, to reduce water usage and promote water conservation."
+                                 },
+                                 {
+                                     "subtitle": "Occupant Education:",
+                                     "description": " Educate building occupants about sustainable practices, such as energy conservation and waste reduction, through outreach programs and educational initiatives."
+                                 },
+                                 {
+                                     "subtitle": "Sustainability Monitoring:",
+                                     "description": " Regularly monitor and report on key sustainability performance indicators for built environment sustainability, such as energy efficiency metrics and waste diversion rates, to track progress and identify areas for improvement."
+                                 }
+                               
+                             ],
+                               
+                             "imageURL": "/images/phases5.jpg"
+                             }
+        ]
+    },
+    "section6":{
+        "heading":"Driving Value through ESG",
+        "description":"By integrating ESG principles into infrastructure development and built environment sustainability, stakeholders can reap numerous benefits, enhancing financial performance while advancing broader societal and environmental objectives."
+
+    },
+    "section7":{
+        "component":[
+            {
+                "title": "Enhanced Access to Capital",
+                "description": " Showcasing sustainability credentials to investors to secure funding for infrastructure projects.",
+                "logoURL": "../images/Driving-Value/icon1.svg"
+              },
+              {
+                "title": "Price Premium",
+                "description": " Commanding premium prices for sustainable infrastructure projects by highlighting long-term value and societal benefits.",
+                "logoURL": "../images/Driving-Value/icon1.svg"
+              },
+              {
+                "title": "Expedited Sales",
+                "description": " Facilitating faster sales of infrastructure assets through streamlined processes and sustainability-focused marketing.",
+                "logoURL": "../images/Driving-Value/icon1.svg"
+              },
+              {
+                "title": "Increased Occupancy",
+                "description": " Attracting environmentally conscious tenants and residents by promoting sustainable features and amenities.",
+                "logoURL": "../images/Driving-Value/icon1.svg"
+              },
+              {
+                "title": "Risk Mitigation",
+                "description": " Minimizing project risks by integrating sustainable practices, thereby enhancing project resilience and longevity.",
+                "logoURL": "../images/Driving-Value/icon1.svg"
+              },
+              {
+                "title": "Improved Rental Yields",
+                "description": " Enhancing rental yields through energy efficiency improvements and operational cost savings.",
+                "logoURL": "../images/Driving-Value/icon1.svg"
+              }
+        ]
+    },
+    "section8":{
+        "imageUrl":"/images/industryCta.png"
+    },
+    "section9":{
+        "heading":"Revolutionizing ESG Management with AI-Driven Platform",
+        "description":"Experience the future of infrastructure development and built environment sustainability with our cloud-native, AI-driven ESG platform tailored for the industry. From advanced reporting to tailored interventions, our recommendation engine maximizes environmental impact and financial performance.",
+        "imageUrl": "/images/hero-2.png"
+    },
+    "section10":{
+        "heading":"SUSTAINABILITY FRAMEWORKS & DISCLOSURES",
+        "text":"From predefined frameworks to customizable options, Spectreco’s AI-Driven platform streamlines sustainability disclosures tailored to your business needs. Access support for crafting audit-ready reports across all regulations, standards, and frameworks, ensuring compliance and meeting shareholders’ and stakeholders’ demands seamlessly.",
+         "imageUrl": "/images/esgcompanies.png"
+
+    },
+    "section12":{
+        "heading": "Sustainable Success",
+        "highlightText": "Business Goals",
+        "description1": "At Spectreco, our sustainability approach intertwines environmental stewardship, social responsibility, and economic prosperity. We strive to deliver sustainable solutions that deliver value to our clients while placing paramount importance on safeguarding the planet and promoting social equity.",
+        "description2": "Collaborating with us in the built infrastructure sector empowers stakeholders to capitalize on new avenues, implement sustainable solutions, adeptly manage risks, and emerge as trailblazers in sustainable advancement.",
+        "imageUrl": "/images/industrybinfra.png"
+    },
+ "keyskaeholderslider":{
+    "heading":"Built Environment",
+       "components":[
+        {
+            "title": "Governemnt Agencies",
+            "description": " Play a central role in infrastructure development by overseeing planning,funding, and regulation."
+          },
+          {
+            "title": "Private Sector Contractors",
+            "description": " Consturction, engeering, project management firms involved in designing, building, and maintaing insfrastructure projects."
+          },
+          {
+            "title": "Investors and Financial Institutions",
+            "description": " Provide funding and financing solutions for infrastructure projects, including equity investors, banks, and institutional lenders."
+            
+          },
+          {
+            "title": "End Users and Residents",
+            "description": " Benefit directly from infrastructure services and amenities, such as transportation networks, utilities, and public facilities."
+            
+          },
+          {
+            "title": "Community and Enviornmental Groups",
+            "description": " Advocate for sustainable and equitable infrastructure development, considering environment, social inclusion, & community engagement."
+            
+          },
+          {
+            "title": "Technology Providers",
+            "description": " Offers solutions for enhancing efficiency, resilience, and sustainability, including digital infrastructure, smart tech, and renewable energy."
+            
+          }
+ 
+       ]
+ 
+    },
+    "secondSwiper":{
+        "heading":"Driving sustainability forward with advisory",
+       "components":[
+        {
+            "title": "Risk & Opportunity",
+            "description": " Navigate ESG-aligned and opportunities for resilient, sustainable growth.",
+                   "imageUrl": "/images/esgcompanies.png"
+          },
+          {
+            "title": "Carbon Cleanse",
+            "description": " Streamline emission measurement and achive a successful transition to net zero.",
+                     "imageUrl": "/images/esgcompanies.png"
+          },
+          {
+            "title": "Waste Management",
+            "description": " Streamline emission measurement and achive a successful transition to net zero.",
+                     "imageUrl": "/images/esgcompanies.png"
+           
+          },
+          {
+            "title": "Sustainable Supply Chain",
+            "description": " Streamline and optimize supply chain sustainability efforts with responsible sourcing practice.",
+                     "imageUrl": "/images/esgcompanies.png"
+           
+          },
+          {
+            "title": "Governance & Oversight",
+            "description": " Promote transparency and accountability through compliance and ethical governance practices.",
+                     "imageUrl": "/images/esgcompanies.png"
+           
+          },
+          {
+            "title": "Reporting & Disclosures",
+            "description": " Enhance transparency and accountability through comprehensive reporting and practices.",
+                     "imageUrl": "/images/esgcompanies.png"
+           
+          },
+          {
+            "title": "Communication & Engagement",
+            "description": " Strenght stakeholder relationships for sustainable growth throught effective communication & engagement.",
+                     "imageUrl": "/images/esgcompanies.png"
+           
+          },
+          {
+            "title": "Community Impact",
+            "description": " Foster growth and prosperity through community centric initiatives and employee engagement.",
+                     "imageUrl": "/images/esgcompanies.png"
+           
+          }
+       ]
+ 
+    }
+    
+
+    
+  },
+  "realestatepage":{
+    "section1": {
+      "title": "ESG Excellence in",
+      "highlightedText": "Infrastructure Development and Built Environment Sustainability",
+      "title2":"with ESG Expertise",
+      "description": "Leverage Spectreco’s expertise in infrastructure development and ESG services for the built environment to drive profitability, ensure compliance across regulations and standards, and simplify complexities across frameworks.",
+      "buttonText": "Book a session today!",
+       "imageUrl": "/images/buit-infra1.png"
+    },
+    "section2":{
+        "heading":"ESG Technology & Consultancy for Real Estate",
+        "description":"As an ESG consultant for real estate, we offer tailored strategies to navigate regulations, frameworks, and standards, ensuring projects achieve maximum sustainability and compliance. Our deep knowledge and experience, coupled with a focus on built environment and architecture, enable us to navigate and optimize these complex processes across regulations, standards, and frameworks to deliver exceptional value and sustainable growth."
+
+    },
+    "section3":{
+        "imageUrl":"/images/built-cta-2048x484.jpg"
+    },
+    "section4":{
+        "heading":"Real Estate",
+        "components": [
+            { "title": "LAND ACQUISTION AND DEVELOPMENT", "imageUrl": "/images/transportationicon.png" },
+            { "title": "CONSTRUCTION AND PROJECT MANAGEMENT", "imageUrl": "/images/utilitiesicon.png" },
+            { "title": "SALES AND MARKETING", "imageUrl": "/images/publicicon.png" },
+            { "title": "PROPERTY MANAGEMENT AND MAINTENANCE", "imageUrl": "/images/socialicon.png" },
+            { "title": "FINANCING AND INVESTMENT", "imageUrl": "/images/naturalicon.png" },
+            { "title": "ARCHITECTURE", "imageUrl": "/images/digitalicon.png" }
+           
+          ]
+    },
+    "section5":{
+        "component":[
+            {
+             "   title": "Planning and Development",
+                "content": [
+                  {
+                      "subtitle": "Environmental Impact Assessments:",
+                      "description": " Prioritizing sustainability by analyzing and mitigating adverse environmental effects."
+                  },
+                  {
+                      "subtitle": "Sustainable Site Selection:",
+                      "description": " Opt for locations that minimize ecological disruption and support sustainable development."
+                  }
+                 
+                  
+              ],
+                
+                "imageURL": "/images/phases1.jpg"
+              },
+              {
+                "   title": "Construction",
+                   "content": [
+                     {
+                         "subtitle": "Green Building Materials:",
+                         "description": "  Incorporate sustainable supply chain management practices to source materials responsibly, reduce environmental impact, and streamline project efficiency."
+                     },
+                     {
+                         "subtitle": "Waste Management:",
+                         "description": " Implementing efficient waste reduction, reuse, and recycling strategies to minimize construction waste."
+                     }
+
+                   
+                 ],
+                   
+                  "imageURL": "/images/phases2.jpg"
+                 },
+                 {
+                    "   title": "Funding and Asset Management",
+                       "content": [
+                         {
+                             "subtitle": "Sustainable Investment Strategies:",
+                             "description": " Leveraging green financing and investment opportunities to support eco-friendly projects and maximize returns."
+                         },
+                         {
+                             "subtitle": "ESG-Driven Asset Management:",
+                             "description": " Incorporating environmental, social, and governance factors into asset management practices to enhance long-term value and sustainability."
+                         }
+                      
+                     ],
+                       
+                     "imageURL": "/images/phases3.jpg"
+                     },
+                     {
+                        "   title": "Sales and Leasing",
+                           "content": [
+                             {
+                                 "subtitle": "ESG Marketing Strategies:",
+                                 "description": " Strategically showcasing sustainable features to appeal to environmentally conscious buyers and tenants."
+                             },
+                             {
+                                 "subtitle": "Energy-Efficient Installations:",
+                                 "description": " Promoting energy-saving technologies such as solar panels and smart energy systems to enhance property value and attract eco-conscious occupants."
+                             }
+                         ],
+                           
+                         "imageURL": "/images/phases4.jpg"
+                         },
+
+                         {
+                            "   title": "Operations and Management",
+                               "content": [
+                                 {
+                                     "subtitle": "Energy Efficiency:",
+                                     "description": " Installing cutting-edge energy management systems to optimize energy consumption and reduce environmental footprint."
+                                 },
+                                 {
+                                     "subtitle": "Water Conservation:",
+                                     "description": " Implementing water-saving technologies and best practices to minimize water usage and promote sustainability."
+                                 },
+                                 {
+                                     "subtitle": "Occupant Engagement:",
+                                     "description": " Educating tenants/residents/occupants about sustainable living practices and fostering a culture of environmental responsibility within the community."
+                                 }
+                             ],
+                               
+                             "imageURL": "/images/phases4.jpg"
+                             }
+                       
+        ]
+    },
+    "section6":{
+        "heading":"Driving Value through ESG Technology & Consultancy Service for Real Estate",
+        "description":"Our ESG solutions for real estate are designed to enhance sustainability, maximize property value, and drive long-term growth while meeting investor and regulatory expectations."
+
+    },
+    "section7":{
+        "component":[
+            {
+                "title": "Enhancing Access to Capital",
+                "description": " Align projects with ESG principles to attract green investors and financing options, reducing costs and expanding investment opportunities.",
+                "logoURL": "../images/Driving-Value/icon1.svg"
+              },
+              {
+                "title": "Achieving Price Premiums",
+                "description": " Sustainable properties command premium prices due to reduced costs and appeal to eco-conscious buyers, boosting overall property value.",
+                "logoURL": "../images/Driving-Value/icon1.svg"
+              },
+              {
+                "title": "Expediting Sales",
+                "description": " Streamline transactions with digital tools and targeted marketing focused on sustainability, accelerating sales cycles.",
+                "logoURL": "../images/Driving-Value/icon1.svg"
+              },
+              {
+                "title": "Increasing Occupancy",
+                "description": " Implement sustainable practices to attract quality tenants, boosting occupancy rates and tenant retention.",
+                "logoURL": "../images/Driving-Value/icon1.svg"
+              },
+              {
+                "title": "Improving Rental Yields",
+                "description": " Optimize rental rates through data-driven analysis and ESG integration, increasing returns and tenant satisfaction.",
+                "logoURL": "../images/Driving-Value/icon1.svg"
+              },
+              {
+                "title": "Fostering Community Engagement",
+                "description": " Engage with stakeholders through sustainability initiatives, building goodwill, and enhancing brand reputation.",
+                "logoURL": "../images/Driving-Value/icon1.svg"
+              }
+        ]
+    },
+    "section8":{
+        "imageUrl":"/images/industryCta.png"
+    },
+    "section9":{
+        "heading":"Revolutionizing ESG Management with AI Driven Platform",
+        "description":"Experience the future of real estate sustainability with our cloud-native, AI-driven ESG platform tailored for the industry. From advanced reporting to tailored interventions, our recommendation engine maximizes environmental impact and financial performance.",
+        "imageUrl": "/images/hero-2.png"
+    },
+    "section10":{
+        "heading":"SUSTAINABILITY FRAMEWORKS & DISCLOSURES",
+        "text":"From predefined frameworks to customizable options, Spectreco’s AI-Driven platform streamlines sustainability disclosures tailored to your business needs. Access support for crafting audit-ready reports across all regulations, standards, and frameworks, ensuring compliance and meeting shareholders’ and stakeholders’ demands seamlessly.",
+         "imageUrl": "/images/esgcompanies.png"
+
+    },
+    "section12":{
+        "heading": "Sustainable Success",
+        "highlightText": "Business Goals",
+        "description1": "At Spectreco, our sustainability approach intertwines environmental stewardship, social responsibility, and economic prosperity. We strive to deliver sustainable solutions that deliver value to our clients while placing paramount importance on safeguarding the planet and promoting social equity.",
+        "description2": "Collaborating with us in the built infrastructure sector empowers stakeholders to capitalize on new avenues, implement sustainable solutions, adeptly manage risks, and emerge as trailblazers in sustainable advancement.",
+        "imageUrl": "/images/industrybinfra.png"
+    },
+    "keyskaeholderslider":{
+        "heading":"Real Estate",
+       "components":[
+        {
+            "title": "Governemnt Agencies",
+            "description": " Play a central role in infrastructure development by overseeing planning,funding, and regulation."
+          },
+          {
+            "title": "Private Sector Contractors",
+            "description": " Consturction, engeering, project management firms involved in designing, building, and maintaing insfrastructure projects."
+          },
+          {
+            "title": "Investors and Financial Institutions",
+            "description": " Provide funding and financing solutions for infrastructure projects, including equity investors, banks, and institutional lenders."
+            
+          },
+          {
+            "title": "End Users and Residents",
+            "description": " Benefit directly from infrastructure services and amenities, such as transportation networks, utilities, and public facilities."
+            
+          },
+          {
+            "title": "Community and Enviornmental Groups",
+            "description": " Advocate for sustainable and equitable infrastructure development, considering environment, social inclusion, & community engagement."
+            
+          },
+          {
+            "title": "Technology Providers",
+            "description": " Offers solutions for enhancing efficiency, resilience, and sustainability, including digital infrastructure, smart tech, and renewable energy."
+            
+          }
+ 
+       ]
+ 
+    },
+    "secondSwiper":{
+        "heading":"Real Estate",
+       "components":[
+        {
+            "title": "Risk & Opportunity",
+            "description": " Navigate ESG-aligned and opportunities for resilient, sustainable growth.",
+                   "imageUrl": "/images/esgcompanies.png"
+          },
+          {
+            "title": "Carbon Cleanse",
+            "description": " Streamline emission measurement and achive a successful transition to net zero.",
+                     "imageUrl": "/images/esgcompanies.png"
+          },
+          {
+            "title": "Waste Management",
+            "description": " Streamline emission measurement and achive a successful transition to net zero.",
+                     "imageUrl": "/images/esgcompanies.png"
+           
+          },
+          {
+            "title": "Governance & Oversight",
+            "description": " Promote transparency and accountability through compliance and ethical governance practices.",
+                     "imageUrl": "/images/esgcompanies.png"
+           
+          },
+          {
+            "title": "Reporting & Disclosures",
+            "description": " Enhance transparency and accountability through comprehensive reporting and disclosure practices.",
+                     "imageUrl": "/images/esgcompanies.png"
+           
+          },
+          {
+            "title": "Communication & Engagement",
+            "description": " Strenght stakeholder relationships for sustainable growth throught effective communication & engagement.",
+                     "imageUrl": "/images/esgcompanies.png"
+           
+          },
+          {
+            "title": "Community Impact",
+            "description": " Foster growth and prosperity through community centric initiatives and employee engagement.",
+                     "imageUrl": "/images/esgcompanies.png"
+           
+          }
+       ]
+ 
+    }
+    
+  },
+  "hospitalitypage":{
+    "section1": {
+      "title": "ESG Excellence in",
+      "highlightedText": "Infrastructure Development and Built Environment Sustainability",
+      "title2":"with ESG Expertise",
+      "description": "Leverage Spectreco’s expertise in infrastructure development and ESG services for the built environment to drive profitability, ensure compliance across regulations and standards, and simplify complexities across frameworks.",
+      "buttonText": "Book a session today!",
+       "imageUrl": "/images/buit-infra1.png"
+    },
+    "section2":{
+        "heading":"HOSPITALITY CONSULTING SERVICES",
+        "description":"As experts in hospitality consulting, we navigate a diverse landscape encompassing accommodation, culinary experiences, travel and tourism, event coordination, and entertainment venues. Our ESG hospitality initiatives seamlessly integrate sustainability into hospitality consulting strategies, enhancing economic vitality and promoting cultural enrichment. As a cornerstone of global experiences, our industry fosters interconnectedness and plays a vital role in shaping the way the world connects and thrives."
+
+    },
+    "section3":{
+        "imageUrl":"/images/built-cta-2048x484.jpg"
+    },
+    "section4":{
+        "heading":"Hospitality",
+        "components": [
+            { "title": "ACCOMMODATION", "imageUrl": "/images/transportationicon.png" },
+            { "title": "FOOD AND BEVERAGES", "imageUrl": "/images/utilitiesicon.png" },
+            { "title": "TRAVEL & TRANSPORTATION", "imageUrl": "/images/publicicon.png" },
+            { "title": "EVENTS & ENTERTAINMENT", "imageUrl": "/images/socialicon.png" },
+            { "title": "WELLNESS & LUXURY", "imageUrl": "/images/naturalicon.png" },
+            { "title": "TECHNOLOGY & SUPPORT", "imageUrl": "/images/digitalicon.png" },
+            { "title": "PROFESSIONAL TRAINING", "imageUrl": "/images/digitalicon.png" }
+           
+          ]
+    },
+    "section5":{
+        "component":[
+            {
+             "   title": "Planning and Design",
+                "content": [
+                  {
+                      "subtitle": "Sustainable Architecture:",
+                      "description": " As part of ESG hospitality-focused planning, incorporate eco-friendly construction materials, energy-efficient designs, and renewable energy sources from the outset."
+                  },
+                  {
+                      "subtitle": "Local Community Engagement:",
+                      "description": " Actively involve local communities to assess and mitigate social impacts, ensuring local job creation and community benefits."
+                  },
+                  {
+                      "subtitle": "Compliance and Ethical Standards:",
+                      "description": " Leverage hospitality consulting expertise to adhere to all environmental regulations and ethical sourcing policies, setting a strong foundation for ESG-aligned sustainable operations."
+                  }
+                 
+                  
+              ],
+                
+                "imageURL": "/images/phases1.jpg"
+              },
+              {
+                "   title": "Construction",
+                   "content": [
+                     {
+                         "subtitle": "Resource Management:",
+                         "description": "  ESG hospitality strategies encourage the use of advanced systems for energy and water efficiency, such as smart lighting, HVAC systems, and water-saving fixtures."
+                     },
+                     {
+                         "subtitle": "Employee Well-being and Training:",
+                         "description": " Through hospitality consulting services, develop training programs focused on ESG hospitality practices, fostering a safe, equitable, and professionally rewarding workplace."
+                     },
+                     {
+                         "subtitle": "Comprehensive Waste Management:",
+                         "description": " Develop robust recycling, composting, and waste reduction programs to minimize environmental impact."
+                     }
+
+                   
+                 ],
+                   
+                  "imageURL": "/images/phases2.jpg"
+                 },
+                 {
+                    "   title": "Operations and Management",
+                       "content": [
+                         {
+                             "subtitle": "Guest-Centric Sustainability:",
+                             "description": " Hospitality consulting can help implement eco-friendly amenities, reduce single-use plastics, and educate guests on ESG hospitality practices, enhancing their overall experience."
+                         },
+                         {
+                             "subtitle": "Cultural Sensitivity and Social Responsibility:",
+                             "description": " Align cultural inclusivity and social initiatives with ESG hospitality goals to meet stakeholder expectations and drive meaningful community impact."
+                         },
+                         {
+                             "subtitle": "Ethical Sourcing and Procurement:",
+                             "description": " Align cultural inclusivity and social initiatives with ESG hospitality goals to meet stakeholder expectations and drive meaningful community impact."
+                         }
+                      
+                     ],
+                       
+                     "imageURL": "/images/phases3.jpg"
+                     },
+                     {
+                        "   title": "Renewal and Expansion",
+                           "content": [
+                             {
+                                 "subtitle": "Eco-Friendly Upgrades:",
+                                 "description": " Hospitality consulting can guide investments in the latest sustainable technologies and materials, aligning ESG hospitality goals with energy efficiency and reduced environmental footprints."
+                             },
+                             {
+                                 "subtitle": "Support for Local Economies:",
+                                 "description": " Source materials and labor locally to bolster the economic development of surrounding communities."
+                             },
+                             {
+                                 "subtitle": "Transparent Stakeholder Communication:",
+                                 "description": " By adopting ESG hospitality principles, maintain clear and open communication with stakeholders about sustainability goals, progress, and measurable impacts during expansion projects."
+                             }
+                         ],
+                           
+                         "imageURL": "/images/phases4.jpg"
+                         }
+                       
+        ]
+    },
+    "section6":{
+        "heading":"Driving Value through ESG Hospitality",
+        "description":"By weaving ESG hospitality principles into operations through hospitality consulting, stakeholders can achieve enhanced financial performance while contributing to broader societal and environmental goals."
+
+    },
+    "section7":{
+        "component":[
+            {
+                "title": "Access to Capital",
+                "description": " Sustainable businesses are increasingly favored by investors, providing access to capital and favorable financing terms.",
+                "logoURL": "../images/Driving-Value/icon1.svg"
+              },
+              {
+                "title": "Market Advantage",
+                "description": " Sustainable hospitality assets command premium valuations and generate higher returns, aligning with the growing demand for socially responsible investments.",
+                "logoURL": "../images/Driving-Value/icon1.svg"
+              },
+              {
+                "title": "Risk Mitigation",
+                "description": " Sustainability initiatives mitigate operational and reputational risks, enhancing the long-term resilience of hospitality investments.",
+                "logoURL": "../images/Driving-Value/icon1.svg"
+              },
+              {
+                "title": "Cost Efficiency",
+                "description": " Implementing sustainable practices leads to reduced energy and water consumption, resulting in significant cost savings over time.",
+                "logoURL": "../images/Driving-Value/icon1.svg"
+              },
+              {
+                "title": "Enhanced Guest Experience",
+                "description": " Sustainable initiatives such as eco-friendly amenities and responsible sourcing contribute to a memorable guest experience, driving customer satisfaction and loyalty.",
+                "logoURL": "../images/Driving-Value/icon1.svg"
+              },
+              {
+                "title": "Brand Differentiation",
+                "description": " Embracing sustainability sets businesses apart in a competitive market, attracting environmentally conscious guests and reinforcing brand reputation..",
+                "logoURL": "../images/Driving-Value/icon1.svg"
+              }
+        ]
+    },
+    "section8":{
+        "imageUrl":"/images/industryCta.png"
+    },
+    "section9":{
+        "heading":"Revolutionizing ESG Hospitality with AI Driven Platform",
+        "description":"Experience the future of hospitality sustainability with our cloud-native, AI-driven ESG platform tailored for the industry. From advanced reporting to tailored interventions, our recommendation engine maximizes environmental impact and financial performance.",
+        "imageUrl": "/images/hero-2.png"
+    },
+    "section10":{
+        "heading":"SUSTAINABILITY FRAMEWORKS & DISCLOSURES",
+        "text":"From predefined frameworks to customizable options, Spectreco’s AI Driven platform streamlines sustainability disclosures tailored to your business needs. Access support for crafting audit-ready reports across all frameworks, ensuring compliance and meeting investor or customer demands seamlessly.",
+         "imageUrl": "/images/esgcompanies.png"
+
+    },
+    "section12":{
+        "heading": "Sustainable Success",
+        "highlightText": "Business Goals",
+        "description1": "At Spectreco, our hospitality industry consulting approach blends environmental care, social accountability, and economic vitality. Through our ESG Consulting for businesses, we aim to add value for our clients while prioritizing planet protection and fostering social fairness.",
+        "description2": "Partnering with us in the hospitality sector enables stakeholders to seize fresh opportunities, manage risks effectively, and stand out as pioneers in sustainable hospitality development.",
+        "imageUrl": "/images/industrybinfra.png"
+    },
+    "keyskaeholderslider":{
+        "heading":"Hospitality",
+       "components":[
+        {
+            "title": "Guests",
+            "description": " Tourists, business travelers, and local patrons who utilize hospitality services."
+          },
+          {
+            "title": "Employees",
+            "description": " Staff across various roles, whose skills and well-being impact service quality."
+          },
+          {
+            "title": "Investors & Shareholders",
+            "description": " Entities providing capital, seeking profitable and sustainable investments."
+            
+          },
+          {
+            "title": "Suppliers & Vendors",
+            "description": " Providers of goods and services essential to hospitality operations."
+            
+          },
+          {
+            "title": "Local Communities & Government Bodies",
+            "description": " Residents, businesses, and authorities enforce regulations and support sustainability."
+            
+          },
+          {
+            "title": "Industry Associations & NGOs",
+            "description": " Groups offering support, advocacy, and promoting sustainability."
+            
+          }
+ 
+       ]
+ 
+    },
+    "secondSwiper":{
+        "heading":"Hospitality",
+       "components":[
+        {
+            "title": "Risk & Opportunity",
+            "description": " Navigate ESG-aligned and opportunities for resilient, sustainable growth.",
+                   "imageUrl": "/images/esgcompanies.png"
+          },
+          {
+            "title": "Carbon Cleanse",
+            "description": " Streamline emission measurement and achive a successful transition to net zero.",
+                     "imageUrl": "/images/esgcompanies.png"
+          },
+          {
+            "title": "Waste Management",
+            "description": " Streamline emission measurement and achive a successful transition to net zero.",
+                     "imageUrl": "/images/esgcompanies.png"
+           
+          },
+          {
+            "title": "Sustainable Supply Chain",
+            "description": " Streamline and optimize supply chain sustainability efforts with responsible sourcing practice.",
+                     "imageUrl": "/images/esgcompanies.png"
+           
+          },
+          {
+            "title": "Governance & Oversight",
+            "description": " Promote transparency and accountability through compliance and ethical governance practices.",
+                     "imageUrl": "/images/esgcompanies.png"
+           
+          },
+          {
+            "title": "Reporting & Disclosures",
+            "description": " Enhance transparency and accountability through comprehensive reporting and disclosure practices.",
+                     "imageUrl": "/images/esgcompanies.png"
+           
+          },
+          {
+            "title": "Communication & Engagement",
+            "description": " Strenght stakeholder relationships for sustainable growth throught effective communication & engagement.",
+                     "imageUrl": "/images/esgcompanies.png"
+           
+          },
+          {
+            "title": "Community Impact",
+            "description": " Foster growth and prosperity through community centric initiatives and employee engagement.",
+                     "imageUrl": "/images/esgcompanies.png"
+           
+          }
+       ]
+ 
+    }
+    
+  },
+  "energypage":{
+    "section1": {
+      "title": "ESG Technology & Consulting for Energy Sector",
+      "description": "Driving strategic advantage and sustainable value creation through ESG in the energy industry.",
+      "buttonText": "Book a session today!",
+       "imageUrl": "/images/buit-infra1.png"
+    },
+    "section2":{
+        "heading":"Energy Industry Consulting",
+        "description":"The energy industry, a cornerstone of modern civilization, fuels global progress through a diverse mix of traditional fossil fuels and burgeoning renewable sources, catalyzing a pivotal shift towards sustainability amidst pressing environmental concerns and changing societal demands."
+
+    },
+    "section3":{
+        "imageUrl":"/images/built-cta-2048x484.jpg"
+    },
+    "section4":{
+        "heading":"Energy",
+        "components": [
+            { "title": "EXPLORATION & PRODUCTION", "imageUrl": "/images/transportationicon.png" },
+            { "title": "ENERGY GENERATION", "imageUrl": "/images/utilitiesicon.png" },
+            { "title": "TRANSMISSION & DISTRIBUTION", "imageUrl": "/images/publicicon.png" },
+            { "title": "END-USE CONSUMPTION", "imageUrl": "/images/socialicon.png" },
+            { "title": "INFRASTRUCTURE & LOGISTICS", "imageUrl": "/images/naturalicon.png" }
+           
+          ]
+    },
+    "section5":{
+        "component":[
+            {
+             "   title": "Exploration and Production",
+                "content": [
+                  {
+                      "subtitle": "Minimize environmental impact:",
+                      "description": "  Implement measures to reduce pollution, habitat disruption, and resource depletion during exploration and drilling activities."
+                  },
+                  {
+                      "subtitle": "Adopt best practices:",
+                      "description": " Embrace technologies and techniques for responsible resource extraction, including proper waste management, water conservation, and land reclamation."
+                  },
+                  {
+                      "subtitle": "Address social concerns:",
+                      "description": " Engage with local communities, indigenous groups, and stakeholders to mitigate social and cultural impacts, respect land rights, and ensure fair compensation and benefits."
+                  }
+                 
+                  
+              ],
+                
+                "imageURL": "/images/phases1.jpg"
+              },
+              {
+                "   title": "Generation",
+                   "content": [
+                     {
+                         "subtitle": "Embrace renewable energy:",
+                         "description": "  Prioritize the development and deployment of renewable energy sources such as solar, wind, hydroelectric, and geothermal power to reduce greenhouse gas emissions and reliance on fossil fuels."
+                     },
+                     {
+                         "subtitle": "Enhance energy efficiency:",
+                         "description": " Implement energy-efficient technologies and practices in power generation processes to optimize resource utilization and minimize waste and emissions."
+                     },
+                     {
+                         "subtitle": "Ensure grid reliability:",
+                         "description": " Invest in smart grid infrastructure, energy storage systems, and demand response mechanisms to enhance grid stability, resilience, and integration of intermittent renewable energy sources."
+                     }
+
+                   
+                 ],
+                   
+                  "imageURL": "/images/phases2.jpg"
+                 },
+                 {
+                    "   title": "Transmission and Distribution",
+                       "content": [
+                         {
+                             "subtitle": "Upgrade infrastructure:",
+                             "description": " Modernize transmission and distribution networks to improve efficiency, reduce energy losses, and accommodate growing demand for electricity from renewable sources and electric vehicles."
+                         },
+                         {
+                             "subtitle": "Prioritize grid resiliency:",
+                             "description": " Strengthen infrastructure against physical and cyber threats, natural disasters, and extreme weather events to ensure uninterrupted energy supply and minimize downtime."
+                         },
+                         {
+                             "subtitle": "Promote decentralization:",
+                             "description": " Embrace distributed energy resources, microgrids, and community-based energy initiatives to enhance energy resilience, local autonomy, and renewable energy integration."
+                         }
+                      
+                     ],
+                       
+                     "imageURL": "/images/phases3.jpg"
+                     },
+                     {
+                        "   title": "End-Use Consumption",
+                           "content": [
+                             {
+                                 "subtitle": "Promote energy conservation:",
+                                 "description": " Encourage energy-efficient practices, appliances, and building designs to reduce energy consumption, lower utility bills, and minimize environmental footprint."
+                             },
+                             {
+                                 "subtitle": "Enable sustainable mobility:",
+                                 "description": " Support the adoption of electric vehicles, public transportation, and alternative fuels to reduce reliance on fossil fuels, lower emissions, and improve air quality."
+                             },
+                             {
+                                 "subtitle": "Empower consumer choice:",
+                                 "description": " Provide consumers with information, incentives, and options to make sustainable energy choices, including renewable energy procurement, energy-efficient products, and demand-side management programs."
+                             }
+                         ],
+                           
+                         "imageURL": "/images/phases4.jpg"
+                         }
+                       
+        ]
+    },
+    "section6":{
+        "heading":"Driving Value through ESG",
+        "description":"By integrating ESG principles into energy industry operations, stakeholders can realize numerous benefits, enhancing financial performance while also advancing broader societal and environmental objectives."
+
+    },
+    "section7":{
+        "component":[
+            {
+                "title": "Access to Capital",
+                "description": " Integrating our ESG consulting practices in the energy sector enhances access to capital by attracting socially conscious investors and diversifying funding sources.",
+                "logoURL": "../images/Driving-Value/icon1.svg"
+              },
+              {
+                "title": "Risk Mitigation",
+                "description": " Sustainability initiatives mitigate operational and reputational risks, enhancing the long-term resilience of hospitality investments.",
+                "logoURL": "../images/Driving-Value/icon1.svg"
+              },
+              {
+                "title": "Brand Reputation & Customer Loyalty",
+                "description": " Prioritizing ESG principles strengthens brand reputation and fosters customer loyalty by demonstrating environmental stewardship and ethical business practices.",
+                "logoURL": "../images/Driving-Value/icon1.svg"
+              },
+              {
+                "title": "Compliance & Market Opportunities",
+                "description": " Embracing sustainability ensures compliance with evolving regulations and unlocks opportunities in emerging clean energy markets and carbon-neutral technologies.",
+                "logoURL": "../images/Driving-Value/icon1.svg"
+              },
+              {
+                "title": "Long-Term Value Creation",
+                "description": " ESG integration contributes to long-term value creation in the energy industry by mitigating risks and capitalizing on opportunities.",
+                "logoURL": "../images/Driving-Value/icon1.svg"
+              },
+              {
+                "title": "Operational Efficiency",
+                "description": " ESG initiatives drive cost savings and productivity gains across the energy value chain through investments in energy efficiency and resource optimization.",
+                "logoURL": "../images/Driving-Value/icon1.svg"
+              }
+        ]
+    },
+    "section8":{
+        "imageUrl":"/images/industryCta.png"
+    },
+    "section9":{
+        "heading":"Revolutionizing ESG Management with AI Driven Platform",
+        "description":"Experience the future of energy sustainability with our cloud-native, AI-driven ESG platform tailored for the industry. From advanced reporting to tailored interventions, our recommendation engine maximizes environmental impact and financial performance.",
+        "imageUrl": "/images/hero-2.png"
+    },
+    "section10":{
+        "heading":"SUSTAINABILITY FRAMEWORKS & DISCLOSURES",
+        "text":"From predefined frameworks to customizable options, Spectreco’s AI Driven platform streamlines sustainability disclosures tailored to your business needs. Access support for crafting audit-ready reports across all frameworks, ensuring compliance and meeting investor or customer demands seamlessly.",
+         "imageUrl": "/images/esgcompanies.png"
+
+    },
+    "section12":{
+        "heading": "Sustainable Success",
+        "highlightText": "Business Goals",
+        "description1": "At Spectreco, our sustainability approach intertwines environmental stewardship, social responsibility, and economic prosperity. We prioritize delivering value to our clients while placing paramount importance on safeguarding the planet and promoting social equity.",
+        "description2": "Collaborating with us in the energy sector empowers stakeholders to capitalize on new opportunities, adeptly manage risks, and emerge as trailblazers in sustainable energy advancement.",
+        "imageUrl": "/images/industrybinfra.png"
+    },
+    "keyskaeholderslider":{
+        "heading":"Energy",
+       "components":[
+        {
+            "title": "GOVERNMENT & REGULATORY Authorities",
+            "description": " Shape policy, issue permits, and oversee compliance."
+          },
+          {
+            "title": "Processors, Distributors, & Suppliers",
+            "description": " Invest, operate projects, navigate markets."
+          },
+          {
+            "title": "Consumers & Community",
+            "description": " Influence demand, advocate for sustainability."
+            
+          },
+          {
+            "title": "Suppliers & Service Providers",
+            "description": " Support operations, provide services."
+            
+          },
+          {
+            "title": "Academic & Research Institutions",
+            "description": " Drive innovation, research energy solutions."
+            
+          }
+ 
+       ]
+ 
+    },
+    "secondSwiper":{
+        "heading":"Driving sustainability forward with ESG Technology & Consulting for the Energy Sector",
+       "components":[
+        {
+            "title": "Risk & Opportunity",
+            "description": " Navigate ESG-aligned and opportunities for resilient, sustainable growth.",
+                   "imageUrl": "/images/esgcompanies.png"
+          },
+          {
+            "title": "Carbon Cleanse",
+            "description": " Streamline emission measurement and achive a successful transition to net zero.",
+                     "imageUrl": "/images/esgcompanies.png"
+          },
+          {
+            "title": "Governance & Oversight",
+            "description": " Promote transparency and accountability through compliance and ethical governance practices.",
+                     "imageUrl": "/images/esgcompanies.png"
+           
+          },
+          {
+            "title": "Reporting & Disclosures",
+            "description": " Enhance transparency and accountability through comprehensive reporting and disclosure practices.",
+                     "imageUrl": "/images/esgcompanies.png"
+           
+          },
+          {
+            "title": "Communication & Engagement",
+            "description": " Strenght stakeholder relationships for sustainable growth throught effective communication & engagement.",
+                     "imageUrl": "/images/esgcompanies.png"
+           
+          } 
+       ]
+ 
+    }
+    
+  },
+  "transportationpage":{
+    "section1": {
+      "title": "ESG Excellence for",
+      "highlightedText": "Transportation",
+      "description": "Pioneering sustainable mobility through ESG Solutions tailored for the Transportation industry.",
+      "buttonText": "Book a session today!",
+       "imageUrl": "/images/buit-infra1.png"
+    },
+    "section2":{
+        "heading":"TRANSPORTATION",
+        "description":"Our deep understanding of the transportation industry extends from its intricate ecosystem to the nuanced considerations at each phase, allowing us to provide tailored ESG solutions that drive lasting impact and sustainable growth for stakeholders."
+
+    },
+    "section3":{
+        "imageUrl":"/images/built-cta-2048x484.jpg"
+    },
+    "section4":{
+        "heading":"Energy",
+        "components": [
+            { "title": "EXPLORATION & PRODUCTION", "imageUrl": "/images/transportationicon.png" },
+            { "title": "ENERGY GENERATION", "imageUrl": "/images/utilitiesicon.png" },
+            { "title": "TRANSMISSION & DISTRIBUTION", "imageUrl": "/images/publicicon.png" },
+            { "title": "END-USE CONSUMPTION", "imageUrl": "/images/socialicon.png" },
+            { "title": "INFRASTRUCTURE & LOGISTICS", "imageUrl": "/images/naturalicon.png" }
+           
+          ]
+    },
+    "section5":{
+        "component":[
+            {
+             "   title": "Supply Chain Management",
+                "content": [
+                  {
+                      "subtitle": "Sustainable Sourcing:",
+                      "description": "  Prioritizing suppliers with strong environmental and social practices."
+                  },
+                  {
+                      "subtitle": "Eco-friendly Materials:",
+                      "description": " Using recyclable and renewable materials for manufacturing."
+                  },
+                  {
+                      "subtitle": "Energy Efficiency:",
+                      "description": " Implementing energy-efficient logistics to minimize carbon footprint."
+                  }
+                 
+                  
+              ],
+                
+                "imageURL": "/images/phases1.jpg"
+              },
+              {
+                "   title": "Transportation Operations",
+                   "content": [
+                     {
+                         "subtitle": "Fuel Efficiency:",
+                         "description": "  Adopting low-emission and alternative fuel vehicles."
+                     },
+                     {
+                         "subtitle": "Route Optimization:",
+                         "description": " Using advanced technology to reduce fuel consumption and emissions."
+                     },
+                     {
+                         "subtitle": "Eco-friendly Fleets:",
+                         "description": " Investing in electric and hybrid vehicles."
+                     }
+
+                   
+                 ],
+                   
+                  "imageURL": "/images/phases2.jpg"
+                 },
+                 {
+                    "   title": "Infrastructure Development",
+                       "content": [
+                         {
+                             "subtitle": "Green Construction:",
+                             "description": " Utilizing sustainable materials and construction methods."
+                         },
+                         {
+                             "subtitle": "Renewable Energy:",
+                             "description": " Incorporating solar, wind, and other renewable energy sources in transportation hubs."
+                         },
+                         {
+                             "subtitle": "Sustainable Design:",
+                             "description": " Creating infrastructure that minimizes environmental impact and promotes biodiversity."
+                         }
+                      
+                     ],
+                       
+                     "imageURL": "/images/phases3.jpg"
+                     },
+                     {
+                        "   title": "Regulatory Compliance",
+                           "content": [
+                             {
+                                 "subtitle": "Adherence to Standards:",
+                                 "description": " Meeting international and local environmental regulations and emissions standards."
+                             },
+                             {
+                                 "subtitle": "Safety Protocols:",
+                                 "description": " Ensuring the safety of operations to protect workers and communities."
+                             },
+                             {
+                                 "subtitle": "Transparency and Reporting:",
+                                 "description": " Maintaining transparency in sustainability practices and reporting progress."
+                             }
+                         ],
+                           
+                         "imageURL": "/images/phases4.jpg"
+                         },
+                         {
+                            "   title": "Maintenance & Upgrades",
+                               "content": [
+                                 {
+                                     "subtitle": "Lifecycle Management:",
+                                     "description": " Ensuring that vehicles and infrastructure are maintained for maximum efficiency and minimum environmental impact."
+                                 },
+                                 {
+                                     "subtitle": "Upgrading Systems:",
+                                     "description": " Continuously upgrading to more sustainable technologies and practices."
+                                 },
+                                 {
+                                     "subtitle": "Waste Reduction:",
+                                     "description": " Implementing strategies for reducing waste and promoting recycling during maintenance activities."
+                                 }
+                             ],
+                               
+                             "imageURL": "/images/phases4.jpg"
+                             }
+                       
+        ]
+    },
+    "section6":{
+        "heading":"Driving Value through ESG",
+        "description":"By weaving ESG principles into operations, stakeholders can enjoy a host of benefits, boosting financial performance while also contributing to broader societal and environmental goals."
+
+    },
+    "section7":{
+        "component":[
+            {
+                "title": "Enhanced Access to Capital",
+                "description": " Attracts socially responsible investors and green financing, facilitating funding for development and modernization.",
+                "logoURL": "../images/Driving-Value/icon1.svg"
+              },
+              {
+                "title": "Operational Efficiency & Cost Savings",
+                "description": " Adoption of energy-efficient technologies and optimized logistics reduce fuel consumption and maintenance costs.",
+                "logoURL": "../images/Driving-Value/icon1.svg"
+              },
+              {
+                "title": "Regulatory Compliance & Risk Mitigation",
+                "description": " Proactively implementing sustainable practices helps companies stay ahead of regulations, reducing legal risks.",
+                "logoURL": "../images/Driving-Value/icon1.svg"
+              },
+              {
+                "title": "Price Premiums & Market Differentiation",
+                "description": " Environmentally friendly options allow companies to charge premium prices and stand out in the market.",
+                "logoURL": "../images/Driving-Value/icon1.svg"
+              },
+              {
+                "title": "Enhanced Brand Reputation",
+                "description": " Commitment to sustainability builds trust and loyalty among customers and stakeholders.",
+                "logoURL": "../images/Driving-Value/icon1.svg"
+              },
+              {
+                "title": "Long-term Resilience & Competitiveness",
+                "description": " Reduces dependency on fossil fuels and stabilizes costs, ensuring market competitiveness.",
+                "logoURL": "../images/Driving-Value/icon1.svg"
+              },
+              {
+                "title": "Attracting Top Talent",
+                "description": " Companies with strong ESG commitments attract top talent, especially from younger generations prioritizing sustainability.",
+                "logoURL": "../images/Driving-Value/icon1.svg"
+              },
+              {
+                "title": "Innovation & Technological Advancement",
+                "description": " Drives development and adoption of cutting-edge technologies, improving efficiency and reducing environmental impact.",
+                "logoURL": "../images/Driving-Value/icon1.svg"
+              }
+        ]
+    },
+    "section8":{
+        "imageUrl":"/images/industryCta.png"
+    },
+    "section9":{
+        "heading":"Revolutionizing ESG Management with AI Driven Platform",
+        "description":"Experience the future of energy sustainability with our cloud-native, AI-driven ESG platform tailored for the industry. From advanced reporting to tailored interventions, our recommendation engine maximizes environmental impact and financial performance.",
+        "imageUrl": "/images/hero-2.png"
+    },
+    "section10":{
+        "heading":"SUSTAINABILITY FRAMEWORKS & DISCLOSURES",
+        "text":"From predefined frameworks to customizable options, Spectreco’s AI Driven platform streamlines sustainability disclosures tailored to your business needs. Access support for crafting audit-ready reports across all frameworks, ensuring compliance and meeting investor or customer demands seamlessly.",
+         "imageUrl": "/images/esgcompanies.png"
+
+    },
+    "section12":{
+        "heading": "Sustainable Success",
+        "highlightText": "Business Goals",
+        "description1": "At Spectreco, our sustainability approach intertwines environmental stewardship, social responsibility, and economic prosperity. We prioritize delivering value to our clients while placing paramount importance on safeguarding the planet and promoting social equity.",
+        "description2": "Collaborating with us empowers stakeholders to capitalize on new opportunities, adeptly manage risks, and emerge as trailblazers in sustainable advancement.",
+        "imageUrl": "/images/industrybinfra.png"
+    },
+    "keyskaeholderslider":{
+        "heading":"Transportation",
+       "components":[
+        {
+            "title": "GOVERNMENT & REGULATORY Authorities",
+            "description": " Shape policy, issue permits, and oversee compliance."
+          },
+          {
+            "title": "Processors, Distributors, & Suppliers",
+            "description": " Invest, operate projects, navigate markets."
+          },
+          {
+            "title": "Consumers & Community",
+            "description": " Influence demand, advocate for sustainability."
+            
+          },
+          {
+            "title": "Suppliers & Service Providers",
+            "description": " Support operations, provide services."
+            
+          },
+          {
+            "title": "Academic & Research Institutions",
+            "description": " Drive innovation, research energy solutions."
+            
+          }
+ 
+       ]
+ 
+    },
+    "secondSwiper":{
+        "heading":"Driving sustainability forward with ESG Technology & Consulting for the Transportation Sector",
+       "components":[
+        {
+            "title": "Risk & Opportunity",
+            "description": " Navigate ESG-aligned and opportunities for resilient, sustainable growth.",
+                   "imageUrl": "/images/esgcompanies.png"
+          },
+          {
+            "title": "Carbon Cleanse",
+            "description": " Streamline emission measurement and achive a successful transition to net zero.",
+                     "imageUrl": "/images/esgcompanies.png"
+          },
+          {
+            "title": "Governance & Oversight",
+            "description": " Promote transparency and accountability through compliance and ethical governance practices.",
+                     "imageUrl": "/images/esgcompanies.png"
+           
+          },
+          {
+            "title": "Reporting & Disclosures",
+            "description": " Enhance transparency and accountability through comprehensive reporting and disclosure practices.",
+                     "imageUrl": "/images/esgcompanies.png"
+           
+          },
+          {
+            "title": "Communication & Engagement",
+            "description": " Strenght stakeholder relationships for sustainable growth throught effective communication & engagement.",
+                     "imageUrl": "/images/esgcompanies.png"
+           
+          } 
+       ]
+ 
+    }
+    
+  },
+  "financialpage":{
+    "section1": {
+      "title": "ESG Excellence for Financial Institutions",
+      "description": "Achieve capital access, price premiums, and long-term resilience through expert ESG financial services and ESG financial consulting solutions tailored for Financial Institutions.",
+      "buttonText": "Book a session today!",
+       "imageUrl": "/images/buit-infra1.png"
+    },
+    "section2":{
+        "heading":"Financial Institutions",
+        "description":"In the Financial Institutions industry, expertise involves providing ESG financial consulting to banks, investment firms, insurers, and regulatory bodies to ensure economic stability and facilitate financial transactions. Navigating successfully within this dynamic ecosystem also requires a deep understanding of market intricacies, technological innovations, and regulatory frameworks."
+
+    },
+    "section3":{
+        "imageUrl":"/images/built-cta-2048x484.jpg"
+    },
+    "section4":{
+        "heading":"Financial Institutions ",
+        "components": [
+            { "title": "BANKING SECTOR", "imageUrl": "/images/transportationicon.png" },
+            { "title": "INVESTMENT MANAGEMENT", "imageUrl": "/images/utilitiesicon.png" },
+            { "title": "INSURANCE SECTOR", "imageUrl": "/images/publicicon.png" },
+            { "title": "FINANCIAL TECHNOLOGY", "imageUrl": "/images/socialicon.png" },
+            { "title": "REGULATORY & GOVERNANCE", "imageUrl": "/images/naturalicon.png" },
+            { "title": "CAPITAL MARKETS", "imageUrl": "/images/naturalicon.png" }
+           
+          ]
+    },
+    "section5":{
+        "component":[
+            {
+             "   title": "Lending Practices",
+                "content": [
+                  {
+                      "subtitle": "ESG Criteria for Sustainable Projects:",
+                      "description": "   Implementing Environmental, Social, and Governance (ESG) criteria in loan assessments through ESG financial consulting to fund sustainable projects, such as renewable energy initiatives or green infrastructure developments."
+                  },
+                  {
+                      "subtitle": "Financial Inclusion and Social Impact Financing:",
+                      "description": " Promoting financial inclusion by offering responsible lending products to underserved communities or financing projects with positive social impacts, like affordable housing initiatives."
+                  }
+                  
+              ],
+                
+                "imageURL": "/images/phases1.jpg"
+              },
+              {
+                "   title": "Investment Strategies",
+                   "content": [
+                     {
+                         "subtitle": "ESG Integration for Sustainable Portfolios:",
+                         "description": "  Integrating ESG factors into investment decisions through ESG financial services to align portfolios with sustainability goals and mitigate risks associated with climate change, social inequality, and governance issues."
+                     },
+                     {
+                         "subtitle": "Promoting Sustainable Business Practices:",
+                         "description": " Engaging with companies to promote sustainable business practices and transparency, encouraging them to adopt ESG best practices and disclose relevant information to investors."
+                     }
+
+                   
+                 ],
+                   
+                  "imageURL": "/images/phases2.jpg"
+                 },
+                 {
+                    "   title": "Operational Efficiency",
+                       "content": [
+                         {
+                             "subtitle": "Energy Efficiency and Sustainable Sourcing:",
+                             "description": " Adopting energy-efficient practices and sustainable sourcing strategies to reduce the environmental footprint of operations, including the use of renewable energy sources and sustainable supply chain management."
+                         },
+                         {
+                             "subtitle": "Responsible Waste Management and Recycling Initiatives:",
+                             "description": " Implementing responsible waste management and recycling initiatives to minimize environmental impact and promote circular economy principles within the organization."
+                         }
+                      
+                     ],
+                       
+                     "imageURL": "/images/phases3.jpg"
+                     },
+                     {
+                        "   title": "Risk Management",
+                           "content": [
+                             {
+                                 "subtitle": "ESG Risk Assessments for Climate and Compliance:",
+                                 "description": " Conducting ESG risk assessments as part of ESG financial services to identify and mitigate potential risks related to climate change, regulatory compliance, reputational damage, and social unrest."
+                             },
+                             {
+                                 "subtitle": "Scenario Analysis and Stress Testing for Sustainability Resilience:",
+                                 "description": " Incorporating scenario analysis and stress testing to evaluate the resilience of portfolios and business models against various sustainability-related risks and uncertainties."
+                             }
+                         ],
+                           
+                         "imageURL": "/images/phases4.jpg"
+                         },
+                         {
+                            "   title": "Corporate Governance",
+                               "content": [
+                                 {
+                                     "subtitle": "Board Diversity for Effective Oversight:",
+                                     "description": " Incorporating scenario analysis and stress testing to evaluate the resilience of portfolios and business models against various sustainability-related risks and uncertainties."
+                                 },
+                                 {
+                                     "subtitle": "Robust Governance for Transparency and Accountability:",
+                                     "description": " Establishing robust governance structures through ESG financial consulting to ensure transparency, accountability, and ethical conduct throughout the organization, including the implementation of whistleblower protection policies and anti-corruption measures."
+                                 }
+                             ],
+                               
+                             "imageURL": "/images/phases4.jpg"
+                             }
+                       
+        ]
+    },
+    "section6":{
+        "heading":"Driving Value through ESG",
+        "description":"By integrating ESG principles into financial institution’s operations, stakeholders can realize numerous benefits, enhancing financial performance while also advancing broader societal and environmental objectives."
+
+    },
+    "section7":{
+        "component":[
+            {
+                "title": "Enhanced Reputation and Brand Value",
+                "description": " Sustainable practices improve the reputation of financial institutions, attracting socially conscious investors and customers, ultimately bolstering brand value.",
+                "logoURL": "../images/Driving-Value/icon1.svg"
+              },
+              {
+                "title": "Access to Diverse Capital Sources",
+                "description": " Embracing sustainability through ESG financial consulting attracts capital from ESG-focused investors, broadening funding options and potentially lowering capital costs.",
+                "logoURL": "../images/Driving-Value/icon1.svg"
+              },
+              {
+                "title": "Reduced Regulatory Risks",
+                "description": " Proactively addressing environmental and social issues mitigates regulatory risks, ensuring compliance with evolving ESG regulations and avoiding penalties.",
+                "logoURL": "../images/Driving-Value/icon1.svg"
+              },
+              {
+                "title": "Long-term Financial Performance",
+                "description": " Integrating ESG factors into investment decisions enhances risk management and identifies growth opportunities, leading to sustainable long-term financial performance.",
+                "logoURL": "../images/Driving-Value/icon1.svg"
+              },
+              {
+                "title": "Resilience Against Market Volatility",
+                "description": " Sustainable practices build resilience against environmental and social shocks, reducing volatility and ensuring stability in the face of emerging risks.",
+                "logoURL": "../images/Driving-Value/icon1.svg"
+              },
+              {
+                "title": "Improved Customer Loyalty",
+                "description": " Meeting the growing demand for ethical and sustainable financial products and services enhances customer loyalty and retention, leading to increased market share and profitability.",
+                "logoURL": "../images/Driving-Value/icon1.svg"
+              },
+              {
+                "title": "Attracting Top Talent",
+                "description": " Emphasizing sustainability attracts top talent who are increasingly prioritizing companies with strong environmental and social commitments, fostering innovation and creativity within financial institutions.",
+                "logoURL": "../images/Driving-Value/icon1.svg"
+              },
+              {
+                "title": "Mitigation of Reputational Risks",
+                "description": " Sustainable practices mitigate reputational risks associated with environmental controversies or social injustices, safeguarding brand integrity and maintaining investor confidence.",
+                "logoURL": "../images/Driving-Value/icon1.svg"
+              },
+              {
+                "title": "Driving Innovation and Efficiency",
+                "description": " Pursuing sustainability fosters innovation in financial products, services, and processes, driving efficiency gains and creating competitive advantages in the market.",
+                "logoURL": "../images/Driving-Value/icon1.svg"
+              },
+              {
+                "title": "Contributing to Global Sustainability Goals",
+                "description": " Financial institutions play a critical role in advancing global sustainability goals by allocating capital to projects that address environmental challenges and promote social progress, driving positive societal impact.",
+                "logoURL": "../images/Driving-Value/icon1.svg"
+              }
+        ]
+    },
+    "section8":{
+        "imageUrl":"/images/industryCta.png"
+    },
+    "section9":{
+        "heading":"Revolutionizing ESG Management with AI Driven Platform",
+        "description":"Experience the future of financial institution’s sustainability with our cloud-native, AI-driven ESG platform tailored for the industry. From advanced reporting to tailored interventions, our recommendation engine maximizes environmental impact and financial performance.",
+        "imageUrl": "/images/hero-2.png"
+    },
+    "section10":{
+        "heading":"SUSTAINABILITY FRAMEWORKS & DISCLOSURES",
+        "text":"From predefined frameworks to customizable options, Spectreco’s AI Driven platform streamlines sustainability disclosures tailored to your business needs. Access support for crafting audit-ready reports across all frameworks, ensuring compliance and meeting investor or customer demands seamlessly.",
+         "imageUrl": "/images/esgcompanies.png"
+
+    },
+    "section12":{
+        "heading": "Sustainable Success",
+        "highlightText": "Business Goals",
+        "description1": "At Spectreco, our sustainability approach intertwines environmental stewardship, social responsibility, and economic prosperity. We prioritize delivering value to our clients while placing paramount importance on safeguarding the planet and promoting social equity.",
+        "description2": "Collaborating with us in the energy sector empowers stakeholders to capitalize on new opportunities, adeptly manage risks, and emerge as trailblazers in sustainable energy advancement.",
+        "imageUrl": "/images/industrybinfra.png"
+    },
+    "keyskaeholderslider":{
+        "heading":"Financial",
+       "components":[
+        {
+            "title": "Customers & Community",
+            "description": " Indiviuals, businesses, and local communities utilize financial services, shaping public perception."
+          },
+          {
+            "title": "Investors, Shareholders, & Regulators",
+            "description": " Individuals, institutions, and government bodies oversee compliance, stability, and ownership interests."
+          },
+          {
+            "title": "Employees & Suppliers",
+            "description": " Personnel and service providers contributiong to financial operations and customer service."
+            
+          },
+          {
+            "title": "Industry Association",
+            "description": " Other institutions vie for market share and industry dominance, alongside associations advocating industry interests."
+            
+          }
+ 
+       ]
+ 
+    },
+    "secondSwiper":{
+        "heading":"Driving sustainability forward with ESG Technology & Consulting for the Financial Sector",
+       "components":[
+        {
+            "title": "Risk & Opportunity",
+            "description": " Navigate ESG-aligned and opportunities for resilient, sustainable growth.",
+                   "imageUrl": "/images/esgcompanies.png"
+          },
+          {
+            "title": "Carbon Cleanse",
+            "description": " Streamline emission measurement and achive a successful transition to net zero.",
+                     "imageUrl": "/images/esgcompanies.png"
+          },
+          {
+            "title": "Governance & Oversight",
+            "description": " Promote transparency and accountability through compliance and ethical governance practices.",
+                     "imageUrl": "/images/esgcompanies.png"
+           
+          },
+          {
+            "title": "Reporting & Disclosures",
+            "description": " Enhance transparency and accountability through comprehensive reporting and disclosure practices.",
+                     "imageUrl": "/images/esgcompanies.png"
+           
+          },
+          {
+            "title": "Communication & Engagement",
+            "description": " Strenght stakeholder relationships for sustainable growth throught effective communication & engagement.",
+                     "imageUrl": "/images/esgcompanies.png"
+           
+          } 
+       ]
+ 
+    }
+    
+  },
+  "capitalmarketspage":{
+    "section1": {
+      "title": "ESG Consulting for Capital Markets",
+      "description": "Unlocking value through sustainable strategies and expert capital markets consulting, enabling growth and resilience in ESG-focused operations.",
+      "buttonText": "Book a session today!",
+       "imageUrl": "/images/buit-infra1.png"
+    },
+    "section2":{
+        "heading":"ESG Technology & Consulting for Capital Markets",
+        "description":"The Capital Markets industry serves as the bedrock of global economies, facilitating the exchange of financial securities. With capital markets consulting and the integration of ESG capital markets strategies, this sector can achieve resilience and sustainable growth. It encompasses diverse activities, including stock exchanges, investment banking, and asset management."
+
+    },
+    "section3":{
+        "imageUrl":"/images/built-cta-2048x484.jpg"
+    },
+    "section4":{
+        "heading":"Capital Markets",
+        "components": [
+            { "title": "STOCK EXCHANGES", "imageUrl": "/images/transportationicon.png" },
+            { "title": "INVESTMENT BANKS", "imageUrl": "/images/utilitiesicon.png" },
+            { "title": "ASSET MANAGERS", "imageUrl": "/images/publicicon.png" },
+            { "title": "REGULAOTRY BODIES", "imageUrl": "/images/socialicon.png" },
+            { "title": "INVESTORS", "imageUrl": "/images/naturalicon.png" },
+            { "title": "CORPORATE ISSUERS", "imageUrl": "/images/naturalicon.png" }
+           
+          ]
+    },
+    "section5":{
+        "component":[
+            {
+             "   title": "Pre-IPO & Fundraising",
+                "content": [
+                  {
+                      "subtitle": "Risk Assessment:",
+                      "description": "   Comprehensive due diligence is essential, including evaluating environmental, social, and governance (ESG) risks through ESG capital markets strategies, ensuring robust compliance and informed decision-making."
+                  },
+                  {
+                      "subtitle": "Stakeholder Engagement:",
+                      "description": " Engaging with stakeholders, including investors, regulatory bodies, and local communities, to address concerns and build trust fosters long-term relationships and enhances the company’s reputation."
+                  },
+                  {
+                      "subtitle": "Sustainable Financing Options:",
+                      "description": " Leveraging capital markets consulting to explore sustainable financing instruments such as green bonds or social impact bonds ensures alignment with ESG objectives and attracts socially responsible investors."
+                  }
+                  
+              ],
+                
+                "imageURL": "/images/phases1.jpg"
+              },
+              {
+                "   title": "Trading & Investment",
+                   "content": [
+                     {
+                         "subtitle": "ESG Integration:",
+                         "description": "  Capital markets consulting can streamline the incorporation of ESG criteria into investment decisions, ensuring alignment with sustainable development goals while enhancing portfolio resilience."
+                     },
+                     {
+                         "subtitle": "Impact Investing:",
+                         "description": " ESG capital markets strategies allow for identifying impactful investment opportunities that generate positive social or environmental outcomes alongside financial returns."
+                     },
+                     {
+                         "subtitle": "Transparency & Disclosure:",
+                         "description": " Promoting transparency through comprehensive ESG reporting enables investors to make informed decisions and holds companies accountable for their environmental and social performance."
+                     }
+
+                   
+                 ],
+                   
+                  "imageURL": "/images/phases2.jpg"
+                 },
+                 {
+                    "   title": "Post-IPO & Reporting",
+                       "content": [
+                         {
+                             "subtitle": "ESG Performance Monitoring:",
+                             "description": " Continuously monitoring and reporting on ESG performance metrics allows companies to track progress, identify areas for improvement, and demonstrate commitment to sustainability to investors and other stakeholders."
+                         },
+                         {
+                             "subtitle": "Regulatory Compliance:",
+                             "description": " Staying abreast of evolving ESG regulations and reporting requirements ensures compliance and reduces regulatory risks, safeguarding the company’s reputation and shareholder value."
+                         },
+                         {
+                             "subtitle": "Stakeholder Engagement:",
+                             "description": " Engaging with investors, customers, employees, and other stakeholders on ESG matters fosters dialogue, builds trust, and strengthens relationships, driving long-term value creation and resilience."
+                         }
+                      
+                     ],
+                       
+                     "imageURL": "/images/phases3.jpg"
+                     }              
+        ]
+    },
+    "section6":{
+        "heading":"Driving Value through ESG",
+        "description":"By integrating ESG principles into capital markets’ operations, stakeholders can realize numerous benefits, enhancing financial performance while also advancing broader societal and environmental objectives."
+
+    },
+    "section7":{
+        "component":[
+            {
+                "title": "Enhanced Access to Capital",
+                "description": " With expert capital markets consulting, companies can expand their investor base and improve liquidity through sustainability-focused strategies, fostering resilience and stability.",
+                "logoURL": "../images/Driving-Value/icon1.svg"
+              },
+              {
+                "title": "Premium Valuation",
+                "description": " Higher valuation and price premiums for companies with strong ESG profiles, reflecting long-term viability and risk mitigation strategies.",
+                "logoURL": "../images/Driving-Value/icon1.svg"
+              },
+              {
+                "title": "Risk Mitigation",
+                "description": " Proactive management of ESG risks, supported by ESG capital markets expertise, safeguards shareholder value and market confidence, ensuring long-term security.",
+                "logoURL": "../images/Driving-Value/icon1.svg"
+              },
+              {
+                "title": "Market Leadership and Differentiation",
+                "description": " Market Leadership and Differentiation Establish market leadership and differentiation through sustainable practices, enhance brand reputation, and attract top talent, leading to sustainable growth and competitive advantage in the industry.",
+                "logoURL": "../images/Driving-Value/icon1.svg"
+              }
+        ]
+    },
+    "section8":{
+        "imageUrl":"/images/industryCta.png"
+    },
+    "section9":{
+        "heading":"Revolutionizing ESG Capital Markets Management with AI Driven Platform",
+        "description":"Experience the future of capital markets sustainability with our cloud-native, AI-driven ESG platform tailored for the industry. From advanced reporting to tailored interventions, our recommendation engine maximizes environmental impact and financial performance.",
+        "imageUrl": "/images/hero-2.png"
+    },
+    "section10":{
+        "heading":"SUSTAINABILITY FRAMEWORKS & DISCLOSURES",
+        "text":"From predefined frameworks to customizable options, Spectreco’s AI Driven platform streamlines sustainability disclosures tailored to your business needs. Access support for crafting audit-ready reports across all frameworks, ensuring compliance and meeting investor or customer demands seamlessly.",
+         "imageUrl": "/images/esgcompanies.png"
+
+    },
+    "section12":{
+        "heading": "Sustainable Success",
+        "highlightText": "Business Goals",
+        "description1": "At Spectreco, our Capital Markets Consulting approach intertwines environmental stewardship, social responsibility, and economic prosperity. We prioritize delivering value to our clients while placing paramount importance on safeguarding the planet, promoting social equity, and supporting Net Zero transition solutions.",
+        "description2": "Collaborating with us empowers stakeholders to capitalize on new opportunities, effectively manage risks, and establish themselves as trailblazers in sustainable advancement.",
+        "imageUrl": "/images/industrybinfra.png"
+    },
+    "keyskaeholderslider":{
+        "heading":"Capital Markets",
+       "components":[
+        {
+            "title": "Financial Institutions",
+            "description": " Banks, asset managers, and insurers seek to align investments with sustainability objectives."
+          },
+          {
+            "title": "Corporates",
+            "description": " Publicly traded companies looking to enhance ESG disclousre and integrate sustainability into their business stategies."
+          },
+          {
+            "title": "Investors",
+            "description": " institutional inestors, asset managers, and retail investors prioritize sustainable investment opportunities."
+            
+          },
+          {
+            "title": "Regulators",
+            "description": " Regulatory bodies and standard-setting organizations driving ESG disclosure and transparency requirements."
+            
+          }
+ 
+       ]
+ 
+    },
+    "secondSwiper":{
+        "heading":"Driving sustainability forward with ESG Technology & Consulting for the Capital Markets Sector",
+       "components":[
+        {
+            "title": "Risk & Opportunity",
+            "description": " Navigate ESG-aligned and opportunities for resilient, sustainable growth.",
+                   "imageUrl": "/images/esgcompanies.png"
+          },
+          {
+            "title": "Carbon Cleanse",
+            "description": " Streamline emission measurement and achive a successful transition to net zero.",
+                     "imageUrl": "/images/esgcompanies.png"
+          },
+          {
+            "title": "Governance & Oversight",
+            "description": " Promote transparency and accountability through compliance and ethical governance practices.",
+                     "imageUrl": "/images/esgcompanies.png"
+           
+          },
+          {
+            "title": "Reporting & Disclosures",
+            "description": " Enhance transparency and accountability through comprehensive reporting and disclosure practices.",
+                     "imageUrl": "/images/esgcompanies.png"
+           
+          },
+          {
+            "title": "Communication & Engagement",
+            "description": " Strenght stakeholder relationships for sustainable growth throught effective communication & engagement.",
+                     "imageUrl": "/images/esgcompanies.png"
+           
+          } 
+       ]
+ 
+    }
+    
+  },
+  "insuransepage":{
+    "section1": {
+      "title": "Elevating the Insurance Industry with ESG Expertise",
+      "highlightedText": "Infrastructure Development and Built Environment Sustainability",
+      "title2":"with ESG Expertise",
+      "description": "Unlocking value through ESG expertise elevates insurance by fostering profitability, ensuring compliance with regulations, simplifying processes, and focusing on built infrastructure across various jurisdictions and frameworks.",
+      "buttonText": "Book a session today!",
+       "imageUrl": "/images/buit-infra1.png"
+    },
+    "section2":{
+        "heading":"Insurance Consulting Services",
+        "description":"The insurance industry operates at the intersection of risk management, financial services, and customer protection, providing coverage against unforeseen events and offering financial security to individuals and businesses alike. With a deep understanding of market dynamics, regulatory frameworks, and emerging trends, industry experts and investment bankers navigate complexities to optimize insurance strategy and drive sustainable growth in this vital sector."
+
+    },
+    "section3":{
+        "imageUrl":"/images/built-cta-2048x484.jpg"
+    },
+    "section4":{
+        "heading":"Key Components of the Insurance Ecosystem",
+        "components": [
+            { "title": "INSURENCE PRODUCTS", "imageUrl": "/images/transportationicon.png" },
+            { "title": "INSURENCE COMPANIES", "imageUrl": "/images/utilitiesicon.png" },
+            { "title": "POLICYHOLDERS", "imageUrl": "/images/publicicon.png" },
+            { "title": "REGULATORY AUTHORITIES", "imageUrl": "/images/socialicon.png" },
+            { "title": "REINSURERS", "imageUrl": "/images/naturalicon.png" },
+            { "title": "RISK & CLAIM MANAGEMENT", "imageUrl": "/images/digitalicon.png" },
+            { "title": "TECHNOLOGY", "imageUrl": "/images/digitalicon.png" },
+            { "title": "ACTUARIAL SERVICES", "imageUrl": "/images/digitalicon.png" },
+            { "title": "DISTRIBUTION", "imageUrl": "/images/digitalicon.png" },
+            { "title": "ANCILLARY SERVICES", "imageUrl": "/images/digitalicon.png" }
+           
+          ]
+    },
+    "section5":{
+        "component":[
+            {
+             "   title": "Product Development",
+                "content": [
+                  {
+                      "subtitle": "Sustainable Product Design:",
+                      "description": " Incorporating sustainability criteria in the design and development of insurance products to address emerging environmental and social risks Green Product."
+                  },
+                  {
+                      "subtitle": "Offerings:",
+                      "description": " Developing insurance products for green technologies, renewable energy projects, and eco-friendly practices."
+                  },
+                  {
+                      "subtitle": "Innovative Risk Solutions:",
+                      "description": "Creating products of clients to adopt sustainable practices, such as discounts for eco-friendly behaviors."
+                  }
+                 
+                  
+              ],
+                
+                "imageURL": "/images/phases1.jpg"
+              },
+              {
+                "   title": "Underwriting and Risk Assessment",
+                   "content": [
+                     {
+                         "subtitle": "ESG Risk Evaluation:",
+                         "description": "   Utilizing ESG (Environmental, Social, and Governance) factors in evaluating risks and setting premiums to promote sustainable practices and mitigate long-term liabilities."
+                     },
+                     {
+                         "subtitle": "Climate Risk Assessment:",
+                         "description": " Assessing the impact of climate change on risk profiles and adjusting underwriting criteria accordingly."
+                     },
+                     {
+                         "subtitle": "Data-Driven Insights:",
+                         "description": " Leveraging big data and analytics to better understand and price sustainability-related risks."
+                     }
+                   
+                 ],
+                   
+                  "imageURL": "/images/phases2.jpg"
+                 },
+                 {
+                    "   title": "Claims Management",
+                       "content": [
+                         {
+                             "subtitle": "Sustainable Claims Handling:",
+                             "description": " Implementing sustainable claims handling processes to ensure prompt and fair resolution while minimizing environmental impact and social disruption."
+                         },
+                         {
+                             "subtitle": "Green Repairs and Replacements:",
+                             "description": " Encouraging the use of environmentally friendly materials and methods in repairs and replacements."
+                         },
+                         {
+                             "subtitle": "Digital Claims Processing:",
+                             "description": " Reducing paper usage and improving efficiency through digital claims management systems."
+                         }
+                      
+                     ],
+                       
+                     "imageURL": "/images/phases3.jpg"
+                     },
+                     {
+                        "   title": "Customer Engagement",
+                           "content": [
+                             {
+                                 "subtitle": "Policyholder Education:",
+                                 "description": " Educating policyholders about sustainability initiatives and encouraging environmentally friendly behaviors to promote a culture of responsible insurance consumption."
+                             },
+                             {
+                                 "subtitle": "Sustainability Incentives:",
+                                 "description": " Showcase energy-efficient installations, such as renewable energy systems and smart building technologies, to enhance property value and appeal to sustainability-minded occupants."
+                             },
+                             {
+                                 "subtitle": "Sustainable Incentives:",
+                                 "description": " Offering rewards and incentives for policyholders who adopt sustainable practices."
+                             },
+                             {
+                                 "subtitle": "Community Involvement:",
+                                 "description": " Engaging with communities to support local sustainability initiatives and raise awareness about environmental issues."
+                             }
+                            
+                         ],
+                           
+                         "imageURL": "/images/phases4.jpg"
+                         },
+                         {
+                            "   title": "Investment Management",
+                               "content": [
+                                 {
+                                     "subtitle": "ESG Investment Integration:",
+                                     "description": "Integrating ESG considerations into investment decisions to align insurance company portfolios with sustainability goals and drive positive societal impact."
+                                 },
+                                 {
+                                     "subtitle": "Sustainable Investment Products:",
+                                     "description": " Developing investment products focused on green bonds, renewable energy, and other sustainable sectors."
+                                 },
+                                 {
+                                     "subtitle": "Impact Investing:",
+                                     "description": " Allocating capital to projects and companies that generate measurable social and environmental benefits alongside financial returns."
+                                 }
+                               
+                             ],
+                               
+                             "imageURL": "/images/phases5.jpg"
+                             },
+                             {
+                                "   title": "Regulatory Compliance",
+                                   "content": [
+                                     {
+                                         "subtitle": "Sustainability Reporting:",
+                                         "description": "Adhering to regulatory requirements related to sustainability reporting, disclosure, and compliance to uphold transparency and accountability in insurance operations."
+                                     },
+                                     {
+                                         "subtitle": "Compliance Monitoring:",
+                                         "description": "  Implementing robust systems to monitor and ensure compliance with evolving sustainability regulations and standards."
+                                     },
+                                     {
+                                         "subtitle": "Stakeholder Communication:",
+                                         "description": " Maintaining clear and open communication with stakeholders regarding sustainability efforts and regulatory compliance."
+                                     }
+                                   
+                                 ],
+                                   
+                                 "imageURL": "/images/phases5.jpg"
+                                 },
+                                 {
+                                    "   title": "Marketing and Sales",
+                                       "content": [
+                                         {
+                                             "subtitle": "ESG Marketing Strategies:",
+                                             "description": "Strategically showcasing sustainable features to appeal to environmentally conscious buyers and tenants."
+                                         },
+                                         {
+                                             "subtitle": "Green Branding:",
+                                             "description": "  Promoting the company’s commitment to sustainability through marketing campaigns and brand positioning."
+                                         },
+                                         {
+                                             "subtitle": "Customer Engagement:",
+                                             "description": "  Leveraging digital platforms to interact with customers and promote sustainability initiatives."
+                                         }
+                                       
+                                     ],
+                                       
+                                     "imageURL": "/images/phases5.jpg"
+                                     },
+                                     {
+                                        "   title": "Technology Integration",
+                                           "content": [
+                                             {
+                                                 "subtitle": "Digital Transformation:",
+                                                 "description": " Utilizing technology to enhance sustainability efforts, such as paperless transactions and automated processes."
+                                             },
+                                             {
+                                                 "subtitle": "Green Technologies:",
+                                                 "description": "  Investing in and implementing technologies that reduce the company’s environmental footprint."
+                                             },
+                                             {
+                                                 "subtitle": "Data Analytics:",
+                                                 "description": "Using data analytics to track and improve sustainability metrics across operations."
+                                             }
+                                           
+                                         ],
+                                           
+                                         "imageURL": "/images/phases5.jpg"
+                                         },
+                                         {
+                                            "   title": "Employee Engagement",
+                                               "content": [
+                                                 {
+                                                     "subtitle": "Sustainability Training:",
+                                                     "description": "Providing employees with training and resources to understand and contribute to sustainability goals."
+                                                 },
+                                                 {
+                                                     "subtitle": "Green Workplace Initiatives:",
+                                                     "description": " Implementing programs that encourage employees to adopt sustainable practices in the workplace."
+                                                 },
+                                                 {
+                                                     "subtitle": "Corporate Culture",
+                                                     "description": "Fostering a corporate culture that prioritizes sustainability and environmental responsibility."
+                                                 }
+                                               
+                                             ],
+                                               
+                                             "imageURL": "/images/phases5.jpg"
+                                             }
+        ]
+    },
+    "section6":{
+        "heading":"Driving Value through ESG",
+        "description":"By integrating ESG principles into insurance operations, stakeholders can reap numerous benefits, enhancing financial performance while also advancing broader societal and environmental objectives."
+
+    },
+    "section7":{
+        "component":[
+            {
+                "title": "Enhanced Risk Management",
+                "description": " Leveraging ESG factors for comprehensive risk evaluation ensures better pricing and reduced potential losses.",
+                "logoURL": "../images/Driving-Value/icon1.svg"
+              },
+              {
+                "title": "Access to Capital",
+                "description": " Sustainable methods rejuvenate soil fertility, bolstering crop yields and long-term sustainability.",
+                "logoURL": "../images/Driving-Value/icon1.svg"
+              },
+              {
+                "title": "Increased Profitability",
+                "description": " Sustainable practices fortify agricultural operations against environmental challenges, ensuring long-term productivity and livelihood security.",
+                "logoURL": "../images/Driving-Value/icon1.svg"
+              },
+              {
+                "title": "Compliance and Regulatory Benefits",
+                "description": " ESG integration ensures compliance with evolving regulations, mitigating penalties and enhancing reputation.",
+                "logoURL": "../images/Driving-Value/icon1.svg"
+              },
+              {
+                "title": "Enhanced Customer Relationships",
+                "description": " ESG-aligned insurance products increase customer satisfaction and long-term loyalty.",
+                "logoURL": "../images/Driving-Value/icon1.svg"
+              },
+              {
+                "title": "Improved Brand and Reputation",
+                "description": " Commitment to ESG principles enhances the insurer’s reputation and attractiveness to stakeholders.",
+                "logoURL": "../images/Driving-Value/icon1.svg"
+              },
+              {
+                "title": "Long-Term Value Creation",
+                "description": " Proactive sustainability measures ensure compliance with regulations and standards, securing market access and investment.",
+                "logoURL": "../images/Driving-Value/icon1.svg"
+              },
+              {
+                "title": "Innovation and Product Development",
+                "description": " Developing insurance products that promote sustainability drives innovation and meets market demand.",
+                "logoURL": "../images/Driving-Value/icon1.svg"
+              },
+              {
+                "title": "Investor Confidence",
+                "description": " Transparent ESG practices build investor confidence, potentially leading to higher stock valuations and greater investment interest.",
+                "logoURL": "../images/Driving-Value/icon1.svg"
+              },
+              {
+                "title": "Community Impact",
+                "description": "Engaging with communities and stakeholders on ESG issues can enhance the company’s social license to operate.",
+                "logoURL": "../images/Driving-Value/icon1.svg"
+              }
+        ]
+    },
+    "section8":{
+        "imageUrl":"/images/industryCta.png"
+    },
+    "section9":{
+        "heading":"Sustainable Reporting Simplified",
+        "description":"Experience the future of insurance sustainability with our cloud-native, AI-driven ESG platform tailored for the industry. From advanced reporting to tailored interventions, our recommendation engine maximizes environmental impact and financial performance.",
+        "imageUrl": "/images/hero-2.png"
+    },
+    "section10":{
+        "heading":"SUSTAINABILITY FRAMEWORKS & DISCLOSURES",
+        "text":"From predefined frameworks to customizable options, Spectreco’s AI Driven platform streamlines sustainability disclosures tailored to your business needs. Access support for crafting audit-ready reports across all frameworks, ensuring compliance and meeting investor or customer demands seamlessly.",
+         "imageUrl": "/images/esgcompanies.png"
+
+    },
+    "section12":{
+        "heading": "Sustainable Success",
+        "highlightText": "Integrating Business Goals with Environmental Impact",
+        "description1": "At Spectreco, our sustainability approach intertwines environmental stewardship, social responsibility, and economic prosperity. We prioritize delivering value to our clients while placing paramount importance on safeguarding the planet and promoting social equity.",
+        "description2": "Collaborating with us in the empowers stakeholders to capitalize on new opportunities, adeptly manage risks, and emerge as trailblazers in sustainable advancement.",
+        "imageUrl": "/images/industrybinfra.png"
+    },
+    "keyskaeholderslider":{
+        "heading":"Insurence",
+       "components":[
+        {
+            "title": "Insurence Regulators",
+            "description": " Government agencies and regulatory bodies are responsible for overseeing and regulating insurence activities, ensuring compliance with laws and regulation to protect consumer intrest."
+          },
+          {
+            "title": "Insurance Companies",
+            "description": " Primary providers of insurance products and consulting services, including underwriters, brokers, and agents who design, market, and sell insurance policies to policyholders."
+          },
+          {
+            "title": "Policyholders",
+            "description": " Individuals, businesses, and organizations purchase insurance coverage to protect against financial losses and mitigate risks."
+           
+          },
+          {
+            "title": "Reinsurers",
+            "description": " Companies that provide insurance to insurance companies, help to spread risk and enhance the overall financial stability of the insurance market"
+           
+          },
+          {
+            "title": "Insurance Intermediaries",
+            "description": " Agents, brokers, and consultants facilitate transactions between insurance companies and policyholders, providing consulting services and helping clients select appropriate coverage"
+           
+          },
+          {
+            "title": "Technology Providers",
+            "description": " Companies developing and implementing innovative technology solutions to improve operational efficiency, streamline processes, and enhance customer experience in the insurance industry."
+           
+          },
+          {
+            "title": "Risk Management Professionals",
+            "description": " Experts in assessing, mitigating, and managing risks for insurance companies and policyholders, offering critical insights and a clear-cut strategy to minimize potential losses."
+           
+          },
+          {
+            "title": "Claims Management Services",
+            "description": " Specialists handle the efficient and equitable resolution of insurance claims, ensuring policyholders receive timely compensation in line with their coverage."
+           
+          },
+          {
+            "title": "Actuaries",
+            "description": " Professionals skilled in statistical analysis and risk assessment, providing vital data and models to help insurance companies set premiums and maintain financial reserves"
+           
+          },
+          {
+            "title": "Ancillary Service Providers",
+            "description": " Companies offering supplementary services such as legal assistance, medical support, and emergency response, enhance the value of insurance products and improve customer satisfaction."
+           
+          },
+          {
+            "title": "Investors and Shareholders",
+            "description": " Individuals and entities that invest in insurance companies, seek returns on their investments and influence corporate strategies through governance and capital provision."
+           
+          }
+   
+       ]
+   
+    },
+    "secondSwiper":{
+        "heading":"Insurence",
+       "components":[
+        {
+            "title": "Risk & Opportunity",
+            "description": " Navigate ESG-aligned risks and opportunities for resilient, sustainable growth.",
+                   "imageUrl": "/images/esgcompanies.png"
+          },
+          {
+            "title": "Carbon Cleanse",
+            "description": " Streamline emission measurement and achive a successful transition to net zero.",
+                     "imageUrl": "/images/esgcompanies.png"
+          },
+          {
+            "title": "Waste Management",
+            "description": " Streamline emission measurement and achive a successful transition to net zero.",
+                     "imageUrl": "/images/esgcompanies.png"
+           
+          },
+          {
+            "title": "Sustainable Supply Chain",
+            "description": " Streamline and optimize supply chain sustainability efforts with responsible sourcing practice.",
+                     "imageUrl": "/images/esgcompanies.png"
+           
+          },
+          {
+            "title": "Governance & Oversight",
+            "description": " Promote transparency and accountability through compliance and ethical governance practices.",
+                     "imageUrl": "/images/esgcompanies.png"
+           
+          },
+          {
+            "title": "Reporting & Disclosures",
+            "description": " Enhance transparency and accountability through comprehensive reporting and practices.",
+                     "imageUrl": "/images/esgcompanies.png"
+           
+          },
+          {
+            "title": "Communication & Engagement",
+            "description": " Strengthen stakeholder relationships for sustainable growth through effective communication & engagement.",
+                     "imageUrl": "/images/esgcompanies.png"
+           
+          },
+          {
+            "title": "Community Impact",
+            "description": " Foster growth and prosperity through community centric initiatives and employee engagement.",
+                     "imageUrl": "/images/esgcompanies.png"
+           
+          }
+       ]
+   
+    }
+    
+  }
 }
+  
+
+  
